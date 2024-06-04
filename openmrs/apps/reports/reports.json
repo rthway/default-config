@@ -625,6 +625,38 @@
       ]
     }
   },
+  "09_Reproductive_Health_Morbidity_Service": {
+    "name": "09_Reproductive_Health_Morbidity_Service",
+    "DHISProgram": true,
+    "type": "concatenated",
+    "config": {
+      "reports": [
+        {
+          "name": "test",
+          "type": "MRSGeneric",
+          "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/reports/hmis/09_Reproductive_Health_Morbidity_Service/test.sql"
+          }
+        }
+      ]
+    }
+  },
+  "10-02_New_Born_Care": {
+    "name": "10-02_New_Born_Care",
+    "DHISProgram": true,
+    "type": "concatenated",
+    "config": {
+      "reports": [
+        {
+          "name": "test",
+          "type": "MRSGeneric",
+          "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/reports/hmis/10-02_New_Born_Care/test.sql"
+          }
+        }
+      ]
+    }
+  },
   "11_Malaria_Elimination_Program": {
     "name": "11_Malaria_Elimination_Program",
     "type": "concatenated",
@@ -1144,6 +1176,22 @@
       ]
     }
   },
+  "17_Non_Communicable_Disease": {
+    "name": "17_Non_Communicable_Disease",
+    "DHISProgram": true,
+    "type": "concatenated",
+    "config": {
+      "reports": [
+        {
+          "name": "test",
+          "type": "MRSGeneric",
+          "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/reports/hmis/17_Non_Communicable_Disease/test.sql"
+          }
+        }
+      ]
+    }
+  },
   "18_New_Outpatient_Morbidity_2": {
     "name": "18_New_Outpatient_Morbidity_2",
     "DHISProgram": true,
@@ -1418,11 +1466,75 @@
     }
   },
   "20_Gender_Equity_and_Social_Inclusion_HIV-AIDS": {
-    "name": "Gender Equity and Social Inclusion HIV AIDS",
+    "name": "20_Gender_Equity_and_Social_Inclusion_HIV-AIDS",
     "type": "ElisGeneric",
     "DHISProgram": true,
     "config": {
       "sqlPath": "/var/www/bahmni_config/openmrs/reports/hmis/20_Gender_Equity_and_Social_Inclusion/Gender_Equity_and_Social_Inclusion_HIV.sql"
+    }
+  },
+  "21_Geriatric_Services": {
+    "name": "21_Geriatric_Services",
+    "DHISProgram": true,
+    "type": "concatenated",
+    "config": {
+      "reports": [
+        {
+          "name": "test",
+          "type": "MRSGeneric",
+          "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/reports/hmis/21_Geriatric_Services/test.sql"
+          }
+        }
+      ]
+    }
+  },
+  "22_One-stop_Crisis_Management_Center": {
+    "name": "22_One-stop_Crisis_Management_Center",
+    "DHISProgram": true,
+    "type": "concatenated",
+    "config": {
+      "reports": [
+        {
+          "name": "test",
+          "type": "MRSGeneric",
+          "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/reports/hmis/22_One-stop_Crisis_Management_Center/test.sql"
+          }
+        }
+      ]
+    }
+  },
+  "23_Social_Security_Unit": {
+    "name": "23_Social_Security_Unit",
+    "DHISProgram": true,
+    "type": "concatenated",
+    "config": {
+      "reports": [
+        {
+          "name": "test",
+          "type": "MRSGeneric",
+          "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/reports/hmis/23_Social_Security_Unit/test.sql"
+          }
+        }
+      ]
+    }
+  },
+  "24_Nutrition_Rehablitation_Center": {
+    "name": "24_Nutrition_Rehablitation_Center",
+    "DHISProgram": true,
+    "type": "concatenated",
+    "config": {
+      "reports": [
+        {
+          "name": "test",
+          "type": "MRSGeneric",
+          "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/reports/hmis/24_Nutrition_Rehablitation_Center/test.sql"
+          }
+        }
+      ]
     }
   },
   
