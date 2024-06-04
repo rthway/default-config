@@ -1,0 +1,257 @@
+{
+  "orgUnit": "mPO6LgjseUd",
+  "dataSetIdFamily": "JOAyT4yOEcs",
+  "reports": {
+    "Family Planning Program all temporary methods": {
+      "dataValues": [
+        {
+          " _comment": "Family Planning-Temporary New User-Sayana Press <20 Year",
+          "categoryOptionCombo": "o6KMyyni9Vl",
+          "dataElement": "CbNdtgDWXFY",
+          "row": 2,
+          "column": 2
+        },
+        {
+          " _comment": "Family Planning-Temporary New User-Sayana Press >=20 Year",
+          "categoryOptionCombo": "UGR7o8AHNH2",
+          "dataElement": "CbNdtgDWXFY",
+          "row": 2,
+          "column": 3
+        },
+        {
+          " _comment": "Family Planning-Temporary Current User-Sayana Press default",
+          "categoryOptionCombo": "kdsirVNKdhm",
+          "dataElement": "cbThwNwFptm",
+          "row": 2,
+          "column": 5
+        },
+        {
+          " _comment": "Family Planning-Temporary Discontinued-Sayana Press default",
+          "categoryOptionCombo": "kdsirVNKdhm",
+          "dataElement": "XeiCRRePutJ",
+          "row": 2,
+          "column": 6
+        },
+        {
+          " _comment": "Family Planning Program-Temporary FP Method-Pills-New Users <20 Years default",
+          "categoryOptionCombo": "kdsirVNKdhm",
+          "dataElement": "oCqILrkoRPB",
+          "row": 3,
+          "column": 2
+        },
+        {
+          " _comment": "Family Planning Program-Temporary FP Method-Pills-New Users >=20 Years default",
+          "categoryOptionCombo": "kdsirVNKdhm",
+          "dataElement": "zUPRuBqSSgY",
+          "row": 3,
+          "column": 3
+        },
+        {
+          " _comment": "Family Planning Program-Temporary FP Method-Pills-Current User default",
+          "categoryOptionCombo": "kdsirVNKdhm",
+          "dataElement": "Mg77ZuyM6fe",
+          "row": 3,
+          "column": 5
+        },
+        {
+          " _comment": "Family Planning Program-Temporary FP Method-Pills-Discontinued/Removed default",
+          "categoryOptionCombo": "kdsirVNKdhm",
+          "dataElement": "fPdwKS6tcyn",
+          "row": 3,
+          "column": 6
+        },
+        {
+          " _comment": "Family Planning Program-Temporary FP Method-Depo-New Users <20 Years default",
+          "categoryOptionCombo": "kdsirVNKdhm",
+          "dataElement": "AnmhKKJgX2G",
+          "row": 8,
+          "column": 2
+        },
+        {
+          " _comment": "Family Planning Program-Temporary FP Method-Depo-New Users 20 Years default",
+          "categoryOptionCombo": "kdsirVNKdhm",
+          "dataElement": "FCqWVnEwIeX",
+          "row": 8,
+          "column": 3
+        },
+        {
+          " _comment": "Family Planning Program-Temporary FP Method-Depo-Current User default",
+          "categoryOptionCombo": "kdsirVNKdhm",
+          "dataElement": "tobLk0FbS9k",
+          "row": 8,
+          "column": 5
+        },
+        {
+          " _comment": "Family Planning Program-Temporary FP Method-Depo-Discontinued/Removed default",
+          "categoryOptionCombo": "kdsirVNKdhm",
+          "dataElement": "gn4hsUJEG7c",
+          "row": 8,
+          "column": 6
+        },
+        {
+          " _comment": "Family Planning Program-Temporary FP Method-IUCD-New Users <20 Years default",
+          "categoryOptionCombo": "kdsirVNKdhm",
+          "dataElement": "SujVjgXHP72",
+          "row": 6,
+          "column": 2
+        },
+        {
+          " _comment": "Family Planning Program-Temporary FP Method-IUCD-New Users â‰¥20 Years default",
+          "categoryOptionCombo": "kdsirVNKdhm",
+          "dataElement": "DwOKj8SLOtF",
+          "row": 6,
+          "column": 3
+        },
+        {
+          " _comment": "Family Planning Program-Temporary FP Method-IUCD-Current User default",
+          "categoryOptionCombo": "kdsirVNKdhm",
+          "dataElement": "wJ0d4pvhud7",
+          "row": 6,
+          "column": 5
+        },
+        {
+          " _comment": "Family Planning Program-Temporary FP Method-IUCD-Discontinued/Removed default",
+          "categoryOptionCombo": "kdsirVNKdhm",
+          "dataElement": "eeTiOM51Tbq",
+          "row": 6,
+          "column": 6
+        },
+        {
+          " _comment": "Family Planning Program-Temporary FP Method-Implant-New Users <20 Years default",
+          "categoryOptionCombo": "kdsirVNKdhm",
+          "dataElement": "CuRbZM8HWyR",
+          "row": 7,
+          "column": 2
+        },
+        {
+          " _comment": "Family Planning Program-Temporary FP Method-Implant-New Users â‰¥20 Years default",
+          "categoryOptionCombo": "kdsirVNKdhm",
+          "dataElement": "d80NCjU1iPK",
+          "row": 7,
+          "column": 3
+        },
+        {
+          " _comment": "Family Planning Program-Temporary FP Method-Implant-Current User default",
+          "categoryOptionCombo": "kdsirVNKdhm",
+          "dataElement": "vaRoCnJ7Xwl",
+          "row": 7,
+          "column": 5
+        },
+        {
+          " _comment": "Family Planning Program-Temporary FP Method-Implant-Discontinued/Removed default",
+          "categoryOptionCombo": "kdsirVNKdhm",
+          "dataElement": "UGdWSivv6AA",
+          "row": 7,
+          "column": 6
+        }
+      ]
+    },
+    "Family Planning Program - Temporary FP method (No of devices used)": {
+      "dataValues": [
+        {
+          " _comment": "Family Planning Program-Temporary FP Method-Condom-Pieces Qty default",
+          "categoryOptionCombo": "kdsirVNKdhm",
+          "dataElement": "XcWK8DnxZgE",
+          "row": 1,
+          "column": 2
+        },
+        {
+          " _comment": "Family Planning Program-Temporary FP Method-Depo-Doze Qty default",
+          "categoryOptionCombo": "kdsirVNKdhm",
+          "dataElement": "KuXdIzVAOZ2",
+          "row": 2,
+          "column": 2
+        },
+        {
+          " _comment": "Family Planning Program-Implant-Set Qty default",
+          "categoryOptionCombo": "kdsirVNKdhm",
+          "dataElement": "lAq7cpHVSFT",
+          "row": 3,
+          "column": 2
+        },
+        {
+          " _comment": "Family Planning Program-Temporary FP Method-IUCD-Set Qty default",
+          "categoryOptionCombo": "kdsirVNKdhm",
+          "dataElement": "oj5Bk35Tqb7",
+          "row": 4,
+          "column": 2
+        },
+        {
+          " _comment": "Family Planning Program-Temporary FP Method-Pills-Cycle Qty default",
+          "categoryOptionCombo": "kdsirVNKdhm",
+          "dataElement": "xcM0TtsUYQr",
+          "row": 7,
+          "column": 2
+        },
+        {
+          " _comment": "Family Planning-Temporary-Sayana Press-Quantity default",
+          "categoryOptionCombo": "kdsirVNKdhm",
+          "dataElement": "j2DNK5W3ywd",
+          "row": 8,
+          "column": 2
+        }
+      ]
+    },
+    "Family Planning Program - Permanent FP method (New users)": {
+      "dataValues": [
+        {
+          " _comment": "Family Planning Program-Permanent FP Method-New Users at Public Facility Female",
+          "categoryOptionCombo": "ye1QuAMRG5Z",
+          "dataElement": "A2Tt6FTOdyw",
+          "row": 1,
+          "column": 2
+        },
+        {
+          " _comment": "Family Planning Program-Permanent FP Method-New Users at Public Facility Male",
+          "categoryOptionCombo": "PflKpozpO7b",
+          "dataElement": "A2Tt6FTOdyw",
+          "row": 2,
+          "column": 2
+        }
+      ]
+    },
+    "Family Planning Program - Permanent FP method (Existing users)": {
+      "dataValues": [
+        {
+          " _comment": "Family Planning Program-Permanent FP Method-Current Users at Public Facility Female",
+          "categoryOptionCombo": "ye1QuAMRG5Z",
+          "dataElement": "lPDmcklspNe",
+          "row": 1,
+          "column": 2
+        },
+        {
+          " _comment": "Family Planning Program-Permanent FP Method-Current Users at Public Facility Male",
+          "categoryOptionCombo": "PflKpozpO7b",
+          "dataElement": "lPDmcklspNe",
+          "row": 2,
+          "column": 2
+        }
+      ]
+    },
+    "Family Planning Program - Postpartum FP Acceptors": {
+      "dataValues": [
+        {
+          " _comment": "Family Planning Program-Postpartum FP Acceptors (Within 48 Hours of Delivery)-Implant default",
+          "categoryOptionCombo": "kdsirVNKdhm",
+          "dataElement": "U2Kn6TMzAO3",
+          "row": 1,
+          "column": 2
+        },
+        {
+          " _comment": "Family Planning Program-Postpartum FP Acceptors (Within 48 Hours of Delivery)-IUCD default",
+          "categoryOptionCombo": "kdsirVNKdhm",
+          "dataElement": "uTtWya0epbQ",
+          "row": 2,
+          "column": 2
+        },
+        {
+          " _comment": "Family Planning Program-Postpartum FP Acceptors (Within 48 Hours of Delivery)-Tubectomy default",
+          "categoryOptionCombo": "kdsirVNKdhm",
+          "dataElement": "hVwCP5NLK04",
+          "row": 3,
+          "column": 2
+        }
+      ]
+    }
+  }
+}

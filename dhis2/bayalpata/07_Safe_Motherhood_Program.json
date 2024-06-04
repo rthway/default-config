@@ -1,0 +1,737 @@
+{
+  "orgUnit": "Bm39oMfSNir",
+  "reports": {
+    "Antenatal Checkup": {
+      "dataValues": [
+                    {
+                      " _comment": "Safe Motherhood Program-Antenatal Checkup-First ANC Visit (any time)< 20 Years",
+                      "categoryOptionCombo": "kdsirVNKdhm",
+                      "dataElement": "C6ubEqEew8X",
+                      "row": 1,
+                      "column": 2
+                    },
+                    {
+                      " _comment": "Safe Motherhood Program-Antenatal Checkup-First ANC Visit (any time)>= 20 Years",
+                      "categoryOptionCombo": "kdsirVNKdhm",
+                      "dataElement": "kSnqP4GPOsQ",
+                      "row": 1,
+                      "column": 3
+                    },
+                    {
+                      " _comment": "MNH-ANC Visits-Within 12 Weeks - <20 Years",
+                      "categoryOptionCombo": "kdsirVNKdhm",
+                      "dataElement": "vTDKlAOKGjn",
+                      "row": 2,
+                      "column": 2
+                    },
+                    {
+                      " _comment": "MNH-ANC Visits-Within 12 Weeks - >=20 Years",
+                      "categoryOptionCombo": "kdsirVNKdhm",
+                      "dataElement": "ZcrvEPX6AgY",
+                      "row": 2,
+                      "column": 3
+                    },
+                    {
+                      " _comment": "Safe Motherhood Program-Antenatal Checkup-Four ANC Visits as per Protocol< 20 Years",
+                      "categoryOptionCombo": "kdsirVNKdhm",
+                      "dataElement": "RtidqFs7NRc",
+                      "row": 3,
+                      "column": 2
+                    },
+                    {
+                      " _comment": "Safe Motherhood Program-Antenatal Checkup-Four ANC Visits as per Protocol >= 20 Years",
+                      "categoryOptionCombo": "kdsirVNKdhm",
+                      "dataElement": "gNcAqChA90J",
+                      "row": 3,
+                      "column": 3
+                    },
+                    {
+                      " _comment": "MNH-ANC Visits-Eight times as per protocol - <20 Years",
+                      "categoryOptionCombo": "kdsirVNKdhm",
+                      "dataElement": "hGW7Z3Y7xzA",
+                      "row": 4,
+                      "column": 2
+                    },
+                    {
+                      " _comment": "MNH-ANC Visits-Eight times as per protocol - >=20 Years",
+                      "categoryOptionCombo": "kdsirVNKdhm",
+                      "dataElement": "pvTVo0fTEW1",
+                      "row": 4,
+                      "column": 3
+                    }
+                  ]
+                },
+                "Delivery Service":{	
+                  "dataValues":[
+                    {
+                      " _comment": "MNH-Delivery-By SHP <20 Year",
+                      "categoryOptionCombo": "o6KMyyni9Vl",
+                      "dataElement": "nRDFRYBCiuz",
+                      "row": 1,
+                      "column": 2
+                    },
+                    {
+                      " _comment": "MNH-Delivery-By SHP >=20 Year",
+                      "categoryOptionCombo": "UGR7o8AHNH2",
+                      "dataElement": "nRDFRYBCiuz",
+                      "row": 1,
+                      "column": 3
+                    },
+                    {
+                      " _comment": "Safe Motherhood Program-Delivery Service-Skilled Birth Attendants (SBA)Facility <20 Year",
+                      "categoryOptionCombo": "o6KMyyni9Vl",
+                      "dataElement": "T9SHzXzpwnJ",
+                      "row": 2,
+                      "column": 2
+                    },
+                    {
+                      " _comment": "Safe Motherhood Program-Delivery Service-Skilled Birth Attendants (SBA)Facility >=20 Year",
+                      "categoryOptionCombo": "UGR7o8AHNH2",
+                      "dataElement": "T9SHzXzpwnJ",
+                      "row": 2,
+                      "column": 3
+                    },
+                    {
+                      " _comment": "MNH-Delivery-By other health workers <20 Year",
+                      "categoryOptionCombo": "o6KMyyni9Vl",
+                      "dataElement": "NPzEfDEIBBl",
+                      "row": 3,
+                      "column": 2
+                    },
+                    {
+                      " _comment": "MNH-Delivery-By other health workers >=20 Year",
+                      "categoryOptionCombo": "UGR7o8AHNH2",
+                      "dataElement": "NPzEfDEIBBl",
+                      "row": 3,
+                      "column": 3
+                    },
+                    {
+                      " _comment": "MNH-Delivery-At Home <20 Year",
+                      "categoryOptionCombo": "o6KMyyni9Vl",
+                      "dataElement": "pgmxB8n1Vv7",
+                      "row": 4,
+                      "column": 2
+                    },
+                    {
+                      " _comment": "MNH-Delivery-At Home >=20 Year",
+                      "categoryOptionCombo": "UGR7o8AHNH2",
+                      "dataElement": "pgmxB8n1Vv7",
+                      "row": 4,
+                      "column": 3
+                    }
+                  ]
+                },
+                "Type of Delivery":{
+                  "dataValues":[
+                    {
+                      " _comment": "Safe Motherhood Program-Type of Delivery-C/S Cephalic",
+                      "categoryOptionCombo": "kdsirVNKdhm",
+                      "dataElement": "BoPXsSKiPVx",
+                      "row": 1,
+                      "column": 2
+                    },
+                    {
+                      " _comment": "Safe Motherhood Program-Type of Delivery-C/S Shoulder",
+                      "categoryOptionCombo": "kdsirVNKdhm",
+                      "dataElement": "xAulrqfseew",
+                      "row": 1,
+                      "column": 3
+                    },
+                    {
+                      " _comment": "Safe Motherhood Program-Type of Delivery-C/S Breech",
+                      "categoryOptionCombo": "kdsirVNKdhm",
+                      "dataElement": "zgNUMf4qP2Z",
+                      "row": 1,
+                      "column": 4
+                    },
+                    {
+                      " _comment": "Safe Motherhood Program-Type of Delivery-Spontaneous Cephalic",
+                      "categoryOptionCombo": "kdsirVNKdhm",
+                      "dataElement": "VdZyJrLrSg5",
+                      "row": 2,
+                      "column": 2
+                    },
+                    {
+                      " _comment": "Safe Motherhood Program-Type of Delivery-Spontaneous Shoulder",
+                      "categoryOptionCombo": "kdsirVNKdhm",
+                      "dataElement": "rqny3AJuymt",
+                      "row": 2,
+                      "column": 3
+                    },
+                    {
+                      " _comment": "Safe Motherhood Program-Type of Delivery-Spontaneous Breech",
+                      "categoryOptionCombo": "kdsirVNKdhm",
+                      "dataElement": "c6dLz049UWw",
+                      "row": 2,
+                      "column": 4
+                    },
+                    {
+                      " _comment": "Safe Motherhood Program-Type of Delivery-Vaccum/Forcep Cephalic",
+                      "categoryOptionCombo": "kdsirVNKdhm",
+                      "dataElement": "CtX7O3pbtL3",
+                      "row": 3,
+                      "column": 2
+                    }
+                  ]
+                },
+                "Delivery Outcome":{
+                  "dataValues":[
+                    {
+                      " _comment": "Safe Motherhood Program-Delivery Outcome-Mother Single",
+                      "categoryOptionCombo": "kdsirVNKdhm",
+                      "dataElement": "UQTYGjWr7wz",
+                      "row": 1,
+                      "column": 2
+                    },
+                    {
+                      " _comment": "Safe Motherhood Program-Delivery Outcome-Mother Twin",
+                      "categoryOptionCombo": "kdsirVNKdhm",
+                      "dataElement": "cMo5gmSt1yV",
+                      "row": 1,
+                      "column": 3
+                    },
+                    {
+                      " _comment": "Safe Motherhood Program-Delivery Outcome-Mother >= Triplet",
+                      "categoryOptionCombo": "kdsirVNKdhm",
+                      "dataElement": "pP3HfFu4Bte",
+                      "row": 1,
+                      "column": 4
+                    },
+                    {
+                      " _comment": "Safe Motherhood Program-Delivery Outcome-live Births Single Female",
+                      "categoryOptionCombo": "ye1QuAMRG5Z",
+                      "dataElement": "Yjwho2iruhu",
+                      "row": 2,
+                      "column": 2
+                    },
+                    {
+                      " _comment": "Safe Motherhood Program-Delivery Outcome-live Births Twin Female",
+                      "categoryOptionCombo": "ye1QuAMRG5Z",
+                      "dataElement": "w0fvdvU1yuF",
+                      "row": 2,
+                      "column": 3
+                    },
+                    {
+                      " _comment": "Safe Motherhood Program-Delivery Outcome-live Births >= Triplet Female",
+                      "categoryOptionCombo": "ye1QuAMRG5Z",
+                      "dataElement": "ZtwhYCiEQ7w",
+                      "row": 2,
+                      "column": 4
+                    },
+                    {
+                      " _comment": "Safe Motherhood Program-Delivery Outcome-live Births Single Male",
+                      "categoryOptionCombo": "PflKpozpO7b",
+                      "dataElement": "Yjwho2iruhu",
+                      "row": 3,
+                      "column": 2
+                    },
+                    {
+                      " _comment": "Safe Motherhood Program-Delivery Outcome-live Births Twin Male",
+                      "categoryOptionCombo": "PflKpozpO7b",
+                      "dataElement": "w0fvdvU1yuF",
+                      "row": 3,
+                      "column": 3
+                    },
+                    {
+                      " _comment": "Safe Motherhood Program-Delivery Outcome-live Births >= Triplet Male",
+                      "categoryOptionCombo": "PflKpozpO7b",
+                      "dataElement": "ZtwhYCiEQ7w",
+                      "row": 3,
+                      "column": 4
+                    }
+                  ]
+                },
+                "Birth weight":{
+                  "dataValues":[
+                    {
+                      " _comment": "Safe Motherhood Program-Birth Weight-Normal (>= 2.5 kg)",
+                      "categoryOptionCombo": "kdsirVNKdhm",
+                      "dataElement": "uzX1NG6xDwr",
+                      "row": 1,
+                      "column": 2
+                    },
+                    {
+                      " _comment": "Safe Motherhood Program-Birth Weight-Normal (>= 2.5 kg)Asphyxia",
+                      "categoryOptionCombo": "kdsirVNKdhm",
+                      "dataElement": "DjglomjSiAu",
+                      "row": 1,
+                      "column": 3
+                    },
+                    {
+                      " _comment": "Safe Motherhood Program-Birth Weight-Normal (≥ 2.5 kg)Defect minor",
+                      "categoryOptionCombo": "XXgFel6hY5K",
+                      "dataElement": "vIuy5zKUj82",
+                      "row": 1,
+                      "column": 4
+                    },
+                    {
+                      " _comment": "Safe Motherhood Program-Birth Weight-Normal (≥ 2.5 kg)Defect Major",
+                      "categoryOptionCombo": "tCy6R2UbkA1",
+                      "dataElement": "vIuy5zKUj82",
+                      "row": 1,
+                      "column": 5
+                    },
+                    {
+                      " _comment": "Safe Motherhood Program-Birth Weight-Normal (≥ 2.5 kg)Defect others",
+                      "categoryOptionCombo": "KiFbliu1f8r",
+                      "dataElement": "vIuy5zKUj82",
+                      "row": 1,
+                      "column": 6
+                    },
+                    {
+                      " _comment": "MNH-Birth Weight-Normal-Infection",
+                      "categoryOptionCombo": "kdsirVNKdhm",
+                      "dataElement": "GDJYMsnrkvy",
+                      "row": 1,
+                      "column": 7
+                    },
+                    {
+                      " _comment": "Safe Motherhood Program-Birth Weight-Low (1.5 to < 2.5 kg)",
+                      "categoryOptionCombo": "kdsirVNKdhm",
+                      "dataElement": "r1x2daA3pwt",
+                      "row": 2,
+                      "column": 2
+                    },
+                    {
+                      " _comment": "Safe Motherhood Program-Birth Weight-Low (1.5 to < 2.5 kg)Asphyxia",
+                      "categoryOptionCombo": "kdsirVNKdhm",
+                      "dataElement": "stOtnhrYX9J",
+                      "row": 2,
+                      "column": 3
+                    },
+                    {
+                      " _comment": "Safe Motherhood Program-Birth Weight-Low (1.5 to < 2.5 kg)Defect minor",
+                      "categoryOptionCombo": "XXgFel6hY5K",
+                      "dataElement": "vIuy5zKUj82",
+                      "row": 2,
+                      "column": 4
+                    },
+                    {
+                      " _comment": "Safe Motherhood Program-Birth Weight-Low (1.5 to < 2.5 kg)Defect Major",
+                      "categoryOptionCombo": "tCy6R2UbkA1",
+                      "dataElement": "ssjLchkxrC3",
+                      "row": 2,
+                      "column": 5
+                    },
+                    {
+                      " _comment": "Safe Motherhood Program-Birth Weight-Low (1.5 to < 2.5 kg)Defect others",
+                      "categoryOptionCombo": "KiFbliu1f8r",
+                      "dataElement": "ssjLchkxrC3",
+                      "row": 2,
+                      "column": 6
+                    },
+                    {
+                      " _comment": "MNH-Birth Weight-Low weight-Infection",
+                      "categoryOptionCombo": "kdsirVNKdhm",
+                      "dataElement": "JCo1sEf9nZV",
+                      "row": 2,
+                      "column": 7
+                    },
+                    {
+                      " _comment": "Safe Motherhood Program-Birth Weight-Very low (< 1.5 kg)",
+                      "categoryOptionCombo": "kdsirVNKdhm",
+                      "dataElement": "uGteAfUfOBk",
+                      "row": 3,
+                      "column": 2
+                    },
+                    {
+                      " _comment": "Safe Motherhood Program-Birth Weight-Very low (< 1.5 kg)Asphyxia",
+                      "categoryOptionCombo": "kdsirVNKdhm",
+                      "dataElement": "DFEHOcOqW5a",
+                      "row": 3,
+                      "column": 3
+                    },
+                    {
+                      " _comment": "Safe Motherhood Program-Birth Weight-Very low (< 1.5 kg)Defect minor",
+                      "categoryOptionCombo": "XXgFel6hY5K",
+                      "dataElement": "zaFinXSR0UY",
+                      "row": 3,
+                      "column": 4
+                    },
+                    {
+                      " _comment": "Safe Motherhood Program-Birth Weight-Very low (< 1.5 kg)Defect Major",
+                      "categoryOptionCombo": "tCy6R2UbkA1",
+                      "dataElement": "zaFinXSR0UY",
+                      "row": 3,
+                      "column": 5
+                    },
+                    {
+                      " _comment": "Safe Motherhood Program-Birth Weight-Very low (< 1.5 kg)Defect others",
+                      "categoryOptionCombo": "KiFbliu1f8r",
+                      "dataElement": "zaFinXSR0UY",
+                      "row": 3,
+                      "column": 6
+                    },
+                    {
+                      " _comment": "MNH-Birth Weight-Very Low Weight-Infection",
+                      "categoryOptionCombo": "kdsirVNKdhm",
+                      "dataElement": "T83jtwxnALp",
+                      "row": 3,
+                      "column": 7
+                    }
+                  ]
+                },
+                "No of still births":{
+                  "dataValues":[
+                    {
+                      " _comment": "Safe Motherhood Program-Number of Still Births-Fresh",
+                      "categoryOptionCombo": "kdsirVNKdhm",
+                      "dataElement": "k2StfxOzXpx",
+                      "row": 1,
+                      "column": 2
+                    },
+                    {
+                      " _comment": "Safe Motherhood Program-Number of Still Births-Macerated",
+                      "categoryOptionCombo": "kdsirVNKdhm",
+                      "dataElement": "FlyYBxnmKup",
+                      "row": 2,
+                      "column": 2
+                    }
+                  ]
+                },
+                "CHX applied in cord":{
+                  "dataValues":[
+                    {
+                      " _comment": "Safe Motherhood Program-CHX applied in Cord",
+                      "categoryOptionCombo": "kdsirVNKdhm",
+                      "dataElement": "XxGpVsZfVPL",
+                      "row": 1,
+                      "column": 1
+                    }
+                  ]
+                },
+                "Blood transfusion":{
+                  "dataValues":[
+                    {
+                      " _comment": "MNH-Blood Transfusion-Done",
+                      "categoryOptionCombo": "UxlNYkFakvE",
+                      "dataElement": "byf1Rf6bEPt",
+                      "row": 2,
+                      "column": 1
+                    }
+                  ]
+                },
+                "PNC Visit":{
+                  "dataValues":[
+                    {
+                      " _comment": "Safe Motherhood Program-PNC Visits within 24 hours Facility",
+                      "categoryOptionCombo": "kXFhKYzLFKT",
+                      "dataElement": "b8jGBrMfBbP",
+                      "row":1 ,
+                      "column":2
+                    },
+                    {
+                      " _comment": "MNH-PNC Visits-At Home-2 times Facility",
+                      "categoryOptionCombo": "kXFhKYzLFKT",
+                      "dataElement": "ZMdVETMGwzz",
+                      "row": 2,
+                      "column": 2
+                    },
+                    {
+                      " _comment": "Safe Motherhood Program-3 PNC Visits as per Protocol  Facility",
+                      "categoryOptionCombo": "kXFhKYzLFKT",
+                      "dataElement": "Aw24Ejbp63F",
+                      "row": 3,
+                      "column": 2
+                    },
+                    {
+                      " _comment": "MNH-PNC Visits-4 times Facility",
+                      "categoryOptionCombo": "kXFhKYzLFKT",
+                      "dataElement": "mTfqwld6Ipc",
+                      "row": 4,
+                      "column": 2
+                    }
+                  ]
+                },
+               "Obstetric Complications":{
+                  "dataValues":[
+                    {
+                      " _comment": "Safe Motherhood Program-Obstetric Complications-Ectopic Pregnancy",
+                      "categoryOptionCombo": "kdsirVNKdhm",
+                      "dataElement": "f4ueiBTKF1T",
+                      "row": 1,
+                      "column": 3
+                      },
+			   {
+                      " _comment": "Safe Motherhood Program-Obstetric Complications-Abortion Complication",
+                      "categoryOptionCombo": "kdsirVNKdhm",
+                      "dataElement": "S4CFTXyEFVc",
+                      "row": 2,
+                      "column": 3
+                    },
+				{
+                      " _comment": "Safe Motherhood Program-Obstetric Complications-Severe/Pre-Eclampsia",
+                      "categoryOptionCombo": "kdsirVNKdhm",
+                      "dataElement": "v3zKVR5wJt3",
+                      "row": 3,
+                      "column": 3
+                    },
+			   {
+                      " _comment": "Safe Motherhood Program-Obstetric Complications-Eclampsia",
+                      "categoryOptionCombo": "kdsirVNKdhm",
+                      "dataElement": "PELChUNfW2C",
+                      "row": 4,
+                      "column": 3
+                    },
+			  {
+                      " _comment": "Safe Motherhood Program-Obstetric Complications-Hyperemesis Grivadarum",
+                      "categoryOptionCombo": "kdsirVNKdhm",
+                      "dataElement": "LIo3j809JrK",
+                      "row": 5,
+                      "column": 3
+                    },
+			   {
+                      " _comment": "Safe Motherhood Program-Obstetric Complications-Antepartum Haemorrhage",
+                      "categoryOptionCombo": "kdsirVNKdhm",
+                      "dataElement": "ueBJTsv0PXr",
+                      "row": 6,
+                      "column": 3
+                  
+                    
+                    },
+			  {
+                      " _comment": "Safe Motherhood Program-Obstetric Complications-Prolonged labour",
+                      "categoryOptionCombo": "kdsirVNKdhm",
+                      "dataElement": "wsncKYDcmqr",
+                      "row": 7,
+                      "column": 3
+                    },
+			   {
+                      " _comment": "Safe Motherhood Program-Obstetric Complications-Obstructed Labor",
+                      "categoryOptionCombo": "kdsirVNKdhm",
+                      "dataElement": "Dior21jcQCe",
+                      "row": 8,
+                      "column": 3
+                    },
+                    
+                      {
+                      " _comment": "MNH-Obsteric Complication-Gestational Hypertension-Cases",
+                      "categoryOptionCombo": "kdsirVNKdhm",
+                      "dataElement": "VO1obyQWvjO",
+                      "row": 9,
+                      "column": 3
+                    },
+		        {
+                      " _comment": "Safe Motherhood Program-Obstetric Complications-Ruptured Uterus",
+                      "categoryOptionCombo": "kdsirVNKdhm",
+                      "dataElement": "nwQoDUhFR1z",
+                      "row": 10,
+                      "column": 3
+                    },
+                    {
+                      " _comment": "Safe Motherhood Program-Obstetric Complications-Postpartum Haemorrhage",
+                      "categoryOptionCombo": "kdsirVNKdhm",
+                      "dataElement": "PGNd6jcxJX4",
+                      "row": 11,
+                      "column": 3
+                    },
+			{
+                      " _comment": "Safe Motherhood Program-Obstetric Complications-Retained Placenta",
+                      "categoryOptionCombo": "kdsirVNKdhm",
+                      "dataElement": "kV3JhKJWMR8",
+                      "row": 12,
+                      "column": 3
+                    },
+			               {
+                      " _comment": "Safe Motherhood Program-Obstetric Complications-Puerperal Sepsis",
+                      "categoryOptionCombo": "kdsirVNKdhm",
+                      "dataElement": "dHet49ySm06",
+                      "row": 13,
+                      "column": 3
+                    },
+                    
+                    {
+                      " _comment": "MNH-Obsteric Complication-C-Section Wound Infection-cases",
+                      "categoryOptionCombo": "kdsirVNKdhm",
+                      "dataElement": "FexcOBCpEz3",
+                      "row": 14,
+                      "column": 3
+                    },
+                    
+                    
+                    {
+                      " _comment": "Safe Motherhood Program-Obstetric Complications-Other Complications",
+                      "categoryOptionCombo": "kdsirVNKdhm",
+                      "dataElement": "XAzAbTRbJve",
+                      "row": 15,
+                      "column": 3
+                    }                                                                  
+                   ]
+                },
+                "Maternal Death":{
+                  "dataValues":[
+                    {
+                      " _comment": "Safe Motherhood Program-Maternal Death-Antepartum",
+                      "categoryOptionCombo": "kdsirVNKdhm",
+                      "dataElement": "YZfwWNZzfg0",
+                      "row": 1,
+                      "column": 2
+                    },
+                    {
+                      " _comment": "Safe Motherhood Program-Maternal Death-Intrapartum",
+                      "categoryOptionCombo": "kdsirVNKdhm",
+                      "dataElement": "BL5XaUOJ6aw",
+                      "row": 1,
+                      "column": 3
+                    },
+                    {
+                      " _comment": "Safe Motherhood Program-Maternal Death-Postpartum",
+                      "categoryOptionCombo": "kdsirVNKdhm",
+                      "dataElement": "IMFPhLtATaw",
+                      "row": 1,
+                      "column": 4
+                    },
+                    {
+                      " _comment": "MNH-Neonatal Death-At facility 0 to 7 days",
+                      "categoryOptionCombo": "nOyy5SUrox6",
+                      "dataElement": "Fr9hLa5q3YE",
+                      "row": 1,
+                      "column": 5
+                    },
+                    {
+                      " _comment": "MNH-Neonatal Death-At facility 8 to 28 days",
+                      "categoryOptionCombo": "ZpMmXgciIXo",
+                      "dataElement": "Fr9hLa5q3YE",
+                      "row": 1,
+                      "column": 6
+                    }
+                  ]
+                },
+                "Safe Abortion Service":{
+                  "dataValues":[
+                    {
+                      " _comment": "MNH-Post Abortion Care (PAC)-Induced",
+                      "categoryOptionCombo": "kdsirVNKdhm",
+                      "dataElement": "jjcHCV1ZfAt",
+                      "row": 1,
+                      "column": 2
+                    },
+                    {
+                      " _comment": "Safe Motherhood Program-Safe Abortion Service-Post Abortion Complication Medical Within 12 Weeks",
+                      "categoryOptionCombo": "Fgf21WXIj3N",
+                      "dataElement": "CWlOpEYqaC1",
+                      "row": 2,
+                      "column": 2
+                    },
+                    {
+                        " _comment": "Safe Motherhood Program-Safe Abortion Service-Post Abortion Complication Surgical Within 12 Weeks",
+                        "categoryOptionCombo": "Fgf21WXIj3N",
+                        "dataElement": "FKPsRSUnnob",
+                        "row": 2,
+                        "column": 3
+                    }
+                  ]
+                },
+                "Safe Abortion Family Planning":{
+                  "dataValues":[
+                    {
+                      " _comment": "Safe Motherhood Program-Safe Abortion Service-Post Abortion FP Methods Short Term-Medical Within 12 Weeks",
+                      "categoryOptionCombo": "Fgf21WXIj3N",
+                      "dataElement": "BIjA8u1VMF3",
+                      "row": 1,
+                      "column": 2
+                    },
+                    {
+                      " _comment": "Safe Motherhood Program-Safe Abortion Service-Post Abortion FP Methods Long Term-Medical Within 12 Weeks",
+                      "categoryOptionCombo": "Fgf21WXIj3N",
+                      "dataElement": "AP5k6dsqGPI",
+                      "row": 1,
+                      "column": 3
+                    },
+                    {
+                      " _comment": "Safe Motherhood Program-Safe Abortion Service-Post Abortion FP Methods Short term-Surgical Within 12 Weeks",
+                      "categoryOptionCombo": "Fgf21WXIj3N",
+                      "dataElement": "spH6ZRldV3F",
+                      "row": 2,
+                      "column": 2
+                    },
+                    {
+                      " _comment": "Safe Motherhood Program-Safe Abortion Service-Post Abortion FP Methods Long term-Surgical Within 12 Weeks",
+                      "categoryOptionCombo": "Fgf21WXIj3N",
+                      "dataElement": "WAxqda0KkYt",
+                      "row": 2,
+                      "column": 3
+                    }
+                  ]
+                },
+                "Safe Abortion Total":{
+                "dataValues":[
+                    {
+                      " _comment": "Safe Motherhood Program-Safe Abortion Service-Number of Women < 20 Years-Medical Within 12 Weeks",
+                      "categoryOptionCombo": "Fgf21WXIj3N",
+                      "dataElement": "KsMJg5sdGOS",
+                      "row": 1,
+                      "column": 1
+                    },
+                    {
+                      " _comment": "Safe Motherhood Program-Safe Abortion Service-Number of Women < 20 Years-Surgical Within 12 Weeks",
+                      "categoryOptionCombo": "Fgf21WXIj3N",
+                      "dataElement": "KkSEy2pfgCD",
+                      "row": 1,
+                      "column": 2
+                    },
+                    {
+                      " _comment": "Safe Motherhood Program-Safe Abortion Service-Number of Women > or equal to 20 Years-Medical Within 12 Weeks",
+                      "categoryOptionCombo": "Fgf21WXIj3N",
+                      "dataElement": "wxIeWrnnZxe",
+                      "row": 1,
+                      "column": 3
+                    },
+                    {
+                      " _comment": "Safe Motherhood Program-Safe Abortion Service-Number of Women > or equal to 20 Years-Surgical Within 12 Weeks",
+                      "categoryOptionCombo": "Fgf21WXIj3N",
+                      "dataElement": "ymw1agzYyF3",
+                      "row": 1,
+                      "column": 4
+                    }
+                  ]
+                },
+                "Aama Program to be given":{
+                  "dataValues":[
+                    {
+                      " _comment": "Safe Motherhood Program-Aama Program-Incentive-Transport-No of Women Eligible",
+                      "categoryOptionCombo": "kdsirVNKdhm",
+                      "dataElement": "dZo1PDWPAO1",
+                      "row": 1,
+                      "column": 1
+                    },
+                    {
+                      " _comment": "Safe Motherhood Program-Aama Program-Incentive-ANC-No of Women Eligible",
+                      "categoryOptionCombo": "kdsirVNKdhm",
+                      "dataElement": "MO4VQOLebuG",
+                      "row": 1,
+                      "column": 2
+                    }
+                  ]
+                },
+                "Aama Program":{
+                  "dataValues":[
+                    {
+                      " _comment": "Safe Motherhood Program-Aama Program-Incentive-ANC-Number of Women Receive",
+                      "categoryOptionCombo": "kdsirVNKdhm",
+                      "dataElement": "ua0pnAingEU",
+                      "row": 1,
+                      "column": 2
+                    },
+                    {
+                      " _comment": "Safe Motherhood Program-Aama Program-Pregnant Women Received Incentive on Transportation",
+                      "categoryOptionCombo": "kdsirVNKdhm",
+                      "dataElement": "ysTJteUVzO1",
+                      "row": 2,
+                      "column": 2
+                    }
+                  ]
+                },
+                "Breastfeeding-Within 1 Hour":{
+                  "dataValues":[
+                    {
+                      " _comment": "Breastfeeding-Within 1 Hour",
+                      "categoryOptionCombo": "kdsirVNKdhm",
+                      "dataElement": "xuB0JEsPKI9",
+                      "row": 1,
+                      "column": 1
+                    }
+                  ]
+                }
+}
+}

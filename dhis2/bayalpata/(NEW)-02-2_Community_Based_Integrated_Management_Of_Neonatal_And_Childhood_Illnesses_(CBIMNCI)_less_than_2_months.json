@@ -1,0 +1,251 @@
+{
+	"orgUnit": "mPO6LgjseUd",
+"reports": 
+{
+	"Childhood Illness Registered(Children aged below 2 months)": 
+	{
+		"dataValues": 
+		[
+			{
+				" _comment": "CBIMCI <2Months-Total Cases <=28 Days, Facility",
+				"categoryOptionCombo": "MMj2Dc8TvgL",
+				"dataElement": "UbOzhGOJdrq",
+				"row": 1,
+				"column": 1
+			},
+			{
+				" _comment": "CBIMCI <2Months-Total Cases 29 to 59 Days, Facility",
+				"categoryOptionCombo": "ZQJ5pcgH1lJ",
+				"dataElement": "UbOzhGOJdrq",
+				"row": 1,
+				"column": 2
+			}
+		]
+	},
+	"Childhood Illness (less than 2 months) Follow up and other antibiotics": 
+	{
+		"dataValues": 
+		[
+			{
+				" _comment": "CBIMCI <2Months-Follow-Up Facility",
+				"categoryOptionCombo": "J0QYmZGlEii",
+				"dataElement": "WoIzHgdHUjE",
+				"row": 1,
+				"column": 2
+			},
+			{
+				" _comment": "CBIMCI <2Months-Facility-Treatment-Other Antibiotics default",
+				"categoryOptionCombo": "kdsirVNKdhm",
+				"dataElement": "TwMrwcnwuSO",
+				"row": 2,
+				"column": 2
+			}
+		]
+	},
+	"Childhood Illness (less than 2 months) treatment": 
+	{
+		"dataValues": 
+		[
+			{
+				" _comment": "CBIMCI <2Months-Treatment-Amoxicillin Paediatrics 29 to 59 Days, Facility",
+				"categoryOptionCombo": "ZQJ5pcgH1lJ",
+				"dataElement": "zxN7niCGtSh",
+				"row": 1,
+				"column": 3
+			},
+			{
+				" _comment": "CBIMCI <2Months-Treatment-Amoxicillin Paediatrics <=28 Days, Facility",
+				"categoryOptionCombo": "MMj2Dc8TvgL",
+				"dataElement": "zxN7niCGtSh",
+				"row": 2,
+				"column": 3
+			},
+			{
+				" _comment": "CBIMCI <2Months-Treatment-Ampicillin Paediatrics 29 to 59 Days, Facility",
+				"categoryOptionCombo": "ZQJ5pcgH1lJ",
+				"dataElement": "lfjCh0FyKSc",
+				"row": 3,
+				"column": 3
+			},
+			{
+				" _comment": "CBIMCI <2Months-Treatment-Ampicillin Paediatrics <=28 Days, Facility",
+				"categoryOptionCombo": "MMj2Dc8TvgL",
+				"dataElement": "lfjCh0FyKSc",
+				"row": 4,
+				"column": 3
+			}
+		]
+	},
+	"Childhood Illness Treatment Gentamycin 1st dose and Complete Dose(less than 2 months)": 
+	{
+		"dataValues":
+		[
+			{
+			" _comment": "CBIMCI <2Months-Treatment-Gentamycin 1st Dose Facility",
+			"categoryOptionCombo": "J0QYmZGlEii",
+			"dataElement": "fK36K8WBX9s",
+			"row": 1,
+			"column": 2
+			},
+			{
+			" _comment": "CBIMCI <2Months-Treatment-Gentamycin Complete dose Facility",
+			"categoryOptionCombo": "J0QYmZGlEii",
+			"dataElement": "Q5YnsomfHvO",
+			"row": 2,
+			"column": 2
+			}
+		]
+	},
+	"Childhood Illness PSBI LBI Jaundice Breastfed difficuilty feeding or low weight (less than 2 months)": 
+	{
+		"dataValues": 
+		[
+			{
+				" _comment": "IMNCI-<2 Month-Breast feeding problems-29 to 59 days Facility",
+				"categoryOptionCombo": "J0QYmZGlEii",
+				"dataElement": "zXSsKcH6bfe",
+				"row": 1,
+				"column": 3
+			},
+			{
+				" _comment": "IMNCI-<2 Month-Breast feeding problems-<=28 days Facility",
+				"categoryOptionCombo": "J0QYmZGlEii",
+				"dataElement": "scY0Di7FwBx",
+				"row": 2,
+				"column": 3
+			},
+			{
+				" _comment": "CBIMCI <2Months-Classification-Low Weight/Feeding Problem 29-59 days Facility default",
+				"categoryOptionCombo": "kdsirVNKdhm",
+				"dataElement": "aFgNWKMgYz9",
+				"row": 3,
+				"column": 3
+			},
+			{
+				" _comment": "CBIMCI <2Months-Classification-Low Weight/Feeding Problem <=28 days Facility default",
+				"categoryOptionCombo": "kdsirVNKdhm",
+				"dataElement": "fmCWNnmldW4",
+				"row": 4,
+				"column": 3
+			},
+			{
+				" _comment": "CBIMCI <2Months-Classification-Jaundice Cases 29 to 59 Days, Facility",
+				"categoryOptionCombo": "ZQJ5pcgH1lJ",
+				"dataElement": "IDbh8WJcQsP",
+				"row": 5,
+				"column": 3
+			},
+			{
+				" _comment": "CBIMCI <2Months-Classification-Jaundice Cases <=28 Days, Facility",
+				"categoryOptionCombo": "MMj2Dc8TvgL",
+				"dataElement": "IDbh8WJcQsP",
+				"row": 6,
+				"column": 3
+			},
+			{
+				" _comment": "CBIMCI <2Months-Classification-LBI Cases 29 to 59 Days, Facility",
+				"categoryOptionCombo": "ZQJ5pcgH1lJ",
+				"dataElement": "YXIPqFIPsjg",
+				"row": 7,
+				"column": 3
+			},
+			{
+				" _comment": "CBIMCI <2Months-Classification-LBI Cases <=28 Days, Facility",
+				"categoryOptionCombo": "MMj2Dc8TvgL",
+				"dataElement": "YXIPqFIPsjg",
+				"row": 8,
+				"column": 3
+			},
+			{
+				" _comment": "IMNCI-<2 Month-Pneumonia-29 to 59 days Facility",
+				"categoryOptionCombo": "J0QYmZGlEii",
+				"dataElement": "oakKv5hX3tb",
+				"row": 9,
+				"column": 3
+			},
+			{
+				" _comment": "IMNCI-<2 Month-Pneumonia-8 to 28 days Facility",
+				"categoryOptionCombo": "J0QYmZGlEii",
+				"dataElement": "tAP3rTyoghm",
+				"row": 10,
+				"column": 3
+			},
+			{
+				" _comment": "CBIMCI <2Months-Classification-PSBI Cases 29 to 59 Days, Facility",
+				"categoryOptionCombo": "ZQJ5pcgH1lJ",
+				"dataElement": "ISzvhZycG3z",
+				"row": 11,
+				"column": 3
+			},
+			{
+				" _comment": "CBIMCI <2Months-Classification-PSBI Cases <=28 Days, Facility",
+				"categoryOptionCombo": "MMj2Dc8TvgL",
+				"dataElement": "ISzvhZycG3z",
+				"row": 12,
+				"column": 3
+			},
+			{
+				" _comment": "CBIMCI <2Months-Refer Cases 29 to 59 Days, Facility",
+				"categoryOptionCombo": "ZQJ5pcgH1lJ",
+				"dataElement": "kqspOhPReRm",
+				"row": 13,
+				"column": 3
+			},
+			{
+				" _comment": "CBIMCI <2Months-Refer Cases <=28 Days, Facility",
+				"categoryOptionCombo": "MMj2Dc8TvgL",
+				"dataElement": "kqspOhPReRm",
+				"row": 14,
+				"column": 3
+			}
+		]
+	},
+	"Total death less than 2 months": 
+	{
+		"dataValues": 
+		[
+			{
+				" _comment": "IMNCI-<2 Month-Death-8 to 28 days Facility",
+				"categoryOptionCombo": "J0QYmZGlEii",
+				"dataElement": "dKnUYrvpI0f",
+				"row": 1,
+				"column": 1
+			},
+			{
+				" _comment": "CBIMCI <2Months-Total Death 29 to 59 Days, Facility",
+				"categoryOptionCombo": "ZQJ5pcgH1lJ",
+				"dataElement": "adiGRH9XgjW",
+				"row": 1,
+				"column": 2
+				}
+        ]
+		},
+   "Total death age wise less than 2 months": 
+	{
+		"dataValues": 
+		[
+			{
+				" _comment": "IMNCI-<2 Month-Death-0 to 7 days",
+				"categoryOptionCombo": "J0QYmZGlEii",
+				"dataElement": "wxvQ7RxWrP7",
+				"row": 1,
+				"column": 1
+			},
+			{
+				" _comment": "IMNCI-<2 Month-Death-8 to 28 days",
+				"categoryOptionCombo": "J0QYmZGlEii",
+				"dataElement": "dKnUYrvpI0f",
+				"row": 1,
+				"column": 2
+			},
+				{
+				" _comment": "CBIMCI <2Months-Total Death",
+				"categoryOptionCombo": "ZQJ5pcgH1lJ",
+				"dataElement": "adiGRH9XgjW",
+				"row": 1,
+				"column": 3
+        }
+    ]
+   }
+	}
+}

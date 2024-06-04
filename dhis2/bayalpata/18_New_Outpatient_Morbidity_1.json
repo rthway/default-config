@@ -1,0 +1,831 @@
+{
+	"orgUnit": "Bm39oMfSNir",
+"reports": {
+    "18-A_Certain_Infectious_or_Parasitic_Diseases":{
+        "dataValues": [
+            {
+                " _comment": "Outpatient Morbidity-Communicable/Immunizable-Measles Cases Female",
+                "categoryOptionCombo": "ye1QuAMRG5Z",
+                "dataElement": "ZrwTzFTdZhz",
+                "row": 1,
+                "column": 3
+            },
+            {
+                " _comment": "Outpatient Morbidity-Communicable/Immunizable-Measles Cases Male",
+                "categoryOptionCombo": "PflKpozpO7b",
+                "dataElement": "ZrwTzFTdZhz",
+                "row": 1,
+                "column": 4
+            },
+            {
+                " _comment": "Outpatient Morbidity-Communicable/Immunizable-Diptheria Cases Female",
+                "categoryOptionCombo": "ye1QuAMRG5Z",
+                "dataElement": "CSRB2H5GLDZ",
+                "row": 2,
+                "column": 3
+            },
+            {
+                " _comment": "Outpatient Morbidity-Communicable/Immunizable-Diptheria Cases Male",
+                "categoryOptionCombo": "PflKpozpO7b",
+                "dataElement": "CSRB2H5GLDZ",
+                "row": 2,
+                "column": 4
+            },
+            {
+                " _comment": "Outpatient Morbidity-Communicable/Immunizable-Whooping Cough Cases Female",
+                "categoryOptionCombo": "ye1QuAMRG5Z",
+                "dataElement": "Y3S9491u1gd",
+                "row": 3,
+                "column": 3
+            },
+            {
+                " _comment": "Outpatient Morbidity-Communicable/Immunizable-Whooping Cough Cases Male",
+                "categoryOptionCombo": "PflKpozpO7b",
+                "dataElement": "Y3S9491u1gd",
+                "row": 3,
+                "column": 4
+            },
+            {
+                " _comment": "Outpatient Morbidity-Communicable/Immunizable-Neonatal Tetanus Cases Female",
+                "categoryOptionCombo": "ye1QuAMRG5Z",
+                "dataElement": "QQSZDRTD294",
+                "row": 4,
+                "column": 3
+            },
+            {
+                " _comment": "Outpatient Morbidity-Communicable/Immunizable-Neonatal Tetanus Cases Male",
+                "categoryOptionCombo": "PflKpozpO7b",
+                "dataElement": "QQSZDRTD294",
+                "row": 4,
+                "column": 4
+            },
+            {
+                " _comment": "Outpatient Morbidity-Communicable/Immunizable-Tetanus Cases Female",
+                "categoryOptionCombo": "ye1QuAMRG5Z",
+                "dataElement": "qkAsR3sHGWM",
+                "row": 5,
+                "column": 3
+            },
+            {
+                " _comment": "Outpatient Morbidity-Communicable/Immunizable-Tetanus Cases Male",
+                "categoryOptionCombo": "PflKpozpO7b",
+                "dataElement": "qkAsR3sHGWM",
+                "row": 5,
+                "column": 4
+            },
+            {
+                " _comment": "Outpatient Morbidity-Communicable/Immunizable-Tuberculosis Cases Female",
+                "categoryOptionCombo": "ye1QuAMRG5Z",
+                "dataElement": "cVIqiRvVHVE",
+                "row": 6,
+                "column": 3
+            },
+            {
+                " _comment": "Outpatient Morbidity-Communicable/Immunizable-Tuberculosis Cases Male",
+                "categoryOptionCombo": "PflKpozpO7b",
+                "dataElement": "cVIqiRvVHVE",
+                "row": 6,
+                "column": 4
+            },
+            {
+                " _comment": "Outpatient Morbidity-Communicable/Immunizable-Acute Flaccid Paralysis (AFP) Cases Female",
+                "categoryOptionCombo": "ye1QuAMRG5Z",
+                "dataElement": "cSBNopxh2ZP",
+                "row": 7,
+                "column": 3
+            },
+            {
+                " _comment": "Outpatient Morbidity-Communicable/Immunizable-Acute Flaccid Paralysis (AFP) Cases Male",
+                "categoryOptionCombo": "PflKpozpO7b",
+                "dataElement": "cSBNopxh2ZP",
+                "row": 7,
+                "column": 4
+            },
+            {
+                " _comment": "Outpatient Morbidity-Communicable/Immunizable-Rubella Cases Female",
+                "categoryOptionCombo": "ye1QuAMRG5Z",
+                "dataElement": "EJOh3U60jKx",
+                "row": 8,
+                "column": 3
+            },
+            {
+                " _comment": "Outpatient Morbidity-Communicable/Immunizable-Rubella Cases Male",
+                "categoryOptionCombo": "PflKpozpO7b",
+                "dataElement": "EJOh3U60jKx",
+                "row": 8,
+                "column": 4
+            },
+            {
+                " _comment": "Outpatient Morbidity-Communicable/Immunizable-Mumps Cases Female",
+                "categoryOptionCombo": "ye1QuAMRG5Z",
+                "dataElement": "BpxwodMjTM4",
+                "row": 9,
+                "column": 3
+            },
+            {
+                " _comment": "Outpatient Morbidity-Communicable/Immunizable-Mumps Cases Male",
+                "categoryOptionCombo": "PflKpozpO7b",
+                "dataElement": "BpxwodMjTM4",
+                "row": 9,
+                "column": 4
+            },
+            {
+                " _comment": "Outpatient Morbidity-Communicable/Immunizable-Chicken Pox Cases Female",
+                "categoryOptionCombo": "ye1QuAMRG5Z",
+                "dataElement": "ZJPpYiYwPeW",
+                "row": 10,
+                "column": 3
+            },
+            {
+                " _comment": "Outpatient Morbidity-Communicable/Immunizable-Chicken Pox Cases Male",
+                "categoryOptionCombo": "PflKpozpO7b",
+                "dataElement": "ZJPpYiYwPeW",
+                "row": 10,
+                "column": 4
+            },
+            {
+                " _comment": "Outpatient Morbidity-Communicable/Immunizable-Hepatitis B Cases Female",
+                "categoryOptionCombo": "ye1QuAMRG5Z",
+                "dataElement": "cI801zaVGau",
+                "row": 11,
+                "column": 3
+            },
+            {
+                " _comment": "Outpatient Morbidity-Communicable/Immunizable-Hepatitis B Cases Male",
+                "categoryOptionCombo": "PflKpozpO7b",
+                "dataElement": "cI801zaVGau",
+                "row": 11,
+                "column": 4
+            }
+        ]
+    },
+    "18-B_Communicable_Vector_Borne":{
+        "dataValues":[
+            {
+                " _comment": "Outpatient Morbidity-Communicable-Vector Borne-Acute Encephalitis like Syndrome (AES) Cases Female",
+                "categoryOptionCombo": "ye1QuAMRG5Z",
+                "dataElement": "pHrDUquZIYm",
+                "row": 1,
+                "column": 3
+            },
+            {
+                " _comment": "Outpatient Morbidity-Communicable-Vector Borne-Acute Encephalitis like Syndrome (AES) Cases Male",
+                "categoryOptionCombo": "PflKpozpO7b",
+                "dataElement": "pHrDUquZIYm",
+                "row": 1,
+                "column": 4
+            },
+            {
+                " _comment": "Outpatient Morbidity-Communicable-Vector Borne-Filariasis Cases Female",
+                "categoryOptionCombo": "ye1QuAMRG5Z",
+                "dataElement": "zcypZ3frGDB",
+                "row": 2,
+                "column": 3
+            },
+            {
+                " _comment": "Outpatient Morbidity-Communicable-Vector Borne-Filariasis Cases Male",
+                "categoryOptionCombo": "PflKpozpO7b",
+                "dataElement": "zcypZ3frGDB",
+                "row": 2,
+                "column": 4
+            },
+            {
+                " _comment": "Outpatient Morbidity-Communicable-Vector Borne-Clinical Malaria Cases Female",
+                "categoryOptionCombo": "ye1QuAMRG5Z",
+                "dataElement": "QDaBpwjmfws",
+                "row": 3,
+                "column": 3
+            },
+            {
+                " _comment": "Outpatient Morbidity-Communicable-Vector Borne-Clinical Malaria Cases Male",
+                "categoryOptionCombo": "PflKpozpO7b",
+                "dataElement": "QDaBpwjmfws",
+                "row": 3,
+                "column": 4
+            },
+            {
+                " _comment": "Outpatient Morbidity-Communicable-Vector Borne-Malaria (Plasmodium Falciparum) Cases Female",
+                "categoryOptionCombo": "ye1QuAMRG5Z",
+                "dataElement": "fZsSPCGs3d9",
+                "row": 4,
+                "column": 3
+            },
+            {
+                " _comment": "Outpatient Morbidity-Communicable-Vector Borne-Malaria (Plasmodium Falciparum) Cases Male",
+                "categoryOptionCombo": "PflKpozpO7b",
+                "dataElement": "fZsSPCGs3d9",
+                "row": 4,
+                "column": 4
+            },
+
+            {
+                " _comment": "Outpatient Morbidity-Communicable-Vector Borne-Malaria (Plasmodium Vivax) Cases Female",
+                "categoryOptionCombo": "ye1QuAMRG5Z",
+                "dataElement": "LZYfptKIqkh",
+                "row": 6,
+                "column": 3
+            },
+            {
+                " _comment": "Outpatient Morbidity-Communicable-Vector Borne-Malaria (Plasmodium Vivax) Cases Male",
+                "categoryOptionCombo": "PflKpozpO7b",
+                "dataElement": "LZYfptKIqkh",
+                "row": 6,
+                "column": 3
+            },
+            {
+                " _comment": "Outpatient Morbidity-Communicable-Vector Borne-Dengue Fever Cases Female",
+                "categoryOptionCombo": "ye1QuAMRG5Z",
+                "dataElement": "XBZPrqWn6OG",
+                "row": 8,
+                "column": 3
+            },
+            {
+                " _comment": "Outpatient Morbidity-Communicable-Vector Borne-Dengue Fever Cases Male",
+                "categoryOptionCombo": "PflKpozpO7b",
+                "dataElement": "XBZPrqWn6OG",
+                "row": 8,
+                "column": 4
+            },
+            {
+                " _comment": "Outpatient Morbidity-Communicable-Vector Borne-Kala-Azar/Leshmaniasis Cases Female",
+                "categoryOptionCombo": "ye1QuAMRG5Z",
+                "dataElement": "gCLElGi3gze",
+                "row": 9,
+                "column": 3
+            },
+            {
+                " _comment": "Outpatient Morbidity-Communicable-Vector Borne-Kala-Azar/Leshmaniasis Cases Male",
+                "categoryOptionCombo": "PflKpozpO7b",
+                "dataElement": "gCLElGi3gze",
+                "row": 9,
+                "column": 4
+            },
+            {
+                " _comment": "OPD-Morbidity-Communicable/Vector Borne-Scrub Typhus Female",
+                "categoryOptionCombo": "ye1QuAMRG5Z",
+                "dataElement": "G8wYJTMKN0U",
+                "row": 10,
+                "column": 3
+            },
+            {
+                " _comment": "OPD-Morbidity-Communicable/Vector Borne-Scrub Typhus Male",
+                "categoryOptionCombo": "PflKpozpO7b",
+                "dataElement": "G8wYJTMKN0U",
+                "row": 10,
+                "column": 4
+            },
+            {
+                " _comment": "OPD Morbidity-Communicable/Vector Borne-Japanese Encephalitis Cases Female",
+                "categoryOptionCombo": "ye1QuAMRG5Z",
+                "dataElement": "UcD9xoD0pHx",
+                "row": 11,
+                "column": 3
+            },
+            {
+                " _comment": "OPD Morbidity-Communicable/Vector Borne-Japanese Encephalitis Cases Male",
+                "categoryOptionCombo": "PflKpozpO7b",
+                "dataElement": "UcD9xoD0pHx",
+                "row": 11,
+                "column": 4
+            }
+        ]
+    },
+    "18-C_Communicable_WaterFood_Borne":{
+        "dataValues":[
+            {
+                " _comment": "Outpatient Morbidity-Communicable-Water/Food Borne-Typhoid (Enteric Fever) Cases Female",
+                "categoryOptionCombo": "ye1QuAMRG5Z",
+                "dataElement": "gwhVCfaS9UN",
+                "row": 1,
+                "column": 3
+            },
+            {
+                " _comment": "Outpatient Morbidity-Communicable-Water/Food Borne-Typhoid (Enteric Fever) Cases Male",
+                "categoryOptionCombo": "PflKpozpO7b",
+                "dataElement": "gwhVCfaS9UN",
+                "row": 1,
+                "column": 4
+            },
+            {
+                " _comment": "Outpatient Morbidity-Communicable-Water/Food Borne-Acute Gastro-Enteritis (AGE) Cases Female",
+                "categoryOptionCombo": "ye1QuAMRG5Z",
+                "dataElement": "cISG3BoGZTm",
+                "row": 2,
+                "column": 3
+            },
+            {
+                " _comment": "Outpatient Morbidity-Communicable-Water/Food Borne-Acute Gastro-Enteritis (AGE) Cases Male",
+                "categoryOptionCombo": "PflKpozpO7b",
+                "dataElement": "cISG3BoGZTm",
+                "row": 2,
+                "column": 4
+            },
+            {
+                " _comment": "Outpatient Morbidity-Communicable-Water/Food Borne-Ameobic Dysentery/Amoebiasis Cases Female",
+                "categoryOptionCombo": "ye1QuAMRG5Z",
+                "dataElement": "td2iBmsLero",
+                "row": 3,
+                "column": 3
+            },
+            {
+                " _comment": "Outpatient Morbidity-Communicable-Water/Food Borne-Ameobic Dysentery/Amoebiasis Cases Male",
+                "categoryOptionCombo": "PflKpozpO7b",
+                "dataElement": "td2iBmsLero",
+                "row": 3,
+                "column": 4
+            },
+            {
+                " _comment": "Outpatient Morbidity-Communicable-Water/Food Borne-Bacillary Dysentery/Shigellosis Cases Female",
+                "categoryOptionCombo": "ye1QuAMRG5Z",
+                "dataElement": "y3glz39HVvQ",
+                "row": 4,
+                "column": 3
+            },
+            {
+                " _comment": "Outpatient Morbidity-Communicable-Water/Food Borne-Bacillary Dysentery/Shigellosis Cases Male",
+                "categoryOptionCombo": "PflKpozpO7b",
+                "dataElement": "y3glz39HVvQ",
+                "row": 4,
+                "column": 4
+            },
+            {
+                " _comment": "Outpatient Morbidity-Communicable-Water/Food Borne-Presumed Non-Infectious Diarrhoea Cases Female",
+                "categoryOptionCombo": "ye1QuAMRG5Z",
+                "dataElement": "LAwTvVrfnOB",
+                "row": 5,
+                "column": 3
+            },
+            {
+                " _comment": "Outpatient Morbidity-Communicable-Water/Food Borne-Presumed Non-Infectious Diarrhoea Cases Male",
+                "categoryOptionCombo": "PflKpozpO7b",
+                "dataElement": "LAwTvVrfnOB",
+                "row": 5,
+                "column": 4
+            },
+            {
+                " _comment": "Outpatient Morbidity-Communicable-Water/Food Borne-Cholera Cases Female",
+                "categoryOptionCombo": "ye1QuAMRG5Z",
+                "dataElement": "FJ0pdVWlBbG",
+                "row": 6,
+                "column": 3
+            },
+            {
+                " _comment": "Outpatient Morbidity-Communicable-Water/Food Borne-Cholera Cases Male",
+                "categoryOptionCombo": "PflKpozpO7b",
+                "dataElement": "FJ0pdVWlBbG",
+                "row": 6,
+                "column": 4
+            },
+            {
+                " _comment": "Outpatient Morbidity-Communicable-Water/Food Borne-Intestinal Worms Cases Female",
+                "categoryOptionCombo": "ye1QuAMRG5Z",
+                "dataElement": "te3iSwrdWO7",
+                "row": 7,
+                "column": 3
+            },
+            {
+                " _comment": "Outpatient Morbidity-Communicable-Water/Food Borne-Intestinal Worms Cases Male",
+                "categoryOptionCombo": "PflKpozpO7b",
+                "dataElement": "te3iSwrdWO7",
+                "row": 7,
+                "column": 4
+            },
+            {
+                " _comment": "Outpatient Morbidity-Communicable-Water/Food Borne-Jaundice Cases Female",
+                "categoryOptionCombo": "ye1QuAMRG5Z",
+                "dataElement": "iZDCnd0VgWy",
+                "row": 8,
+                "column": 3
+            },
+            {
+                " _comment": "Outpatient Morbidity-Communicable-Water/Food Borne-Jaundice Cases Male",
+                "categoryOptionCombo": "PflKpozpO7b",
+                "dataElement": "iZDCnd0VgWy",
+                "row": 8,
+                "column": 4
+            },
+            {
+                " _comment": "Outpatient Morbidity-Communicable-Water/Food Borne-Hepatitis A Cases Female",
+                "categoryOptionCombo": "ye1QuAMRG5Z",
+                "dataElement": "w5mNn2EBUmg",
+                "row": 9,
+                "column": 3
+            },
+            {
+                " _comment": "Outpatient Morbidity-Communicable-Water/Food Borne-Hepatitis A Cases Male",
+                "categoryOptionCombo": "PflKpozpO7b",
+                "dataElement": "w5mNn2EBUmg",
+                "row": 9,
+                "column": 4
+            },
+            {
+                " _comment": "Outpatient Morbidity-Communicable-Water/Food Borne-Hepatitis E Cases Female",
+                "categoryOptionCombo": "ye1QuAMRG5Z",
+                "dataElement": "LAP6lgcrJi5",
+                "row": 10,
+                "column": 3
+            },
+            {
+                " _comment": "Outpatient Morbidity-Communicable-Water/Food Borne-Hepatitis E Cases Male",
+                "categoryOptionCombo": "PflKpozpO7b",
+                "dataElement": "LAP6lgcrJi5",
+                "row": 10,
+                "column": 4
+            },
+            {
+                " _comment": "Outpatient Morbidity-Communicable-Water/Food Borne-Volume Depletion (Dehydration) Cases Female",
+                "categoryOptionCombo": "ye1QuAMRG5Z",
+                "dataElement": "ZZsL7yaqg4L",
+                "row": 11,
+                "column": 3
+            },
+            {
+                " _comment": "Outpatient Morbidity-Communicable-Water/Food Borne-Volume Depletion (Dehydration) Cases Male",
+                "categoryOptionCombo": "PflKpozpO7b",
+                "dataElement": "ZZsL7yaqg4L",
+                "row": 11,
+                "column": 4
+            },
+            {
+                " _comment": "Outpatient Morbidity-Communicable-Water/Food Borne-Bacterial Intestinal Infection Cases Female",
+                "categoryOptionCombo": "ye1QuAMRG5Z",
+                "dataElement": "iVcBPvC8Dm4",
+                "row": 12,
+                "column": 3
+            },
+            {
+                " _comment": "Outpatient Morbidity-Communicable-Water/Food Borne-Bacterial Intestinal Infection Cases Male",
+                "categoryOptionCombo": "PflKpozpO7b",
+                "dataElement": "iVcBPvC8Dm4",
+                "row": 12,
+                "column": 4
+            }
+        ]
+    },
+    "18-D_Other_Communicable_Diseases":{
+        "dataValues":[
+            {
+                " _comment": "Outpatient Morbidity-Other Communicable Diseases-Leprosy Cases Female",
+                "categoryOptionCombo": "ye1QuAMRG5Z",
+                "dataElement": "zCnvG70EbAa",
+                "row": 1,
+                "column": 3
+            },
+            {
+                " _comment": "Outpatient Morbidity-Other Communicable Diseases-Leprosy Cases Male",
+                "categoryOptionCombo": "PflKpozpO7b",
+                "dataElement": "zCnvG70EbAa",
+                "row": 1,
+                "column": 4
+            },
+            {
+                " _comment": "Outpatient Morbidity-Other Communicable Diseases-Meningitis Cases Female",
+                "categoryOptionCombo": "ye1QuAMRG5Z",
+                "dataElement": "E80SAeiK4KF",
+                "row": 2,
+                "column": 3
+            },
+            {
+                " _comment": "Outpatient Morbidity-Other Communicable Diseases-Meningitis Cases Male",
+                "categoryOptionCombo": "PflKpozpO7b",
+                "dataElement": "E80SAeiK4KF",
+                "row": 2,
+                "column": 4
+            }
+        ]
+    },
+    "18-E_HIV-STI":{
+        "dataValues":[
+            {
+                " _comment": "Outpatient Morbidity-HIV/STI-HIV Infection Cases Female",
+                "categoryOptionCombo": "ye1QuAMRG5Z",
+                "dataElement": "oVnNnGHesch",
+                "row": 1,
+                "column": 3
+            },
+            {
+                " _comment": "Outpatient Morbidity-HIV/STI-HIV Infection Cases Male",
+                "categoryOptionCombo": "PflKpozpO7b",
+                "dataElement": "oVnNnGHesch",
+                "row": 1,
+                "column": 4
+            },
+            {
+                " _comment": "Outpatient Morbidity-HIV/STI-Urethral Discharge Syndrome (UDS) Gonococcal Cases Female",
+                "categoryOptionCombo": "ye1QuAMRG5Z",
+                "dataElement": "B8CqXFlCBr5",
+                "row": 2,
+                "column": 3
+            },
+            {
+                " _comment": "Outpatient Morbidity-HIV/STI-Urethral Discharge Syndrome (UDS) Gonococcal Cases Male",
+                "categoryOptionCombo": "PflKpozpO7b",
+                "dataElement": "B8CqXFlCBr5",
+                "row": 2,
+                "column": 4
+            },
+            {
+                " _comment": "Outpatient Morbidity-HIV/STI-Scrotal Swelling Syndrome (SSS) Cases Male",
+                "categoryOptionCombo": "kdsirVNKdhm",
+                "dataElement": "BJpAbmeRUVm",
+                "row": 3,
+                "column": 4
+            },
+            {
+                " _comment": "Outpatient Morbidity-HIV/STI-Vaginal Discharge Syndrome (VDS) Cases Female",
+                "categoryOptionCombo": "ye1QuAMRG5Z",
+                "dataElement": "HuGvgg2pOA2",
+                "row": 4,
+                "column": 3
+            },
+            {
+                " _comment": "Outpatient Morbidity-HIV/STI-Lower Abdominal Pain Syndrome (LAPS) Cases Female",
+                "categoryOptionCombo": "ye1QuAMRG5Z",
+                "dataElement": "uPijgtgd0jA",
+                "row": 5,
+                "column": 3
+            },
+            {
+                " _comment": "Outpatient Morbidity-HIV/STI-Lower Abdominal Pain Syndrome (LAPS) Cases Male",
+                "categoryOptionCombo": "PflKpozpO7b",
+                "dataElement": "uPijgtgd0jA",
+                "row": 5,
+                "column": 4
+            },
+            {
+                " _comment": "Outpatient Morbidity-HIV/STI-Neonatal Conjunctive Syndrome (NCS) Cases Female",
+                "categoryOptionCombo": "ye1QuAMRG5Z",
+                "dataElement": "A7ZUMi18b2C",
+                "row": 6,
+                "column": 3
+            },
+            {
+                " _comment": "Outpatient Morbidity-HIV/STI-Neonatal Conjunctive Syndrome (NCS) Cases Male",
+                "categoryOptionCombo": "PflKpozpO7b",
+                "dataElement": "A7ZUMi18b2C",
+                "row": 6,
+                "column": 4
+            },
+            {
+                " _comment": "Outpatient Morbidity-HIV/STI-Genital Ulcer Disease Syndrome (GUDS)-Female",
+                "categoryOptionCombo": "kdsirVNKdhm",
+                "dataElement": "b0flJFAByeR",
+                "row": 7,
+                "column": 3
+            },
+            {
+                " _comment": "Outpatient Morbidity-HIV/STI-Genital Ulcer Disease Syndrome (GUDS)-Male",
+                "categoryOptionCombo": "kdsirVNKdhm",
+                "dataElement": "ru2303Sy7nA",
+                "row": 8,
+                "column": 4
+            },
+            {
+                " _comment": "Outpatient Morbidity-HIV/STI-Inguinal Bubo Syndrome (IBS) Cases Female",
+                "categoryOptionCombo": "ye1QuAMRG5Z",
+                "dataElement": "s4WLJ0dumzx",
+                "row": 9,
+                "column": 3
+            },
+            {
+                " _comment": "Outpatient Morbidity-HIV/STI-Inguinal Bubo Syndrome (IBS) Cases Male",
+                "categoryOptionCombo": "PflKpozpO7b",
+                "dataElement": "s4WLJ0dumzx",
+                "row": 9,
+                "column": 4
+            },
+            {
+                " _comment": "Outpatient Morbidity-HIV/STI-Syphilis Cases Female",
+                "categoryOptionCombo": "ye1QuAMRG5Z",
+                "dataElement": "wxnuAwt1Hqm",
+                "row": 10,
+                "column": 3
+            },
+            {
+                " _comment": "Outpatient Morbidity-HIV/STI-Syphilis Cases Male",
+                "categoryOptionCombo": "PflKpozpO7b",
+                "dataElement": "wxnuAwt1Hqm",
+                "row": 10,
+                "column": 4
+            }
+        ]
+    },
+    "18-F_Other_Infected_Diseases":{
+        "dataValues":[
+            {
+                " _comment": "Outpatient Morbidity-Other Infected Diseases-ARI/Lower Respiratory Tract Infection (LRTI) Cases Female",
+                "categoryOptionCombo": "ye1QuAMRG5Z",
+                "dataElement": "eimjIL0RFb8",
+                "row": 1,
+                "column": 3
+            },
+            {
+                " _comment": "Outpatient Morbidity-Other Infected Diseases-ARI/Lower Respiratory Tract Infection (LRTI) Cases Male",
+                "categoryOptionCombo": "PflKpozpO7b",
+                "dataElement": "eimjIL0RFb8",
+                "row": 1,
+                "column": 4
+            },
+            {
+                " _comment": "Outpatient Morbidity-Other Infected Diseases-Upper Respiratory Tract Infection (URTI) Cases Female",
+                "categoryOptionCombo": "ye1QuAMRG5Z",
+                "dataElement": "C1dYWXuPeBo",
+                "row": 2,
+                "column": 3
+            },
+            {
+                " _comment": "Outpatient Morbidity-Other Infected Diseases-Upper Respiratory Tract Infection (URTI) Cases Male",
+                "categoryOptionCombo": "PflKpozpO7b",
+                "dataElement": "C1dYWXuPeBo",
+                "row": 2,
+                "column": 4
+            },
+            {
+                " _comment": "Outpatient Morbidity-Other Infected Diseases-Pneumonia Cases Female",
+                "categoryOptionCombo": "ye1QuAMRG5Z",
+                "dataElement": "ZCcVuwqAfaG",
+                "row": 3,
+                "column": 3
+            },
+            {
+                " _comment": "Outpatient Morbidity-Other Infected Diseases-Pneumonia Cases Male",
+                "categoryOptionCombo": "PflKpozpO7b",
+                "dataElement": "ZCcVuwqAfaG",
+                "row": 3,
+                "column": 4
+            },
+            {
+                " _comment": "Outpatient Morbidity-Other Infected Diseases-Severe Pneumonia Cases Female",
+                "categoryOptionCombo": "ye1QuAMRG5Z",
+                "dataElement": "e8gE5FvXVnB",
+                "row": 4,
+                "column": 3
+            },
+            {
+                " _comment": "Outpatient Morbidity-Other Infected Diseases-Severe Pneumonia Cases Male",
+                "categoryOptionCombo": "PflKpozpO7b",
+                "dataElement": "e8gE5FvXVnB",
+                "row": 4,
+                "column": 4
+            },
+            {
+                " _comment": "Outpatient Morbidity-Other Infected Diseases-Bronchitis (Acute & Chronic) Cases Female",
+                "categoryOptionCombo": "ye1QuAMRG5Z",
+                "dataElement": "G2SkThUYe5w",
+                "row": 5,
+                "column": 3
+            },
+            {
+                " _comment": "Outpatient Morbidity-Other Infected Diseases-Bronchitis (Acute & Chronic) Cases Male",
+                "categoryOptionCombo": "PflKpozpO7b",
+                "dataElement": "G2SkThUYe5w",
+                "row": 5,
+                "column": 4
+            },
+            {
+                " _comment": "Outpatient Morbidity-Other Infected Diseases-Urinary Tract Infection (UTI) Cases Female",
+                "categoryOptionCombo": "ye1QuAMRG5Z",
+                "dataElement": "uV5LwN8OzCy",
+                "row": 6,
+                "column": 3
+            },
+            {
+                " _comment": "Outpatient Morbidity-Other Infected Diseases-Urinary Tract Infection (UTI) Cases Male",
+                "categoryOptionCombo": "PflKpozpO7b",
+                "dataElement": "uV5LwN8OzCy",
+                "row": 6,
+                "column": 4
+            },
+            {
+                " _comment": "Outpatient Morbidity-Other Infected Diseases-Viral Influenza Cases Female",
+                "categoryOptionCombo": "ye1QuAMRG5Z",
+                "dataElement": "qrTjnhUQ195",
+                "row": 7,
+                "column": 3
+            },
+            {
+                " _comment": "Outpatient Morbidity-Other Infected Diseases-Viral Influenza Cases Male",
+                "categoryOptionCombo": "PflKpozpO7b",
+                "dataElement": "qrTjnhUQ195",
+                "row": 7,
+                "column": 4
+            },
+            {
+                " _comment": "Outpatient Morbidity-Other Infected Diseases-Reproductive Tract Infection (RTI) - Female",
+                "categoryOptionCombo": "kdsirVNKdhm",
+                "dataElement": "z1O4M2enpI3",
+                "row": 8,
+                "column": 3
+            },
+            {
+                " _comment": "Outpatient Morbidity-Other Infected Diseases-Reproductive Tract Infection (RTI) - Male",
+                "categoryOptionCombo": "kdsirVNKdhm",
+                "dataElement": "INDKIQBLb3i",
+                "row": 9,
+                "column": 4
+            }
+        ]
+    },
+    "18-G_Nutritional_Metabolic_Disorder":{
+        "dataValues":[
+            {
+                " _comment": "Outpatient Morbidity-Nutritional & Metabolic Disorder-Goitre,Cretinism Cases Female",
+                "categoryOptionCombo": "ye1QuAMRG5Z",
+                "dataElement": "Qvvn1g4XfZ1",
+                "row": 1,
+                "column": 3
+            },
+            {
+                " _comment": "Outpatient Morbidity-Nutritional & Metabolic Disorder-Goitre,Cretinism Cases Male",
+                "categoryOptionCombo": "PflKpozpO7b",
+                "dataElement": "Qvvn1g4XfZ1",
+                "row": 1,
+                "column": 4
+            },
+            {
+                " _comment": "Outpatient Morbidity-Nutritional & Metabolic Disorder-Diabetes Mellitus (DM) Cases Female",
+                "categoryOptionCombo": "ye1QuAMRG5Z",
+                "dataElement": "l09HErr6ggw",
+                "row": 2,
+                "column": 3
+            },
+            {
+                " _comment": "Outpatient Morbidity-Nutritional & Metabolic Disorder-Diabetes Mellitus (DM) Cases Male",
+                "categoryOptionCombo": "PflKpozpO7b",
+                "dataElement": "l09HErr6ggw",
+                "row": 2,
+                "column": 4
+            },
+            {
+                " _comment": "Outpatient Morbidity-Nutritional & Metabolic Disorder-Malnutrition Cases Female",
+                "categoryOptionCombo": "ye1QuAMRG5Z",
+                "dataElement": "oh9zomy0bdm",
+                "row": 3,
+                "column": 3
+            },
+            {
+                " _comment": "Outpatient Morbidity-Nutritional & Metabolic Disorder-Malnutrition Cases Male",
+                "categoryOptionCombo": "PflKpozpO7b",
+                "dataElement": "oh9zomy0bdm",
+                "row": 3,
+                "column": 4
+            }, {
+                " _comment": "Outpatient Morbidity-Nutritional & Metabolic Disorder-Avitaminoses & Other Nutrient Deficiency Cases Female",
+                "categoryOptionCombo": "ye1QuAMRG5Z",
+                "dataElement": "bp53MgxccqQ",
+                "row": 4,
+                "column": 3
+            },
+            {
+                " _comment": "Outpatient Morbidity-Nutritional & Metabolic Disorder-Avitaminoses & Other Nutrient Deficiency Cases Male",
+                "categoryOptionCombo": "PflKpozpO7b",
+                "dataElement": "bp53MgxccqQ",
+                "row": 4,
+                "column": 4
+            },
+            {
+                " _comment": "Outpatient Morbidity-Nutritional & Metabolic Disorder-Obesity Cases Female",
+                "categoryOptionCombo": "ye1QuAMRG5Z",
+                "dataElement": "EKavdicUQaW",
+                "row": 5,
+                "column": 3
+            },
+            {
+                " _comment": "Outpatient Morbidity-Nutritional & Metabolic Disorder-Obesity Cases Male",
+                "categoryOptionCombo": "PflKpozpO7b",
+                "dataElement": "EKavdicUQaW",
+                "row": 5,
+                "column": 4
+            },
+            {
+                " _comment": "Outpatient Morbidity-Nutritional & Metabolic Disorder-Anaemia/Polyneuropathy Cases Female",
+                "categoryOptionCombo": "ye1QuAMRG5Z",
+                "dataElement": "doJ6CNvMbmw",
+                "row": 6,
+                "column": 3
+            },
+            {
+                " _comment": "Outpatient Morbidity-Nutritional & Metabolic Disorder-Anaemia/Polyneuropathy Cases Male",
+                "categoryOptionCombo": "PflKpozpO7b",
+                "dataElement": "doJ6CNvMbmw",
+                "row": 6,
+                "column": 4
+            },
+            {
+                " _comment": "Outpatient Morbidity-Nutritional & Metabolic Disorder-Polyneuritis Cases Female",
+                "categoryOptionCombo": "ye1QuAMRG5Z",
+                "dataElement": "nDWUFmrIPCA",
+                "row": 7,
+                "column": 3
+            },
+            {
+                " _comment": "Outpatient Morbidity-Nutritional & Metabolic Disorder-Polyneuritis Cases Male",
+                "categoryOptionCombo": "PflKpozpO7b",
+                "dataElement": "nDWUFmrIPCA",
+                "row": 7,
+                "column": 4
+            }
+        ]
+    }
+ }
+}

@@ -1,0 +1,1795 @@
+{
+	"orgUnit": "Bm39oMfSNir",
+	"reports": {
+		"Summary of Indoor Services Inpatient Outcome": {
+			"dataValues": [
+				{
+					" _comment": "Inpatients Absconded- Age Group 0-7 days female",
+					"categoryOptionCombo": "ye1QuAMRG5Z",
+					"dataElement": "Fqk8Q7IyFGm",
+					"row": 1,
+					"column": 4
+				},
+				{
+					" _comment": "Inpatients  Absconded- Age Group 0-7 days male",
+					"categoryOptionCombo": "PflKpozpO7b",
+					"dataElement": "Fqk8Q7IyFGm",
+					"row": 2,
+					"column": 4
+				},
+				{
+					" _comment": "Inpatients Absconded- Age Group 8-28 days female",
+					"categoryOptionCombo": "ye1QuAMRG5Z",
+					"dataElement": "lTMICysCO1L",
+					"row": 3,
+					"column": 4
+				},
+				{
+					" _comment": "Inpatients Outcome-Absconded- Age Group 8 to 28 days Male",
+					"categoryOptionCombo": "PflKpozpO7b",
+					"dataElement": "lTMICysCO1L",
+					"row": 4,
+					"column": 4
+				},
+				{
+					" _comment": "Inpatients Absconded- Age Group 29 Days - 1 Year Female",
+					"categoryOptionCombo": "ye1QuAMRG5Z",
+					"dataElement": "q1hEowbwEte",
+					"row": 5,
+					"column": 4
+				},
+				{
+					" _comment": "Inpatients Absconded- Age Group 29 Days - 1 Year Male",
+					"categoryOptionCombo": "PflKpozpO7b",
+					"dataElement": "q1hEowbwEte",
+					"row": 6,
+					"column": 4
+				},
+				{
+					" _comment": "Inpatients Absconded- Age Group 01 - 04 Years Female",
+					"categoryOptionCombo": "ye1QuAMRG5Z",
+					"dataElement": "R9VsHuLaaOV",
+					"row": 7,
+					"column": 4
+				},
+				{
+					" _comment": "Inpatients Absconded- Age Group 01 - 04 Years Male",
+					"categoryOptionCombo": "PflKpozpO7b",
+					"dataElement": "R9VsHuLaaOV",
+					"row": 8,
+					"column": 4
+				},
+				{
+					" _comment": "Inpatients Absconded- Age Group 05 - 14 Years Female",
+					"categoryOptionCombo": "ye1QuAMRG5Z",
+					"dataElement": "i80uwDMocMV",
+					"row": 9,
+					"column": 4
+				},
+				{
+					" _comment": "Inpatients Absconded- Age Group 05 - 14 Years Male",
+					"categoryOptionCombo": "PflKpozpO7b",
+					"dataElement": "i80uwDMocMV",
+					"row": 10,
+					"column": 4
+				},
+				{
+					" _comment": "Inpatients Absconded- Age Group 15 - 19 Years Female",
+					"categoryOptionCombo": "ye1QuAMRG5Z",
+					"dataElement": "PZP5PrfHPeK",
+					"row": 11,
+					"column": 4
+				},
+				{
+					" _comment": "Inpatients Absconded- Age Group 15 - 19 Years Male",
+					"categoryOptionCombo": "PflKpozpO7b",
+					"dataElement": "PZP5PrfHPeK",
+					"row": 12,
+					"column": 4
+				},
+				{
+					" _comment": "Inpatients Absconded- Age Group 20 - 29 Years Female",
+					"categoryOptionCombo": "ye1QuAMRG5Z",
+					"dataElement": "OC96VpJIdoE",
+					"row": 13,
+					"column": 4
+				},
+				{
+					" _comment": "Inpatients Absconded- Age Group 20 - 29 Years Male",
+					"categoryOptionCombo": "PflKpozpO7b",
+					"dataElement": "OC96VpJIdoE",
+					"row": 14,
+					"column": 4
+				},
+				{
+					" _comment": "Inpatients Absconded- Age Group 30 - 39 Years Female",
+					"categoryOptionCombo": "ye1QuAMRG5Z",
+					"dataElement": "xOBWxJ7rtOG",
+					"row": 15,
+					"column": 4
+				},
+				{
+					" _comment": "Inpatients Absconded- Age Group 30 - 39 Years Male",
+					"categoryOptionCombo": "PflKpozpO7b",
+					"dataElement": "xOBWxJ7rtOG",
+					"row": 16,
+					"column": 4
+				},
+				{
+					" _comment": "Inpatients Absconded- Age Group 40 - 49 Years Female",
+					"categoryOptionCombo": "ye1QuAMRG5Z",
+					"dataElement": "GwmblUqSoMS",
+					"row": 17,
+					"column": 4
+				},
+				{
+					" _comment": "Inpatients Absconded- Age Group 40 - 49 Years Male",
+					"categoryOptionCombo": "PflKpozpO7b",
+					"dataElement": "GwmblUqSoMS",
+					"row": 18,
+					"column": 4
+				},
+				{
+					" _comment": "Inpatients Absconded- Age Group 50 - 59 Years female",
+					"categoryOptionCombo": "ye1QuAMRG5Z",
+					"dataElement": "rvi6BdbtIu1",
+					"row": 19,
+					"column": 4
+				},
+				{
+					" _comment": "Inpatients Absconded- Age Group 50 - 59 Years male",
+					"categoryOptionCombo": "PflKpozpO7b",
+					"dataElement": "rvi6BdbtIu1",
+					"row": 20,
+					"column": 4
+				},
+				{
+					" _comment": "Inpatients Outcome-Absconded-60 to 69 Years Female",
+					"categoryOptionCombo": "ye1QuAMRG5Z",
+					"dataElement": "cWW5H0a30nH",
+					"row": 21,
+					"column": 4
+				},
+				{
+					" _comment": "Inpatients Outcome-Absconded-60 to 69 Years Male",
+					"categoryOptionCombo": "PflKpozpO7b",
+					"dataElement": "cWW5H0a30nH",
+					"row": 22,
+					"column": 4
+				},
+				{
+					" _comment": "Inpatients Outcome-Absconded- more than or equal to 70 Years Female",
+					"categoryOptionCombo": "ye1QuAMRG5Z",
+					"dataElement": "QMtXxyDBkoy",
+					"row": 23,
+					"column": 4
+				},
+				{
+					" _comment": "Inpatients Outcome-Absconded- more than or equal to 70 Years male",
+					"categoryOptionCombo": "PflKpozpO7b",
+					"dataElement": "QMtXxyDBkoy",
+					"row": 24,
+					"column": 4
+				},
+				{
+					" _comment": "Inpatient Deaths- in < 48 Hours of Admission-0 to 7 days Female",
+					"categoryOptionCombo": "ye1QuAMRG5Z",
+					"dataElement": "uOpuphGuSnO",
+					"row": 25,
+					"column": 4
+				},
+				{
+					" _comment": "Inpatient Deaths- in < 48 Hours of Admission-0 to 7 days Male",
+					"categoryOptionCombo": "PflKpozpO7b",
+					"dataElement": "uOpuphGuSnO",
+					"row": 26,
+					"column": 4
+				},
+				{
+					" _comment": "Inpatient Deaths-in < 48 Hours of Admission-8 to 28 days Female",
+					"categoryOptionCombo": "ye1QuAMRG5Z",
+					"dataElement": "TY2g2JJ60se",
+					"row": 27,
+					"column": 4
+				},
+				{
+					" _comment": "Inpatient Deaths-in < 48 Hours of Admission-8 to 28 days Male",
+					"categoryOptionCombo": "PflKpozpO7b",
+					"dataElement": "TY2g2JJ60se",
+					"row": 28,
+					"column": 4
+				},
+				{
+					" _comment": "Inpatient Deaths in < 48 Hours of Admission- Age Group 29 Days - 1 Year Female",
+					"categoryOptionCombo": "ye1QuAMRG5Z",
+					"dataElement": "I9luOd2a7XZ",
+					"row": 29,
+					"column": 4
+				},
+				{
+					" _comment": "Inpatient Deaths in < 48 Hours of Admission- Age Group 29 Days - 1 Year Male",
+					"categoryOptionCombo": "PflKpozpO7b",
+					"dataElement": "I9luOd2a7XZ",
+					"row": 30,
+					"column": 4
+				},
+				{
+					" _comment": "Inpatient Deaths in < 48 Hours of Admission- Age Group 1 Days - 04 Year Female",
+					"categoryOptionCombo": "ye1QuAMRG5Z",
+					"dataElement": "y9WZpRQwfwP",
+					"row": 31,
+					"column": 4
+				},
+				{
+					" _comment": "Inpatient Deaths in < 48 Hours of Admission- Age Group 1 Days - 04 Year Male",
+					"categoryOptionCombo": "PflKpozpO7b",
+					"dataElement": "y9WZpRQwfwP",
+					"row": 32,
+					"column": 4
+				},
+				{
+					" _comment": "Inpatient Deaths in < 48 Hours of Admission- Age Group 05 - 14 Years Female",
+					"categoryOptionCombo": "ye1QuAMRG5Z",
+					"dataElement": "RZxcXR28SV3",
+					"row": 33,
+					"column": 4
+				},
+				{
+					" _comment": "Inpatient Deaths in < 48 Hours of Admission- Age Group 05 - 14 Years Male",
+					"categoryOptionCombo": "PflKpozpO7b",
+					"dataElement": "RZxcXR28SV3",
+					"row": 34,
+					"column": 4
+				},
+				{
+					" _comment": "Inpatient Deaths in < 48 Hours of Admission- Age Group 15 - 19 Years Female",
+					"categoryOptionCombo": "ye1QuAMRG5Z",
+					"dataElement": "J3B6Aqs64TL",
+					"row": 35,
+					"column": 4
+				},
+				{
+					" _comment": "Inpatient Deaths in < 48 Hours of Admission- Age Group 15 - 19 Years Male",
+					"categoryOptionCombo": "PflKpozpO7b",
+					"dataElement": "J3B6Aqs64TL",
+					"row": 36,
+					"column": 4
+				},
+				{
+					" _comment": "Inpatient Deaths in < 48 Hours of Admission- Age Group 20 - 29 Years Female",
+					"categoryOptionCombo": "ye1QuAMRG5Z",
+					"dataElement": "EHz6GfxpuXw",
+					"row": 37,
+					"column": 4
+				},
+				{
+					" _comment": "Inpatient Deaths in < 48 Hours of Admission- Age Group 20 - 29 Years Male",
+					"categoryOptionCombo": "PflKpozpO7b",
+					"dataElement": "EHz6GfxpuXw",
+					"row": 38,
+					"column": 4
+				},
+				{
+					" _comment": "Inpatient Deaths in < 48 Hours of Admission- Age Group 30 - 39 Years Female",
+					"categoryOptionCombo": "ye1QuAMRG5Z",
+					"dataElement": "r5ovXqoUemk",
+					"row": 39,
+					"column": 4
+				},
+				{
+					" _comment": "Inpatient Deaths in < 48 Hours of Admission- Age Group 30 - 39 Years Male",
+					"categoryOptionCombo": "PflKpozpO7b",
+					"dataElement": "r5ovXqoUemk",
+					"row": 40,
+					"column": 4
+				},
+				{
+					" _comment": "Inpatient Deaths in < 48 Hours of Admission- Age Group 40 - 49 Years Female",
+					"categoryOptionCombo": "ye1QuAMRG5Z",
+					"dataElement": "VDDHvT1MISE",
+					"row": 41,
+					"column": 4
+				},
+				{
+					" _comment": "Inpatient Deaths in < 48 Hours of Admission- Age Group 40 - 49 Years Male",
+					"categoryOptionCombo": "PflKpozpO7b",
+					"dataElement": "VDDHvT1MISE",
+					"row": 42,
+					"column": 4
+				},
+				{
+					" _comment": "Inpatient Deaths in < 48 Hours of Admission- Age Group 50 - 59 Years Female",
+					"categoryOptionCombo": "ye1QuAMRG5Z",
+					"dataElement": "rjN2W3sO17N",
+					"row": 43,
+					"column": 4
+				},
+				{
+					" _comment": "Inpatient Deaths in < 48 Hours of Admission- Age Group 50 - 59 Years Male",
+					"categoryOptionCombo": "PflKpozpO7b",
+					"dataElement": "rjN2W3sO17N",
+					"row": 44,
+					"column": 4
+				},
+				{
+					" _comment": "Inpatient Deaths in < 48 Hours of Admission-60 to 69 Years Female",
+					"categoryOptionCombo": "ye1QuAMRG5Z",
+					"dataElement": "rVq4pfFzR1Y",
+					"row": 45,
+					"column": 4
+				},
+				{
+					" _comment": "Inpatient Deaths in < 48 Hours of Admission-60 to 69 Years Male",
+					"categoryOptionCombo": "PflKpozpO7b",
+					"dataElement": "rVq4pfFzR1Y",
+					"row": 46,
+					"column": 4
+				},
+				{
+					" _comment": "Inpatient Deaths in < 48 Hours of Admission- more than or equal to 70 Years Female",
+					"categoryOptionCombo": "ye1QuAMRG5Z",
+					"dataElement": "K7ysJSxXsmE",
+					"row": 47,
+					"column": 4
+				},
+				{
+					" _comment": "Inpatient Deaths in < 48 Hours of Admission- more than or equal to 70 Years Male",
+					"categoryOptionCombo": "PflKpozpO7b",
+					"dataElement": "K7ysJSxXsmE",
+					"row": 48,
+					"column": 4
+				},
+				{
+					" _comment": "Inpatient Deaths in more than or equal to 48 Hours of Admission-0 to 7 days Female",
+					"categoryOptionCombo": "ye1QuAMRG5Z",
+					"dataElement": "WQRxFdjHUwu",
+					"row": 49,
+					"column": 4
+				},
+				{
+					" _comment": "Inpatient Deaths in more than or equal to 48 Hours of Admission-0 to 7 days Male",
+					"categoryOptionCombo": "PflKpozpO7b",
+					"dataElement": "WQRxFdjHUwu",
+					"row": 50,
+					"column": 4
+				},
+				{
+					" _comment": "Inpatient Deaths in more than or equal to 48 Hours of Admission-8 to 28 days Female",
+					"categoryOptionCombo": "ye1QuAMRG5Z",
+					"dataElement": "aebRNbazF1u",
+					"row": 51,
+					"column": 4
+				},
+				{
+					" _comment": "Inpatient Deaths in more than or equal to 48 Hours of Admission-8 to 28 days Male",
+					"categoryOptionCombo": "PflKpozpO7b",
+					"dataElement": "aebRNbazF1u",
+					"row": 52,
+					"column": 4
+				},
+				{
+					" _comment": "Inpatient Deaths in more than or equal to 48 Hours of Admission- Age Group 29 Days - 1 Year Female",
+					"categoryOptionCombo": "ye1QuAMRG5Z",
+					"dataElement": "u5Ju7K3EFZ3",
+					"row": 53,
+					"column": 4
+				},
+				{
+					" _comment": "Inpatient Deaths in more than or equal to 48 Hours of Admission- Age Group 29 Days - 1 Year Male",
+					"categoryOptionCombo": "PflKpozpO7b",
+					"dataElement": "u5Ju7K3EFZ3",
+					"row": 54,
+					"column": 4
+				},
+				{
+					" _comment": "Inpatient Deaths in more than or equal to 48 Hours of Admission- Age Group 01 - 04 Years Female",
+					"categoryOptionCombo": "ye1QuAMRG5Z",
+					"dataElement": "W1Tfa8N3tEq",
+					"row": 55,
+					"column": 4
+				},
+				{
+					" _comment": "Inpatient Deaths in more than or equal to 48 Hours of Admission- Age Group 01 - 04 Years Male",
+					"categoryOptionCombo": "PflKpozpO7b",
+					"dataElement": "W1Tfa8N3tEq",
+					"row": 56,
+					"column": 4
+				},
+				{
+					" _comment": "Inpatient Deaths in more than or equal to 48 Hours of Admission- Age Group 05 - 14 Years Female",
+					"categoryOptionCombo": "ye1QuAMRG5Z",
+					"dataElement": "YTzkpp1RDGx",
+					"row": 57,
+					"column": 4
+				},
+				{
+					" _comment": "Inpatient Deaths in more than or equal to 48 Hours of Admission- Age Group 05 - 14 Years Male",
+					"categoryOptionCombo": "PflKpozpO7b",
+					"dataElement": "YTzkpp1RDGx",
+					"row": 58,
+					"column": 4
+				},
+				{
+					" _comment": "Inpatient Deaths in more than or equal to 48 Hours of Admission- Age Group 15 - 19 Years Female",
+					"categoryOptionCombo": "ye1QuAMRG5Z",
+					"dataElement": "NuvEJyyrRyn",
+					"row": 59,
+					"column": 4
+				},
+				{
+					" _comment": "Inpatient Deaths in more than or equal to 48 Hours of Admission- Age Group 15 - 19 Years Male",
+					"categoryOptionCombo": "PflKpozpO7b",
+					"dataElement": "NuvEJyyrRyn",
+					"row": 60,
+					"column": 4
+				},
+				{
+					" _comment": "Inpatient Deaths in more than or equal to 48 Hours of Admission- Age Group 20 - 29 Years Female",
+					"categoryOptionCombo": "ye1QuAMRG5Z",
+					"dataElement": "qNch4vXPvMS",
+					"row": 61,
+					"column": 4
+				},
+				{
+					" _comment": "Inpatient Deaths in more than or equal to 48 Hours of Admission- Age Group 20 - 29 Years Male",
+					"categoryOptionCombo": "PflKpozpO7b",
+					"dataElement": "qNch4vXPvMS",
+					"row": 62,
+					"column": 4
+				},
+				{
+					" _comment": "Inpatient Deaths in more than or equal to 48 Hours of Admission- Age Group 30 - 39 Years Female",
+					"categoryOptionCombo": "ye1QuAMRG5Z",
+					"dataElement": "UAbEC9wm8JC",
+					"row": 63,
+					"column": 4
+				},
+				{
+					" _comment": "Inpatient Deaths in more than or equal to 48 Hours of Admission- Age Group 30 - 39 Years Male",
+					"categoryOptionCombo": "PflKpozpO7b",
+					"dataElement": "UAbEC9wm8JC",
+					"row": 64,
+					"column": 4
+				},
+				{
+					" _comment": "Inpatient Deaths in more than or equal to 48 Hours of Admission- Age Group 40 - 49 Years Female",
+					"categoryOptionCombo": "ye1QuAMRG5Z",
+					"dataElement": "EDHAawGus2l",
+					"row": 65,
+					"column": 4
+				},
+				{
+					" _comment": "Inpatient Deaths in more than or equal to 48 Hours of Admission- Age Group 40 - 49 Years Male",
+					"categoryOptionCombo": "PflKpozpO7b",
+					"dataElement": "EDHAawGus2l",
+					"row": 66,
+					"column": 4
+				},
+				{
+					" _comment": "Inpatient Deaths in more than or equal to 48 Hours of Admission- Age Group 50 - 59 Years Female",
+					"categoryOptionCombo": "ye1QuAMRG5Z",
+					"dataElement": "q9HWBr7XI3j",
+					"row": 67,
+					"column": 4
+				},
+				{
+					" _comment": "Inpatient Deaths in more than or equal to 48 Hours of Admission- Age Group 50 - 59 Years Male",
+					"categoryOptionCombo": "PflKpozpO7b",
+					"dataElement": "q9HWBr7XI3j",
+					"row": 68,
+					"column": 4
+				},
+				{
+					" _comment": "Inpatient Deaths in more than or equal to 48 Hours of Admission-60 to 69 Years Female",
+					"categoryOptionCombo": "ye1QuAMRG5Z",
+					"dataElement": "ADTvSS6ZkWi",
+					"row": 69,
+					"column": 4
+				},
+				{
+					" _comment": "Inpatient Deaths in more than or equal to 48 Hours of Admission-60 to 69 Years Male",
+					"categoryOptionCombo": "PflKpozpO7b",
+					"dataElement": "ADTvSS6ZkWi",
+					"row": 70,
+					"column": 4
+				},
+				{
+					" _comment": "Inpatient Deaths in more than or equal to 48 Hours of Admission-  more than or equal to 70 Years Female",
+					"categoryOptionCombo": "ye1QuAMRG5Z",
+					"dataElement": "UBWw7aps69k",
+					"row": 71,
+					"column": 4
+				},
+				{
+					" _comment": "Inpatient Deaths in more than or equal to 48 Hours of Admission-  more than or equal to 70 Years Male",
+					"categoryOptionCombo": "PflKpozpO7b",
+					"dataElement": "UBWw7aps69k",
+					"row": 72,
+					"column": 4
+				},
+				{
+					" _comment": "Inpatients stable - Age Group 0-7 days Female",
+					"categoryOptionCombo": "ye1QuAMRG5Z",
+					"dataElement": "ZchNDuXAuns",
+					"row": 73,
+					"column": 4
+				},
+				{
+					" _comment": "Inpatients stable - Age Group 0-7 days Male",
+					"categoryOptionCombo": "PflKpozpO7b",
+					"dataElement": "mNpQUrhMY2M",
+					"row": 74,
+					"column": 4
+				},
+				{
+					" _comment": "Inpatients stable - Age Group 8-28 days Female",
+					"categoryOptionCombo": "ye1QuAMRG5Z",
+					"dataElement": "JZxN7maZNTP",
+					"row": 75,
+					"column": 4
+				},
+				{
+					" _comment": "Inpatients stable - Age Group 8-28 days Male",
+					"categoryOptionCombo": "PflKpozpO7b",
+					"dataElement": "JZxN7maZNTP",
+					"row": 76,
+					"column": 4
+				},
+				{
+					" _comment": "Inpatients stable - Age Group 29 days - <1 year Female",
+					"categoryOptionCombo": "ye1QuAMRG5Z",
+					"dataElement": "FBGTznlhG52",
+					"row": 77,
+					"column": 4
+				},
+				{
+					" _comment": "Inpatients stable - Age Group 29 days - <1 year Male",
+					"categoryOptionCombo": "PflKpozpO7b",
+					"dataElement": "FBGTznlhG52",
+					"row": 78,
+					"column": 4
+				},
+				{
+					" _comment": "Inpatients stable - Age Group 1 - 4 year Female",
+					"categoryOptionCombo": "ye1QuAMRG5Z",
+					"dataElement": "SY9yhXNOxKV",
+					"row": 79,
+					"column": 4
+				},
+				{
+					" _comment": "Inpatients stable - Age Group 1 - 4 year Male",
+					"categoryOptionCombo": "PflKpozpO7b",
+					"dataElement": "SY9yhXNOxKV",
+					"row": 80,
+					"column": 4
+				},
+				{
+					" _comment": "Inpatients stable - Age Group 5 - 14 year Female",
+					"categoryOptionCombo": "ye1QuAMRG5Z",
+					"dataElement": "SrXLG8LgypM",
+					"row": 81,
+					"column": 4
+				},
+				{
+					" _comment": "Inpatients stable - Age Group 5 - 14 year Male",
+					"categoryOptionCombo": "PflKpozpO7b",
+					"dataElement": "SrXLG8LgypM",
+					"row": 82,
+					"column": 4
+				},
+				{
+					" _comment": "Inpatients stable - Age Group 15 - 19 year Female",
+					"categoryOptionCombo": "ye1QuAMRG5Z",
+					"dataElement": "QnPXOhBy2L0",
+					"row": 83,
+					"column": 4
+				},
+				{
+					" _comment": "Inpatients stable - Age Group 15 - 19 year Male",
+					"categoryOptionCombo": "PflKpozpO7b",
+					"dataElement": "QnPXOhBy2L0",
+					"row": 84,
+					"column": 4
+				},
+				{
+					" _comment": "Inpatients stable - Age Group 20 - 29 year Female",
+					"categoryOptionCombo": "ye1QuAMRG5Z",
+					"dataElement": "fGGxZFck8rJ",
+					"row": 85,
+					"column": 4
+				},
+				{
+					" _comment": "Inpatients stable - Age Group 20 - 29 year Male",
+					"categoryOptionCombo": "PflKpozpO7b",
+					"dataElement": "fGGxZFck8rJ",
+					"row": 86,
+					"column": 4
+				},
+				{
+					" _comment": "Inpatients stable - Age Group 30 - 39 year Female",
+					"categoryOptionCombo": "ye1QuAMRG5Z",
+					"dataElement": "BCTQqvSi9Fp",
+					"row": 87,
+					"column": 4
+				},
+				{
+					" _comment": "Inpatients stable - Age Group 30 - 39 year Male",
+					"categoryOptionCombo": "PflKpozpO7b",
+					"dataElement": "BCTQqvSi9Fp",
+					"row": 88,
+					"column": 4
+				},
+				{
+					" _comment": "Inpatients stable - Age Group 40 - 49 year Female",
+					"categoryOptionCombo": "ye1QuAMRG5Z",
+					"dataElement": "SYsn3Q7bpEM",
+					"row": 89,
+					"column": 4
+				},
+				{
+					" _comment": "Inpatients stable - Age Group 40 - 49 year Male",
+					"categoryOptionCombo": "PflKpozpO7b",
+					"dataElement": "SYsn3Q7bpEM",
+					"row": 90,
+					"column": 4
+				},
+				{
+					" _comment": "Inpatients stable - Age Group 50 - 59 year Female",
+					"categoryOptionCombo": "ye1QuAMRG5Z",
+					"dataElement": "QZzqdCD5pWM",
+					"row": 91,
+					"column": 4
+				},
+				{
+					" _comment": "Inpatients stable - Age Group 50 - 59 year Male",
+					"categoryOptionCombo": "PflKpozpO7b",
+					"dataElement": "QZzqdCD5pWM",
+					"row": 92,
+					"column": 4
+				},
+				{
+					" _comment": "Inpatients stable - Age Group 60 - 69 year Female",
+					"categoryOptionCombo": "ye1QuAMRG5Z",
+					"dataElement": "kfKZhz8cxld",
+					"row": 93,
+					"column": 4
+				},
+				{
+					" _comment": "Inpatients stable - Age Group 60 - 69 year Male",
+					"categoryOptionCombo": "PflKpozpO7b",
+					"dataElement": "kfKZhz8cxld",
+					"row": 94,
+					"column": 4
+				},
+				{
+					" _comment": "Inpatients stable - Age Group more than or equal to 70 year Female",
+					"categoryOptionCombo": "ye1QuAMRG5Z",
+					"dataElement": "Z4zwE88awmI",
+					"row": 95,
+					"column": 4
+				},
+				{
+					" _comment": "Inpatients stable - Age Group more than or equal to 70 year Male",
+					"categoryOptionCombo": "PflKpozpO7b",
+					"dataElement": "Z4zwE88awmI",
+					"row": 96,
+					"column": 4
+				},
+				{
+					" _comment": "Inpatients Recovered/Cured- Age Group 0-7 days Female",
+					"categoryOptionCombo": "ye1QuAMRG5Z",
+					"dataElement": "niC6UlH8lG8",
+					"row": 97,
+					"column": 4
+				},
+				{
+					" _comment": "Inpatients Recovered/Cured- Age Group 0-7 days Male",
+					"categoryOptionCombo": "PflKpozpO7b",
+					"dataElement": "niC6UlH8lG8",
+					"row": 98,
+					"column": 4
+				},
+				{
+					" _comment": "Inpatients Recovered/Cured- Age Group 8-28 days Female",
+					"categoryOptionCombo": "ye1QuAMRG5Z",
+					"dataElement": "aw0UrONFp8G",
+					"row": 99,
+					"column": 4
+				},
+				{
+					" _comment": "Inpatients Recovered/Cured- Age Group 8-28 days Male",
+					"categoryOptionCombo": "PflKpozpO7b",
+					"dataElement": "aw0UrONFp8G",
+					"row": 100,
+					"column": 4
+				},
+				{
+					" _comment": "Inpatients Recovered/Cured- Age Group 29 Days - less than 1 Year Female",
+					"categoryOptionCombo": "ye1QuAMRG5Z",
+					"dataElement": "VT7pxUmkCk4",
+					"row": 101,
+					"column": 4
+				},
+				{
+					" _comment": "Inpatients Recovered/Cured- Age Group 29 Days - less than 1 Year Male",
+					"categoryOptionCombo": "PflKpozpO7b",
+					"dataElement": "VT7pxUmkCk4",
+					"row": 102,
+					"column": 4
+				},
+				{
+					" _comment": "Inpatients Recovered/Cured- Age Group 01 - 04 Years Female",
+					"categoryOptionCombo": "ye1QuAMRG5Z",
+					"dataElement": "hfKKGFpcahT",
+					"row": 103,
+					"column": 4
+				},
+				{
+					" _comment": "Inpatients Recovered/Cured- Age Group 01 - 04 Years Male",
+					"categoryOptionCombo": "PflKpozpO7b",
+					"dataElement": "hfKKGFpcahT",
+					"row": 104,
+					"column": 4
+				},
+				{
+					" _comment": "Inpatients Recovered/Cured- Age Group 05 - 14 Years Female",
+					"categoryOptionCombo": "ye1QuAMRG5Z",
+					"dataElement": "idfm34Azg6Q",
+					"row": 105,
+					"column": 4
+				},
+				{
+					" _comment": "Inpatients Recovered/Cured- Age Group 05 - 14 Years Male",
+					"categoryOptionCombo": "PflKpozpO7b",
+					"dataElement": "idfm34Azg6Q",
+					"row": 106,
+					"column": 4
+				},
+				{
+					" _comment": "Inpatients Recovered/Cured- Age Group 15 - 19 Years Female",
+					"categoryOptionCombo": "ye1QuAMRG5Z",
+					"dataElement": "jeODCTX57ty",
+					"row": 107,
+					"column": 4
+				},
+				{
+					" _comment": "Inpatients Recovered/Cured- Age Group 15 - 19 Years Male",
+					"categoryOptionCombo": "PflKpozpO7b",
+					"dataElement": "jeODCTX57ty",
+					"row": 108,
+					"column": 4
+				},
+				{
+					" _comment": "Inpatients Recovered/Cured- Age Group 20 - 29 Years Female",
+					"categoryOptionCombo": "ye1QuAMRG5Z",
+					"dataElement": "eWZ03zEBkBX",
+					"row": 109,
+					"column": 4
+				},
+				{
+					" _comment": "Inpatients Recovered/Cured- Age Group 20 - 29 Years Male",
+					"categoryOptionCombo": "PflKpozpO7b",
+					"dataElement": "eWZ03zEBkBX",
+					"row": 110,
+					"column": 4
+				},
+				{
+					" _comment": "Inpatients Recovered/Cured- Age Group 30 - 39 Years Female",
+					"categoryOptionCombo": "ye1QuAMRG5Z",
+					"dataElement": "byiU4Z8VZxP",
+					"row": 111,
+					"column": 4
+				},
+				{
+					" _comment": "Inpatients Recovered/Cured- Age Group 30 - 39 Years Male",
+					"categoryOptionCombo": "PflKpozpO7b",
+					"dataElement": "byiU4Z8VZxP",
+					"row": 112,
+					"column": 4
+				},
+				{
+					" _comment": "Inpatients Recovered/Cured- Age Group 40 - 49 Years Female",
+					"categoryOptionCombo": "ye1QuAMRG5Z",
+					"dataElement": "qFKmdcMXi8R",
+					"row": 113,
+					"column": 4
+				},
+				{
+					" _comment": "Inpatients Recovered/Cured- Age Group 40 - 49 Years Male",
+					"categoryOptionCombo": "PflKpozpO7b",
+					"dataElement": "qFKmdcMXi8R",
+					"row": 114,
+					"column": 4
+				},
+				{
+					" _comment": "Inpatients Recovered/Cured- Age Group 50 - 59 Years Female",
+					"categoryOptionCombo": "ye1QuAMRG5Z",
+					"dataElement": "XgqSseUwYwV",
+					"row": 115,
+					"column": 4
+				},
+				{
+					" _comment": "Inpatients Recovered/Cured- Age Group 50 - 59 Years Male",
+					"categoryOptionCombo": "PflKpozpO7b",
+					"dataElement": "XgqSseUwYwV",
+					"row": 116,
+					"column": 4
+				},
+				{
+					" _comment": "Inpatients Recovered/Cured- Age Group 60 - 69 Years Female",
+					"categoryOptionCombo": "ye1QuAMRG5Z",
+					"dataElement": "x6AnbSOW91m",
+					"row": 117,
+					"column": 4
+				},
+				{
+					" _comment": "Inpatients Recovered/Cured- Age Group 60 - 69 Years Male",
+					"categoryOptionCombo": "PflKpozpO7b",
+					"dataElement": "x6AnbSOW91m",
+					"row": 118,
+					"column": 4
+				},
+				{
+					" _comment": "Inpatients Recovered/Cured- Age Group more than or equal to 70 Years Female",
+					"categoryOptionCombo": "ye1QuAMRG5Z",
+					"dataElement": "ExK3mV0mW4C",
+					"row": 119,
+					"column": 4
+				},
+				{
+					" _comment": "Inpatients Recovered/Cured- Age Group more than or equal to 70 Years Male",
+					"categoryOptionCombo": "PflKpozpO7b",
+					"dataElement": "ExK3mV0mW4C",
+					"row": 120,
+					"column": 4
+				},
+				{
+					" _comment": "Inpatients Referred Out- Age Group 0-7 Days Female",
+					"categoryOptionCombo": "ye1QuAMRG5Z",
+					"dataElement": "mNpQUrhMY2M",
+					"row": 121,
+					"column": 4
+				},
+				{
+					" _comment": "Inpatients Referred Out- Age Group 0-7 Days male",
+					"categoryOptionCombo": "PflKpozpO7b",
+					"dataElement": "mNpQUrhMY2M",
+					"row": 122,
+					"column": 4
+				},
+				{
+					" _comment": "Inpatients Referred Out- Age Group 8-28 Days Female",
+					"categoryOptionCombo": "ye1QuAMRG5Z",
+					"dataElement": "FSJ68ws5R8q",
+					"row": 123,
+					"column": 4
+				},
+				{
+					" _comment": "Inpatients Referred Out- Age Group 8-28 Days male",
+					"categoryOptionCombo": "PflKpozpO7b",
+					"dataElement": "FSJ68ws5R8q",
+					"row": 124,
+					"column": 4
+				},
+				{
+					" _comment": "Inpatients Referred Out- Age Group 29 Days - 1 Year Female",
+					"categoryOptionCombo": "ye1QuAMRG5Z",
+					"dataElement": "MG81K0P93cC",
+					"row": 125,
+					"column": 4
+				},
+				{
+					" _comment": "Inpatients Referred Out- Age Group 29 Days - 1 Year Male",
+					"categoryOptionCombo": "PflKpozpO7b",
+					"dataElement": "MG81K0P93cC",
+					"row": 126,
+					"column": 4
+				},
+				{
+					" _comment": "Inpatients Referred Out- Age Group 01 - 04 Years Female",
+					"categoryOptionCombo": "ye1QuAMRG5Z",
+					"dataElement": "BHMcr2LttVZ",
+					"row": 127,
+					"column": 4
+				},
+				{
+					" _comment": "Inpatients Referred Out- Age Group 01 - 04 Years Male",
+					"categoryOptionCombo": "PflKpozpO7b",
+					"dataElement": "BHMcr2LttVZ",
+					"row": 128,
+					"column": 4
+				},
+				{
+					" _comment": "Inpatients Referred Out- Age Group 05 - 14 Years Female",
+					"categoryOptionCombo": "ye1QuAMRG5Z",
+					"dataElement": "q1rh08vhNLa",
+					"row": 129,
+					"column": 4
+				},
+				{
+					" _comment": "Inpatients Referred Out- Age Group 05 - 14 Years male",
+					"categoryOptionCombo": "PflKpozpO7b",
+					"dataElement": "q1rh08vhNLa",
+					"row": 130,
+					"column": 4
+				},
+				{
+					" _comment": "Inpatients Referred Out- Age Group 15 - 19 Years Female",
+					"categoryOptionCombo": "ye1QuAMRG5Z",
+					"dataElement": "FVUaOSyrp8X",
+					"row": 131,
+					"column": 4
+				},
+				{
+					" _comment": "Inpatients Referred Out- Age Group 15 - 19 Years male",
+					"categoryOptionCombo": "PflKpozpO7b",
+					"dataElement": "FVUaOSyrp8X",
+					"row": 132,
+					"column": 4
+				},
+				{
+					" _comment": "Inpatients Referred Out- Age Group 20 - 29 Years Female",
+					"categoryOptionCombo": "ye1QuAMRG5Z",
+					"dataElement": "qC0mnCelPuB",
+					"row": 133,
+					"column": 4
+				},
+				{
+					" _comment": "Inpatients Referred Out- Age Group 20 - 29 Years male",
+					"categoryOptionCombo": "PflKpozpO7b",
+					"dataElement": "qC0mnCelPuB",
+					"row": 134,
+					"column": 4
+				},
+				{
+					" _comment": "Inpatients Referred Out- Age Group 30 - 39 Years Female",
+					"categoryOptionCombo": "ye1QuAMRG5Z",
+					"dataElement": "xRGqy7Adibr",
+					"row": 135,
+					"column": 4
+				},
+				{
+					" _comment": "Inpatients Referred Out- Age Group 30 - 39 Years male",
+					"categoryOptionCombo": "PflKpozpO7b",
+					"dataElement": "xRGqy7Adibr",
+					"row": 136,
+					"column": 4
+				},
+				{
+					" _comment": "Inpatients Referred Out- Age Group 40 - 49 Years Female",
+					"categoryOptionCombo": "ye1QuAMRG5Z",
+					"dataElement": "jSCf0lQ0CKP",
+					"row": 137,
+					"column": 4
+				},
+				{
+					" _comment": "Inpatients Referred Out- Age Group 40 - 49 Years male",
+					"categoryOptionCombo": "PflKpozpO7b",
+					"dataElement": "jSCf0lQ0CKP",
+					"row": 138,
+					"column": 4
+				},
+				{
+					" _comment": "Inpatients Referred Out- Age Group 50 - 59 Years Female",
+					"categoryOptionCombo": "ye1QuAMRG5Z",
+					"dataElement": "O3Z3alM218T",
+					"row": 139,
+					"column": 4
+				},
+				{
+					" _comment": "Inpatients Referred Out- Age Group 50 - 59 Years male",
+					"categoryOptionCombo": "PflKpozpO7b",
+					"dataElement": "O3Z3alM218T",
+					"row": 140,
+					"column": 4
+				},
+				{
+					" _comment": "Inpatients Referred Out- Age Group 60 - 69 Years Female",
+					"categoryOptionCombo": "ye1QuAMRG5Z",
+					"dataElement": "X8zqZMPNOgz",
+					"row": 141,
+					"column": 4
+				},
+				{
+					" _comment": "Inpatients Referred Out- Age Group 60 - 69 Years male",
+					"categoryOptionCombo": "PflKpozpO7b",
+					"dataElement": "X8zqZMPNOgz",
+					"row": 142,
+					"column": 4
+				},
+				{
+					" _comment": "Inpatients Referred Out- Age Group more than or equal to 70 Years female",
+					"categoryOptionCombo": "ye1QuAMRG5Z",
+					"dataElement": "mJtKzHyyCAW",
+					"row": 143,
+					"column": 4
+				},
+				{
+					" _comment": "Inpatients Referred Out- Age Group more than or equal to 70 Years male",
+					"categoryOptionCombo": "PflKpozpO7b",
+					"dataElement": "mJtKzHyyCAW",
+					"row": 144,
+					"column": 4
+				}
+			]
+		},
+		"Summary of Indoor Services Inpatient Outcome DOR LAMA DAMA": {
+			"dataValues": [
+				{
+					" _comment": "Inpatient Reported DOPR/LAMA/DAMA- Age Group 0-7 Days Female",
+					"categoryOptionCombo": "ye1QuAMRG5Z",
+					"dataElement": "PjX59M4FWsV",
+					"row": 1,
+					"column": 3
+				},
+				{
+					" _comment": "Inpatient Reported DOPR/LAMA/DAMA- Age Group 0-7 Days male",
+					"categoryOptionCombo": "PflKpozpO7b",
+					"dataElement": "PjX59M4FWsV",
+					"row": 2,
+					"column": 3
+				},
+				{
+					" _comment": "Inpatient Reported DOPR/LAMA/DAMA- Age Group 8-28 Days Female",
+					"categoryOptionCombo": "ye1QuAMRG5Z",
+					"dataElement": "tJPTannLCpR",
+					"row": 3,
+					"column": 3
+				},
+				{
+					" _comment": "Inpatient Reported DOPR/LAMA/DAMA- Age Group 8-28 Days male",
+					"categoryOptionCombo": "PflKpozpO7b",
+					"dataElement": "tJPTannLCpR",
+					"row": 4,
+					"column": 3
+				},
+				{
+					" _comment": "Inpatient Reported DOPR/LAMA/DAMA- Age Group 29 Days - <1 Year Female",
+					"categoryOptionCombo": "ye1QuAMRG5Z",
+					"dataElement": "nAwr1SuDL5X",
+					"row": 5,
+					"column": 3
+				},
+				{
+					" _comment": "Inpatient Reported DOPR/LAMA/DAMA- Age Group 29 Days - <1 Year Male",
+					"categoryOptionCombo": "PflKpozpO7b",
+					"dataElement": "nAwr1SuDL5X",
+					"row": 6,
+					"column": 3
+				},
+				{
+					" _comment": "Inpatient Reported DOPR/LAMA/DAMA- Age Group 01 - 04 Years Female",
+					"categoryOptionCombo": "ye1QuAMRG5Z",
+					"dataElement": "uHC49o0YWzj",
+					"row": 7,
+					"column": 3
+				},
+				{
+					" _comment": "Inpatient Reported DOPR/LAMA/DAMA- Age Group 01 - 04 Years Male",
+					"categoryOptionCombo": "PflKpozpO7b",
+					"dataElement": "uHC49o0YWzj",
+					"row": 8,
+					"column": 3
+				},
+				{
+					" _comment": "Inpatient Reported DOPR/LAMA/DAMA- Age Group 05 - 14 Years Female",
+					"categoryOptionCombo": "ye1QuAMRG5Z",
+					"dataElement": "aFDqE1qyJwH",
+					"row": 9,
+					"column": 3
+				},
+				{
+					" _comment": "Inpatient Reported DOPR/LAMA/DAMA- Age Group 05 - 14 Years Male",
+					"categoryOptionCombo": "PflKpozpO7b",
+					"dataElement": "aFDqE1qyJwH",
+					"row": 10,
+					"column": 3
+				},
+				{
+					" _comment": "Inpatient Reported DOPR/LAMA/DAMA- Age Group 15 - 19 Years Female",
+					"categoryOptionCombo": "ye1QuAMRG5Z",
+					"dataElement": "HnwIe5GtEQd",
+					"row": 11,
+					"column": 3
+				},
+				{
+					" _comment": "Inpatient Reported DOPR/LAMA/DAMA- Age Group 15 - 19 Years Male",
+					"categoryOptionCombo": "PflKpozpO7b",
+					"dataElement": "HnwIe5GtEQd",
+					"row": 12,
+					"column": 3
+				},
+				{
+					" _comment": "Inpatient Reported DOPR/LAMA/DAMA- Age Group 20 - 29 Years Female",
+					"categoryOptionCombo": "ye1QuAMRG5Z",
+					"dataElement": "oQDF5rAiZ9s",
+					"row": 13,
+					"column": 3
+				},
+				{
+					" _comment": "Inpatient Reported DOPR/LAMA/DAMA- Age Group 20 - 29 Years Male",
+					"categoryOptionCombo": "PflKpozpO7b",
+					"dataElement": "oQDF5rAiZ9s",
+					"row": 14,
+					"column": 3
+				},
+				{
+					" _comment": "Inpatient Reported DOPR/LAMA/DAMA- Age Group 30 - 39 Years Female",
+					"categoryOptionCombo": "ye1QuAMRG5Z",
+					"dataElement": "Nifo5ju2pPP",
+					"row": 15,
+					"column": 3
+				},
+				{
+					" _comment": "Inpatient Reported DOPR/LAMA/DAMA- Age Group 30 - 39 Years Male",
+					"categoryOptionCombo": "PflKpozpO7b",
+					"dataElement": "Nifo5ju2pPP",
+					"row": 16,
+					"column": 3
+				},
+				{
+					" _comment": "Inpatient Reported DOPR/LAMA/DAMA- Age Group 40 - 49 Years Female",
+					"categoryOptionCombo": "ye1QuAMRG5Z",
+					"dataElement": "MzCbP9IShpH",
+					"row": 17,
+					"column": 3
+				},
+				{
+					" _comment": "Inpatient Reported DOPR/LAMA/DAMA- Age Group 40 - 49 Years Male",
+					"categoryOptionCombo": "PflKpozpO7b",
+					"dataElement": "MzCbP9IShpH",
+					"row": 18,
+					"column": 3
+				},
+				{
+					" _comment": "Inpatient Reported DOPR/LAMA/DAMA- Age Group 50 - 59 Years Female",
+					"categoryOptionCombo": "ye1QuAMRG5Z",
+					"dataElement": "IgUWH05VOXS",
+					"row": 19,
+					"column": 3
+				},
+				{
+					" _comment": "Inpatient Reported DOPR/LAMA/DAMA- Age Group 50 - 59 Years Male",
+					"categoryOptionCombo": "PflKpozpO7b",
+					"dataElement": "IgUWH05VOXS",
+					"row": 20,
+					"column": 3
+				},
+				{
+					" _comment": "Inpatient Outcome-DOPR/LAMA- 60 to 69 Years Female",
+					"categoryOptionCombo": "ye1QuAMRG5Z",
+					"dataElement": "O55ilAmKVCL",
+					"row": 21,
+					"column": 3
+				},
+				{
+					" _comment": "Inpatient Outcome-DOPR/LAMA- 60 to 69 Years Male",
+					"categoryOptionCombo": "PflKpozpO7b",
+					"dataElement": "O55ilAmKVCL",
+					"row": 22,
+					"column": 3
+				},
+				{
+					" _comment": "Inpatient Outcome-DOPR/LAMA- more than or equal to 70 Years Female",
+					"categoryOptionCombo": "ye1QuAMRG5Z",
+					"dataElement": "lGlrmWuQ6BN",
+					"row": 23,
+					"column": 3
+				},
+				{
+					" _comment": "Inpatient Outcome-DOPR/LAMA- more than or equal to 70 Years Male",
+					"categoryOptionCombo": "PflKpozpO7b",
+					"dataElement": "lGlrmWuQ6BN",
+					"row": 24,
+					"column": 3
+				}
+			]
+		},
+		"Summary of Indoor Services Gestational weeks(Neonate Form)": {
+			"dataValues": [
+				{
+					" _comment": "Pregnant Women with Gestational Weeks (22 - 27) having Primigravida",
+					"categoryOptionCombo": "kdsirVNKdhm",
+					"dataElement": "Iyu2jI3uZLe",
+					"row": 1,
+					"column": 2
+				},
+				{
+					" _comment": "Pregnant Women with Gestational Weeks (28 - 36) having Primigravida",
+					"categoryOptionCombo": "kdsirVNKdhm",
+					"dataElement": "XfaiH4LO4HU",
+					"row": 1,
+					"column": 3
+				},
+				{
+					" _comment": "Pregnant Women with Gestational Weeks (37 - 41) having Primigravida",
+					"categoryOptionCombo": "kdsirVNKdhm",
+					"dataElement": "J16O3bLT94B",
+					"row": 1,
+					"column": 4
+				},
+				{
+					" _comment": "Pregnant Women with Gestational Weeks (more than or equal to 42) having Primigravida",
+					"categoryOptionCombo": "kdsirVNKdhm",
+					"dataElement": "Wz9lyL4EFgc",
+					"row": 1,
+					"column": 5
+				},
+				{
+					" _comment": "Pregnant Women with Gestational Weeks (22 - 27) having Multigravida",
+					"categoryOptionCombo": "kdsirVNKdhm",
+					"dataElement": "OQ4CxYP11zR",
+					"row": 2,
+					"column": 2
+				},
+				{
+					" _comment": "Pregnant Women with Gestational Weeks (28 - 36) having Multigravida",
+					"categoryOptionCombo": "kdsirVNKdhm",
+					"dataElement": "kK32tZ49ToM",
+					"row": 2,
+					"column": 3
+				},
+				{
+					" _comment": "Pregnant Women with Gestational Weeks (37 - 41) having Multigravida",
+					"categoryOptionCombo": "kdsirVNKdhm",
+					"dataElement": "Wz6fi5h43ln",
+					"row": 2,
+					"column": 4
+				},
+				{
+					" _comment": "Pregnant Women with Gestational Weeks (more than or equal to 42) having Multigravida",
+					"categoryOptionCombo": "kdsirVNKdhm",
+					"dataElement": "f95dTxsNaOr",
+					"row": 2,
+					"column": 5
+				},
+				{
+					" _comment": "Pregnant Women with Gestational Weeks (22 - 27) having Grand Multigravida",
+					"categoryOptionCombo": "kdsirVNKdhm",
+					"dataElement": "ErsRqXBszJe",
+					"row": 3,
+					"column": 2
+				},
+				{
+					" _comment": "Pregnant Women with Gestational Weeks (28 - 36) having Grand Multigravida",
+					"categoryOptionCombo": "kdsirVNKdhm",
+					"dataElement": "GU5n3qxVV1G",
+					"row": 3,
+					"column": 3
+				},
+				{
+					" _comment": "Pregnant Women with Gestational Weeks (37 - 41) having Grand Multigravida",
+					"categoryOptionCombo": "kdsirVNKdhm",
+					"dataElement": "FeOTYqWEND5",
+					"row": 3,
+					"column": 4
+				},
+				{
+					" _comment": "Pregnant Women with Gestational Weeks (more than or equal to 42) having Grand Multigravida",
+					"categoryOptionCombo": "kdsirVNKdhm",
+					"dataElement": "fgGIHbLGHr3",
+					"row": 3,
+					"column": 5
+				}
+			]
+		},
+		"Summary of Indoor Services Gestational weeks(Maternal Age)": {
+			"dataValues": [
+				{
+					" _comment": "Pregnant Women of Age 20 - 34 with Gestational Weeks (22 - 27)",
+					"categoryOptionCombo": "kdsirVNKdhm",
+					"dataElement": "Ynoi7oT6Cui",
+					"row": 1,
+					"column": 2
+				},
+				{
+					" _comment": "Pregnant Women of Age 20 - 34 with Gestational Weeks (28 - 36)",
+					"categoryOptionCombo": "kdsirVNKdhm",
+					"dataElement": "jW4Nxz5ZtTc",
+					"row": 1,
+					"column": 3
+				},
+				{
+					" _comment": "Pregnant Women of Age 20 - 34 with Gestational Weeks (37 - 41)",
+					"categoryOptionCombo": "kdsirVNKdhm",
+					"dataElement": "T2RIoCzbcrE",
+					"row": 1,
+					"column": 4
+				},
+				{
+					" _comment": "Pregnant Women of Age 20 - 34 with Gestational Weeks (more than or equal to 42)",
+					"categoryOptionCombo": "kdsirVNKdhm",
+					"dataElement": "NNa4syq83FQ",
+					"row": 1,
+					"column": 5
+				},
+				{
+					" _comment": "Pregnant Women of Age <20 with Gestational Weeks (22 - 27)",
+					"categoryOptionCombo": "kdsirVNKdhm",
+					"dataElement": "LLtybn3Il5y",
+					"row": 2,
+					"column": 2
+				},
+				{
+					" _comment": "Pregnant Women of Age <20 with Gestational Weeks (28 - 36)",
+					"categoryOptionCombo": "kdsirVNKdhm",
+					"dataElement": "a7MLCIvl3N0",
+					"row": 2,
+					"column": 3
+				},
+				{
+					" _comment": "Pregnant Women of Age <20 with Gestational Weeks (37 - 41)",
+					"categoryOptionCombo": "kdsirVNKdhm",
+					"dataElement": "i4LqEvJTyyH",
+					"row": 2,
+					"column": 4
+				},
+				{
+					" _comment": "Pregnant Women of Age <20 with Gestational Weeks (more than or equal to 42)",
+					"categoryOptionCombo": "kdsirVNKdhm",
+					"dataElement": "NmLTLB5IM4x",
+					"row": 2,
+					"column": 5
+				},
+				{
+					" _comment": "Pregnant Women of Age more than or equal to 35 with Gestational Weeks (22 - 27)",
+					"categoryOptionCombo": "kdsirVNKdhm",
+					"dataElement": "DmCnfwpVcMT",
+					"row": 3,
+					"column": 2
+				},
+				{
+					" _comment": "Pregnant Women of Age more than or equal to 35 with Gestational Weeks (28 - 36)",
+					"categoryOptionCombo": "kdsirVNKdhm",
+					"dataElement": "yoj2oCbvriM",
+					"row": 3,
+					"column": 3
+				},
+				{
+					" _comment": "Pregnant Women of Age more than or equal to 35 35 with Gestational Weeks (37 - 41)",
+					"categoryOptionCombo": "kdsirVNKdhm",
+					"dataElement": "bbMBbR3oQa5",
+					"row": 3,
+					"column": 4
+				},
+				{
+					" _comment": "Pregnant Women of Age more than or equal to 35 with Gestational Weeks (more than or equal to 42)",
+					"categoryOptionCombo": "kdsirVNKdhm",
+					"dataElement": "KWtpxg9gMS0",
+					"row": 3,
+					"column": 5
+				}
+			]
+		},
+		"FreeHealthServices Outpatient": {
+			"dataValues": [
+				{
+					" _comment": "Ultra Poor Patients/ Poor Patients Received Free Health Services in OPD",
+					"categoryOptionCombo": "kdsirVNKdhm",
+					"dataElement": "fMgY7buyPgJ",
+					"row": 1,
+					"column": 2
+				},
+				{
+					" _comment": "Helpless/ Destitute Patients Received Free Health Services in OPD",
+					"categoryOptionCombo": "kdsirVNKdhm",
+					"dataElement": "TQchxgpT1Mg",
+					"row": 2,
+					"column": 2
+				},
+				{
+					" _comment": "Disabled Patients Received Free Health Services in OPD",
+					"categoryOptionCombo": "kdsirVNKdhm",
+					"dataElement": "U0aYCzqSIrV",
+					"row": 3,
+					"column": 2
+				},
+				{
+					" _comment": "Senior Citizens of Age > 60 Years Received Free Health Services in OPD",
+					"categoryOptionCombo": "kdsirVNKdhm",
+					"dataElement": "pGKBCQ2y96V",
+					"row": 4,
+					"column": 2
+				},
+				{
+					" _comment": "FCHVs Received Free Health Services in OPD",
+					"categoryOptionCombo": "kdsirVNKdhm",
+					"dataElement": "SIODC3GmBPx",
+					"row": 5,
+					"column": 2
+				},
+				{
+					" _comment": "Gender Based Violence Cases Received Free Health Services in OPD",
+					"categoryOptionCombo": "kdsirVNKdhm",
+					"dataElement": "d5xARcg2y1L",
+					"row": 6,
+					"column": 2
+				},
+				{
+					" _comment": "Other Patients Received Free Health Services in OPD",
+					"categoryOptionCombo": "kdsirVNKdhm",
+					"dataElement": "xD4PTWeBft4",
+					"row": 7,
+					"column": 2
+				}
+				
+				
+			]
+		},
+		"FreeHealthServices IPD": {
+			"dataValues": [
+				{
+					" _comment": "Ultra Poor Patients/ Poor Patients Received Free Health Services in IPD",
+					"categoryOptionCombo": "kdsirVNKdhm",
+					"dataElement": "blQafu930Fk",
+					"row": 1,
+					"column": 2
+				},
+				{
+					" _comment": "Helpless/ Destitute Patients Received Free Health Services in IPD",
+					"categoryOptionCombo": "kdsirVNKdhm",
+					"dataElement": "K2QvU18Cy9V",
+					"row": 2,
+					"column": 2
+				},
+				{
+					" _comment": "Disabled Patients Received Free Health Services in IPD",
+					"categoryOptionCombo": "kdsirVNKdhm",
+					"dataElement": "oLHqNDw8P0e",
+					"row": 3,
+					"column": 2
+				},
+				{
+					" _comment": "Senior Citizens of Age > 60 Years Received Free Health Services in IPD",
+					"categoryOptionCombo": "kdsirVNKdhm",
+					"dataElement": "FpFz27OnLjo",
+					"row": 4,
+					"column": 2
+				},
+				{
+					" _comment": "FCHVs Received Free Health Services in IPD",
+					"categoryOptionCombo": "kdsirVNKdhm",
+					"dataElement": "brA0o59G66l",
+					"row": 5,
+					"column": 2
+				},
+				{
+					" _comment": "Gender Based Violence Cases Received Free Health Services in IPD",
+					"categoryOptionCombo": "kdsirVNKdhm",
+					"dataElement": "WYnBzcM4iwO",
+					"row": 6,
+					"column": 2
+				},
+				{
+					" _comment": "Other Patients Received Free Health Services in IPD",
+					"categoryOptionCombo": "kdsirVNKdhm",
+					"dataElement": "JT6R8JDcdm7",
+					"row": 7,
+					"column": 2
+				}
+				
+				
+			]
+		},
+		"FreeHealthServices ER": {
+			"dataValues": [
+				{
+					" _comment": "Ultra Poor Patients/ Poor Patients Received Free Health Services in Emergency",
+					"categoryOptionCombo": "kdsirVNKdhm",
+					"dataElement": "sboNx8FiP4d",
+					"row": 1,
+					"column": 2
+				},
+				{
+					" _comment": "Helpless/ Destitute Patients Received Free Health Services in Emergency",
+					"categoryOptionCombo": "kdsirVNKdhm",
+					"dataElement": "B9svAWSTFQt",
+					"row": 2,
+					"column": 2
+				},
+				{
+					" _comment": "Disabled Patients Received Free Health Services in Emergency",
+					"categoryOptionCombo": "kdsirVNKdhm",
+					"dataElement": "xkfNycS7hEG",
+					"row": 3,
+					"column": 2
+				},
+				{
+					" _comment": "Senior Citizens of Age > 60 Years Received Free Health Services in Emergency",
+					"categoryOptionCombo": "kdsirVNKdhm",
+					"dataElement": "wYwdmBDhBNu",
+					"row": 4,
+					"column": 2
+				},
+				{
+					" _comment": "FCHVs Received Free Health Services in Emergency",
+					"categoryOptionCombo": "kdsirVNKdhm",
+					"dataElement": "YLBxlWQ2Ji5",
+					"row": 5,
+					"column": 2
+				},
+				{
+					" _comment": "Gender Based Violence Cases Received Free Health Services in Emergency",
+					"categoryOptionCombo": "kdsirVNKdhm",
+					"dataElement": "qLLnISVBthc",
+					"row": 6,
+					"column": 2
+				},
+				
+				{
+					" _comment": "Other Patients Received Free Health Services in Emergency",
+					"categoryOptionCombo": "kdsirVNKdhm",
+					"dataElement": "sSIsC8lbPDs",
+					"row": 7,
+					"column": 2
+				}
+				
+				
+			]
+		},
+		"FreeHealthServices ReferredOut": {
+			"dataValues": [
+				{
+					" _comment": "Ultra Poor Patients/ Poor Patients Received Free Health Services at Referral Out",
+					"categoryOptionCombo": "kdsirVNKdhm",
+					"dataElement": "yeGkme7Wda5",
+					"row": 1,
+					"column": 2
+				},
+				{
+					" _comment": "Helpless/ Destitute Patients Received Free Health Services at Referral Out",
+					"categoryOptionCombo": "kdsirVNKdhm",
+					"dataElement": "zrx6bskmDpn",
+					"row": 2,
+					"column": 2
+				},
+				{
+					" _comment": "Disabled Patients Received Free Health Services at Referred Out",
+					"categoryOptionCombo": "kdsirVNKdhm",
+					"dataElement": "NoJQulKOcgB",
+					"row": 3,
+					"column": 2
+				},
+				{
+					" _comment": "Senior Citizens of Age > 60 Years Received Free Health Services at Referral Out",
+					"categoryOptionCombo": "kdsirVNKdhm",
+					"dataElement": "riAMS7MJ8Kz",
+					"row": 4,
+					"column": 2
+				},
+				{
+					" _comment": "FCHVs Received Free Health Services at Referred Out",
+					"categoryOptionCombo": "kdsirVNKdhm",
+					"dataElement": "pF1Mv020yUl",
+					"row": 5,
+					"column": 2
+				},
+				{
+					" _comment": "Gender Based Violence Cases Received Free Health Services at Referral Out",
+					"categoryOptionCombo": "kdsirVNKdhm",
+					"dataElement": "GnYEgVNXJ0K",
+					"row": 6,
+					"column": 2
+				},
+				{
+					" _comment": "Other Patients Received Free Health Services at Referral Out",
+					"categoryOptionCombo": "kdsirVNKdhm",
+					"dataElement": "r46z953ZAdI",
+					"row": 7,
+					"column": 2
+				}
+			]
+		},
+		"Summary of Indoor Services Major Surgeries": {
+			"dataValues": [
+				{
+					" _comment": "Major Surgeries Done in Emergency Female",
+					"categoryOptionCombo": "ye1QuAMRG5Z",
+					"dataElement": "npj4tlqKsRw",
+					"row": 1,
+					"column": 2
+				},
+				{
+					" _comment": "Major Surgeries Done in Emergency Male",
+					"categoryOptionCombo": "PflKpozpO7b",
+					"dataElement": "npj4tlqKsRw",
+					"row": 2,
+					"column": 2
+				}
+			]
+		},
+		"Summary of Indoor Services Minor Surgeries OPD ER": {
+			"dataValues": [
+				{
+					"comment": "er female",
+					"categoryOptionCombo": "ye1QuAMRG5Z",
+					"dataElement": "PPLkh56gSDt",
+					"row": 1,
+					"column": 3
+				},
+				{
+					"comment": "er male",
+					"categoryOptionCombo": "PflKpozpO7b",
+					"dataElement": "PPLkh56gSDt",
+					"row": 2,
+					"column": 3
+				},
+				{
+					"comment": "opd female",
+					"categoryOptionCombo": "ye1QuAMRG5Z",
+					"dataElement": "XOIIA9PktoG",
+					"row": 3,
+					"column": 3
+				},
+				{
+					"comment": "opd male",
+					"categoryOptionCombo": "PflKpozpO7b",
+					"dataElement": "XOIIA9PktoG",
+					"row": 4,
+					"column": 3
+				}
+			]
+		},
+		"Summary of Indoor Services Minor Surgeries IPD": {
+			"dataValues": [
+				{
+					"comment": " female",
+					"categoryOptionCombo": "ye1QuAMRG5Z",
+					"dataElement": "ds89kwFirfa",
+					"row": 1,
+					"column": 2
+				},
+				{
+					"comment": " male",
+					"categoryOptionCombo": "PflKpozpO7b",
+					"dataElement": "ds89kwFirfa",
+					"row": 2,
+					"column": 2
+				}
+			]
+		},
+		"Summary of Indoor Services Death Maternal": {
+			"dataValues": [
+				{
+					" _comment": "Total Maternal (All) Deaths in the Hospital Female",
+					"categoryOptionCombo": "ye1QuAMRG5Z",
+					"dataElement": "OWZvJevMlQd",
+					"row": 1,
+					"column": 3
+				}
+			]
+		},
+		"Summary of Indoor Services Death Post Operative": {
+			"dataValues": [
+				{
+					" _comment": "Total Post-Operative Deaths in the Hospital Female",
+					"categoryOptionCombo": "ye1QuAMRG5Z",
+					"dataElement": "HUtoMj9IIHY",
+					"row": 1,
+					"column": 2
+				},
+				{
+					" _comment": "Total Post-Operative Deaths in the Hospital Male",
+					"categoryOptionCombo": "PflKpozpO7b",
+					"dataElement": "HUtoMj9IIHY",
+					"row": 2,
+					"column": 2
+				}
+			]
+		},
+		"Summary of Indoor Services Death Early and Late Neonatal": {
+			"dataValues": [
+				{
+					" _comment": "Total Early Neonatal Deaths in the Hospital Female",
+					"categoryOptionCombo": "ye1QuAMRG5Z",
+					"dataElement": "wE8Ua9fF57W",
+					"row": 1,
+					"column": 3
+				},
+				{
+					" _comment": "Total Early Neonatal Deaths in the Hospital Male",
+					"categoryOptionCombo": "PflKpozpO7b",
+					"dataElement": "wE8Ua9fF57W",
+					"row": 2,
+					"column": 3
+				},
+				{
+					" _comment": "Total Late Neonatal Deaths in the Hospital Female",
+					"categoryOptionCombo": "ye1QuAMRG5Z",
+					"dataElement": "i9Fd6Sg4Xvz",
+					"row": 3,
+					"column": 3
+				},
+				{
+					" _comment": "Total Late Neonatal Deaths in the Hospital Male",
+					"categoryOptionCombo": "PflKpozpO7b",
+					"dataElement": "i9Fd6Sg4Xvz",
+					"row": 4,
+					"column": 3
+				}
+			]
+		},
+		"Summary of Indoor Services Brought Death and Postmortem": {
+			"dataValues": [
+				{
+					" _comment": "Total Brought Dead Cases in the Hospital Female",
+					"categoryOptionCombo": "ye1QuAMRG5Z",
+					"dataElement": "w9XVaxfPr9F",
+					"row": 1,
+					"column": 3
+				},
+				{
+					" _comment": "Total Brought Dead Cases in the Hospital Male",
+					"categoryOptionCombo": "PflKpozpO7b",
+					"dataElement": "w9XVaxfPr9F",
+					"row": 2,
+					"column": 3
+				},
+				{
+					" _comment": "Total Postmortems Done in the Hospital Female",
+					"categoryOptionCombo": "ye1QuAMRG5Z",
+					"dataElement": "kkl8yhz37BN",
+					"row": 3,
+					"column": 3
+				},
+				{
+					" _comment": "Total Postmortems Done in the Hospital Male",
+					"categoryOptionCombo": "PflKpozpO7b",
+					"dataElement": "kkl8yhz37BN",
+					"row": 4,
+					"column": 3
+				}
+			]
+		},
+		"Summary of Indoor Services Hospital Summary Plaster": {
+			"dataValues": [
+				{
+					" _comment": "Cases of Plasters Cast in the Hospital female",
+					"categoryOptionCombo": "ye1QuAMRG5Z",
+					"dataElement": "bRyy4uqVUn6",
+					"row": 1,
+					"column": 1
+				},
+				{
+					" _comment": "Cases of Plasters Cast in the Hospital Male",
+					"categoryOptionCombo": "PflKpozpO7b",
+					"dataElement": "bRyy4uqVUn6",
+					"row": 1,
+					"column": 2
+				}
+			]
+		},
+   "Summary of Indoor Services Death ER/IPD": {
+			"dataValues": [
+				{
+					" _comment": "Summary of Indoor Services Death ER female",
+					"categoryOptionCombo": "ye1QuAMRG5Z",
+					"dataElement": "E71fixytlb4",
+					"row": 1,
+					"column": 1
+				},
+				{
+					" _comment": "Summary of Indoor Services Death ER male",
+					"categoryOptionCombo": "PflKpozpO7b",
+					"dataElement": "E71fixytlb4",
+					"row": 1,
+					"column": 2
+				},
+        {
+					" _comment": "Summary of Indoor Services Death IPD female",
+					"categoryOptionCombo": "ye1QuAMRG5Z",
+					"dataElement": "zyYi2g0sMwN",
+					"row": 1,
+					"column": 3
+				},
+				{
+					" _comment": "Summary of Indoor Services Death IPD male",
+					"categoryOptionCombo": "PflKpozpO7b",
+					"dataElement": "zyYi2g0sMwN",
+					"row": 1,
+					"column": 4
+				}
+			]
+		}
+	}
+}

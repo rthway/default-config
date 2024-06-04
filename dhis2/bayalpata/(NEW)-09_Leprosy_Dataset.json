@@ -1,0 +1,401 @@
+{
+	"orgUnit": "mPO6LgjseUd",
+	"reports": {
+		"Leprosy program total patient count": {
+			"dataValues": [
+				{
+					" _comment": "Leprosy-Total Additions-Others-MB Male",
+					"categoryOptionCombo": "PflKpozpO7b",
+					"dataElement": "DZJiZ0jboiH",
+					"row": "1",
+					"column": "2"
+				},
+				{
+					" _comment": "Leprosy-Total Additions-Others-MB Female",
+					"categoryOptionCombo": "ye1QuAMRG5Z",
+					"dataElement": "DZJiZ0jboiH",
+					"row": "1",
+					"column": "3"
+				},
+				{
+					" _comment": "Leprosy-Total Additions-Others-PB Male",
+					"categoryOptionCombo": "PflKpozpO7b",
+					"dataElement": "UXGX0txvV64",
+					"row": "1",
+					"column": "4"
+				},
+				{
+					" _comment": "Leprosy-Total Additions-Others-PB Female",
+					"categoryOptionCombo": "ye1QuAMRG5Z",
+					"dataElement": "UXGX0txvV64",
+					"row": "1",
+					"column": "5"
+				},
+				{
+					" _comment": "Leprosy-Total Additions-New Cases Never Registered earlier-Multi Bacillary Male",
+					"categoryOptionCombo": "PflKpozpO7b",
+					"dataElement": "k4bqJU6Otyr",
+					"row": "2",
+					"column": "2"
+				},
+				{
+					" _comment": "Leprosy-Total Additions-New Cases Never Registered earlier-Multi Bacillary Female",
+					"categoryOptionCombo": "ye1QuAMRG5Z",
+					"dataElement": "k4bqJU6Otyr",
+					"row": "2",
+					"column": "3"
+				},
+				{
+					" _comment": "Leprosy-Total Additions-New Cases Never registered earlier-Pauci Bacillary",
+					"categoryOptionCombo": "PflKpozpO7b",
+					"dataElement": "cg8bW1IGGY6",
+					"row": "2",
+					"column": "4"
+				},
+				{
+					" _comment": "Leprosy-Total Additions-New Cases Never registered earlier-Pauci Bacillary",
+					"categoryOptionCombo": "ye1QuAMRG5Z",
+					"dataElement": "cg8bW1IGGY6",
+					"row": "2",
+					"column": "5"
+				},
+				{
+					" _comment": "Leprosy-Total Additions-Retreatment Cases -Multi Bacillary",
+					"categoryOptionCombo": "PflKpozpO7b",
+					"dataElement": "MDQuDIvcmDG",
+					"row": "3",
+					"column": "2"
+				},
+				{
+					" _comment": "Leprosy-Total Additions-Retreatment Cases -Multi Bacillary",
+					"categoryOptionCombo": "ye1QuAMRG5Z",
+					"dataElement": "MDQuDIvcmDG",
+					"row": "3",
+					"column": "3"
+				},
+				{
+					" _comment": "Leprosy-Total Additions-Re-Treatment Cases -Pauci Bacillary",
+					"categoryOptionCombo": "PflKpozpO7b",
+					"dataElement": "SqqmKBBO5dA",
+					"row": "3",
+					"column": "4"
+				},
+				{
+					" _comment": "Leprosy-Total Additions-Re-Treatment Cases -Pauci Bacillary",
+					"categoryOptionCombo": "ye1QuAMRG5Z",
+					"dataElement": "SqqmKBBO5dA",
+					"row": "3",
+					"column": "5"
+				},
+				{
+					" _comment": "Leprosy-Total Additions-Relapsed Cases-Multi Bacillary",
+					"categoryOptionCombo": "PflKpozpO7b",
+					"dataElement": "LhPiUHVF3qH",
+					"row": "4",
+					"column": "2"
+				},
+				{
+					" _comment": "Leprosy-Total Additions-Relapsed Cases-Multi Bacillary",
+					"categoryOptionCombo": "ye1QuAMRG5Z",
+					"dataElement": "LhPiUHVF3qH",
+					"row": "4",
+					"column": "3"
+				},
+				{
+					" _comment": "Leprosy-Total Additions-Relapsed Cases-Pauci Bacillary",
+					"categoryOptionCombo": "PflKpozpO7b",
+					"dataElement": "Umvs7eqA9bF",
+					"row": "4",
+					"column": "4"
+				},
+				{
+					" _comment": "Leprosy-Total Additions-Relapsed Cases-Pauci Bacillary",
+					"categoryOptionCombo": "ye1QuAMRG5Z",
+					"dataElement": "Umvs7eqA9bF",
+					"row": "4",
+					"column": "5"
+				},
+				{
+					" _comment": "Leprosy-Total Additions-Transferred in Cases -Multi Bacillary",
+					"categoryOptionCombo": "PflKpozpO7b",
+					"dataElement": "gKDp6rM5SKC",
+					"row": "5",
+					"column": "2"
+				},
+				{
+					" _comment": "Leprosy-Total Additions-Transferred in Cases -Multi Bacillary",
+					"categoryOptionCombo": "ye1QuAMRG5Z",
+					"dataElement": "gKDp6rM5SKC",
+					"row": "5",
+					"column": "3"
+				},
+				{
+					" _comment": "Leprosy-Total Additions-Transferred in Cases -Pauci Bacillary",
+					"categoryOptionCombo": "PflKpozpO7b",
+					"dataElement": "B0grizM21U0",
+					"row": "5",
+					"column": "4"
+				},
+				{
+					" _comment": "Leprosy-Total Additions-Transferred in Cases -Pauci Bacillary",
+					"categoryOptionCombo": "ye1QuAMRG5Z",
+					"dataElement": "B0grizM21U0",
+					"row": "5",
+					"column": "5"
+				},
+				{
+       			 	" _comment": "Leprosy-Total Treated in this Month-Multi Bacillary",
+       				 "categoryOptionCombo": "PflKpozpO7b",
+        				"dataElement": "ymGtY0eS5Jc",
+       				 "row": "6",
+        				"column": "2"
+    				},
+				{
+       				 " _comment": "Leprosy-Total Treated in this Month-Multi Bacillary",
+        				"categoryOptionCombo": "ye1QuAMRG5Z",
+        				"dataElement": "ymGtY0eS5Jc",
+        				"row": "6",
+       				 "column": "3"
+   				 },
+    				{
+        				" _comment": "Leprosy-Total Treated in this Month-Pauci Bacillary",
+        				"categoryOptionCombo": "PflKpozpO7b",
+        				"dataElement": "lr2c4SvhC5w",
+        				"row": "6",
+        				"column": "4"
+    				},
+				{
+        				" _comment": "Leprosy-Total Treated in this Month-Pauci Bacillary",
+        				"categoryOptionCombo": "ye1QuAMRG5Z",
+        				"dataElement": "lr2c4SvhC5w",
+        				"row": "6",
+        				"column": "5"
+    				},
+				{
+					" _comment": "Leprosy-Total Deducted-Defaulters -Multi Bacillary",
+					"categoryOptionCombo": "PflKpozpO7b",
+					"dataElement": "SzRGyOFmdjo",
+					"row": "7",
+					"column": "2"
+				},
+				{
+					" _comment": "Leprosy-Total Deducted-Defaulters -Multi Bacillary",
+					"categoryOptionCombo": "ye1QuAMRG5Z",
+					"dataElement": "SzRGyOFmdjo",
+					"row": "7",
+					"column": "3"
+				},
+				{
+					" _comment": "Leprosy-Total Deducted-Defaulters -Pauci Bacillary",
+					"categoryOptionCombo": "PflKpozpO7b",
+					"dataElement": "WPz17LTYpne",
+					"row": "7",
+					"column": "4"
+				},
+				{
+					" _comment": "Leprosy-Total Deducted-Defaulters -Pauci Bacillary",
+					"categoryOptionCombo": "ye1QuAMRG5Z",
+					"dataElement": "WPz17LTYpne",
+					"row": "7",
+					"column": "5"
+				},
+				{
+					" _comment": "Leprosy-Total Deducted-Other deducted from Treatment -Multi Bacillary",
+					"categoryOptionCombo": "PflKpozpO7b",
+					"dataElement": "psRprHTmF2h",
+					"row": "8",
+					"column": "2"
+				},
+				{
+					" _comment": "Leprosy-Total Deducted-Other deducted from Treatment -Multi Bacillary",
+					"categoryOptionCombo": "ye1QuAMRG5Z",
+					"dataElement": "psRprHTmF2h",
+					"row": "8",
+					"column": "3"
+				},
+				{
+					" _comment": "Leprosy-Total Deducted-Other deducted from Treatment-Pauci Bacillary",
+					"categoryOptionCombo": "PflKpozpO7b",
+					"dataElement": "USNeEAsWwj9",
+					"row": "8",
+					"column": "4"
+				},
+				{
+					" _comment": "Leprosy-Total Deducted-Other deducted from Treatment-Pauci Bacillary",
+					"categoryOptionCombo": "ye1QuAMRG5Z",
+					"dataElement": "USNeEAsWwj9",
+					"row": "8",
+					"column": "5"
+				},
+				{
+					" _comment": "Leprosy-Total Deducted-Patients Released from Treatment-Multi Bacillary",
+					"categoryOptionCombo": "PflKpozpO7b",
+					"dataElement": "N097AQezHbX",
+					"row": "9",
+					"column": "2"
+				},
+				{
+					" _comment": "Leprosy-Total Deducted-Patients Released from Treatment-Multi Bacillary",
+					"categoryOptionCombo": "ye1QuAMRG5Z",
+					"dataElement": "N097AQezHbX",
+					"row": "9",
+					"column": "3"
+				},
+				{
+					" _comment": "Leprosy-Total Deducted-Number of Patients Released from Treatment-Pauci Bacillary",
+					"categoryOptionCombo": "PflKpozpO7b",
+					"dataElement": "qyYAJ76ln2k",
+					"row": "9",
+					"column": "4"
+				},
+				{
+					" _comment": "Leprosy-Total Deducted-Number of Patients Released from Treatment-Pauci Bacillary",
+					"categoryOptionCombo": "ye1QuAMRG5Z",
+					"dataElement": "qyYAJ76ln2k",
+					"row": "9",
+					"column": "5"
+				},
+				{
+					" _comment": "Leprosy-Total Deducted-Patients Transferred elsewhere-Multi Bacillary",
+					"categoryOptionCombo": "PflKpozpO7b",
+					"dataElement": "aCMvVLEtHKm",
+					"row": "10",
+					"column": "2"
+				},
+				{
+					" _comment": "Leprosy-Total Deducted-Patients Transferred elsewhere-Multi Bacillary",
+					"categoryOptionCombo": "ye1QuAMRG5Z",
+					"dataElement": "aCMvVLEtHKm",
+					"row": "10",
+					"column": "3"
+				},
+				{
+					" _comment": "Leprosy-Total Deducted-Number of Patients transferred elsewhere-Pauci Bacillary",
+					"categoryOptionCombo": "PflKpozpO7b",
+					"dataElement": "MIabZFoyiNa",
+					"row": "10",
+					"column": "4"
+				},
+				{
+					" _comment": "Leprosy-Total Deducted-Number of Patients transferred elsewhere-Pauci Bacillary",
+					"categoryOptionCombo": "ye1QuAMRG5Z",
+					"dataElement": "MIabZFoyiNa",
+					"row": "10",
+					"column": "5"
+				},
+				{
+					" _comment": "Leprosy-Patient 0 - 14 Years Patients among New Cases-Multi Bacillary",
+					"categoryOptionCombo": "PflKpozpO7b",
+					"dataElement": "suBFDHxUSC8",
+					"row": "11",
+					"column": "2"
+				},
+				{
+					" _comment": "Leprosy-Patient 0 - 14 Years Patients among New Cases-Multi Bacillary",
+					"categoryOptionCombo": "ye1QuAMRG5Z",
+					"dataElement": "suBFDHxUSC8",
+					"row": "11",
+					"column": "3"
+				},
+				{
+					" _comment": "Leprosy-Patient 0 - 14 Years Among New Cases-Pauci Bacillary",
+					"categoryOptionCombo": "PflKpozpO7b",
+					"dataElement": "jOs9JAeA3Gd",
+					"row": "11",
+					"column": "4"
+				},
+				{
+					" _comment": "Leprosy-Patient 0 - 14 Years Among New Cases-Pauci Bacillary",
+					"categoryOptionCombo": "ye1QuAMRG5Z",
+					"dataElement": "jOs9JAeA3Gd",
+					"row": "11",
+					"column": "5"
+				},
+				{
+					" _comment": "Leprosy-Lepra Reaction-Neurities-MB",
+					"categoryOptionCombo": "PflKpozpO7b",
+					"dataElement": "RROFqu9js1F",
+					"row": "12",
+					"column": "2"
+				},
+				{
+					" _comment": "Leprosy-Lepra Reaction-Neurities-MB",
+					"categoryOptionCombo": "ye1QuAMRG5Z",
+					"dataElement": "RROFqu9js1F",
+					"row": "12",
+					"column": "3"
+				},
+				{
+					" _comment": "Leprosy-Lepra Reaction-Neurities-PB",
+					"categoryOptionCombo": "PflKpozpO7b",
+					"dataElement": "WrXDFYXSDfm",
+					"row": "12",
+					"column": "4"
+				},
+				{
+					" _comment": "Leprosy-Lepra Reaction-Neurities-PB",
+					"categoryOptionCombo": "ye1QuAMRG5Z",
+					"dataElement": "WrXDFYXSDfm",
+					"row": "12",
+					"column": "5"
+				},
+				{
+					" _comment": "Leprosy-Lepra Reaction-Type 1-MB",
+					"categoryOptionCombo": "PflKpozpO7b",
+					"dataElement": "F0hciGYG6eG",
+					"row": "13",
+					"column": "2"
+				},
+				{
+					" _comment": "Leprosy-Lepra Reaction-Type 1-MB",
+					"categoryOptionCombo": "ye1QuAMRG5Z",
+					"dataElement": "F0hciGYG6eG",
+					"row": "13",
+					"column": "3"
+				},
+				{
+					" _comment": "Leprosy-Lepra Reaction-Type 1-PB",
+					"categoryOptionCombo": "PflKpozpO7b",
+					"dataElement": "TzzsMDdJO9X",
+					"row": "13",
+					"column": "4"
+				},
+				{
+					" _comment": "Leprosy-Lepra Reaction-Type 1-PB",
+					"categoryOptionCombo": "ye1QuAMRG5Z",
+					"dataElement": "TzzsMDdJO9X",
+					"row": "13",
+					"column": "5"
+				},
+				{
+					" _comment": "Leprosy-Lepra Reaction-Type 2-MB",
+					"categoryOptionCombo": "PflKpozpO7b",
+					"dataElement": "nKZuK28KQbP",
+					"row": "14",
+					"column": "2"
+				},
+				{
+					" _comment": "Leprosy-Lepra Reaction-Type 2-MB",
+					"categoryOptionCombo": "ye1QuAMRG5Z",
+					"dataElement": "nKZuK28KQbP",
+					"row": "14",
+					"column": "3"
+				},
+				{
+					" _comment": "Leprosy-Lepra Reaction-Type 2-PB",
+					"categoryOptionCombo": "PflKpozpO7b",
+					"dataElement": "dVXOa44UROn",
+					"row": "14",
+					"column": "4"
+				},
+				{
+					" _comment": "Leprosy-Lepra Reaction-Type 2-PB",
+					"categoryOptionCombo": "ye1QuAMRG5Z",
+					"dataElement": "dVXOa44UROn",
+					"row": "14",
+					"column": "5"
+				}
+			]
+		}
+	}
+}

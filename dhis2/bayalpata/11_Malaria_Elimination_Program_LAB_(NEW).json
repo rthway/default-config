@@ -1,0 +1,37 @@
+{
+  "orgUnit": "Bm39oMfSNir",
+  "reports": {
+    "11 Malaria Elimination Program LAB (NEW)": {
+      "dataValues": [
+        {
+          "_comment": "Malaria-Blood Slide Collection-PCD",
+          "categoryOptionCombo": "kdsirVNKdhm",
+          "dataElement":"QOKP6s57dcM",
+          "row": 1,
+          "column": 1
+        },
+        {
+          "_comment": "Malaria-Diagnosis & Result-RDT Only-Examined",
+          "categoryOptionCombo": "kdsirVNKdhm",
+          "dataElement":"lzlKtOSysRz",
+          "row": 1,
+          "column": 2
+        },
+        {
+          "_comment": "Malaria-Diagnosis & Result-Both (M+R)-Examined",
+          "categoryOptionCombo": "kdsirVNKdhm",
+          "dataElement":"PoVX1B5xEGw",
+          "row": 1,
+          "column": 3
+        },
+        {
+          "_comment": "Malaria-Diagnosis & Result-Both (M+R) +ve Result",
+          "categoryOptionCombo": "kdsirVNKdhm",
+          "dataElement":"sb4e9ccVZEZ",
+          "row": 1,
+          "column": 4
+        }
+        ]
+    }
+  }
+}

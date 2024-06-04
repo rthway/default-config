@@ -1,0 +1,630 @@
+{
+    "orgUnit": "mPO6LgjseUd",
+    "reports": {
+        "HIV Testing Counselling Positive": {
+            "dataValues": [
+                {
+                    " _comment": "HIV-Testing and Counselling-Positive-Sex workers Male",
+                    "categoryOptionCombo": "mF1o6p14lxL",
+                    "dataElement": "go8cIQ8yNcP",
+                    "row": 1,
+                    "column": 2
+                },
+                {
+                    " _comment": "HIV-Testing and Counselling-Positive-Sex workers Female",
+                    "categoryOptionCombo": "fWqT46wDX5G",
+                    "dataElement": "go8cIQ8yNcP",
+                    "row": 1,
+                    "column": 3
+                },
+                {
+                    " _comment": "HIV-Testing and Counselling-Positive-Sex workers Trans Gender",
+                    "categoryOptionCombo": "YDmqM7oj6C1",
+                    "dataElement": "go8cIQ8yNcP",
+                    "row": 1,
+                    "column": 4
+                },
+                {
+                    " _comment": "HIV-Testing and Counselling-Positive-People who inject drugs (PWIDs) Male",
+                    "categoryOptionCombo": "mF1o6p14lxL",
+                    "dataElement": "eMdEXk8UsC8",
+                    "row": 1,
+                    "column": 5
+                },
+                {
+                    " _comment": "HIV-Testing and Counselling-Positive-People who inject drugs (PWIDs) Female",
+                    "categoryOptionCombo": "fWqT46wDX5G",
+                    "dataElement": "eMdEXk8UsC8",
+                    "row": 1,
+                    "column": 6
+                },
+                {
+                    " _comment": "HIV-Testing and Counselling-Positive-People who inject drugs (PWIDs) Trans Gender",
+                    "categoryOptionCombo": "YDmqM7oj6C1",
+                    "dataElement": "eMdEXk8UsC8",
+                    "row": 1,
+                    "column": 7
+                },
+                {
+                    " _comment": "HIV-Testing and Counselling-Positive-MSM & TG Male",
+                    "categoryOptionCombo": "mF1o6p14lxL",
+                    "dataElement": "L2ZTFhfJ5u7",
+                    "row": 1,
+                    "column": 8
+                },
+                {
+                    " _comment": "HIV-Testing and Counselling-Positive-MSM & TG Female",
+                    "categoryOptionCombo": "fWqT46wDX5G",
+                    "dataElement": "L2ZTFhfJ5u7",
+                    "row": 1,
+                    "column": 9
+                },
+                {
+                    " _comment": "HIV-Testing and Counselling-Positive-MSM & TG Trans Gender",
+                    "categoryOptionCombo": "YDmqM7oj6C1",
+                    "dataElement": "L2ZTFhfJ5u7",
+                    "row": 1,
+                    "column": 10
+                },
+                {
+                    " _comment": "HIV-Testing and Counselling-Positive-Blood or Organ Recipients Male",
+                    "categoryOptionCombo": "mF1o6p14lxL",
+                    "dataElement": "WRx7GGOwogV",
+                    "row": 1,
+                    "column": 11
+                },
+                {
+                    " _comment": "HIV-Testing and Counselling-Positive-Blood or Organ Recipients Female",
+                    "categoryOptionCombo": "fWqT46wDX5G",
+                    "dataElement": "WRx7GGOwogV",
+                    "row": 1,
+                    "column": 12
+                },
+                {
+                    " _comment": "HIV-Testing and Counselling-Positive-Blood or Organ Recipients Trans Gender",
+                    "categoryOptionCombo": "YDmqM7oj6C1",
+                    "dataElement": "WRx7GGOwogV",
+                    "row": 1,
+                    "column": 13
+                },
+                {
+                    " _comment": "HIV-Testing and Counselling-Positive-Clients of Sex Workers Male",
+                    "categoryOptionCombo": "mF1o6p14lxL",
+                    "dataElement": "tUrxN0fSlUb",
+                    "row": 1,
+                    "column": 14
+                },
+                {
+                    " _comment": "HIV-Testing and Counselling-Positive-Clients of Sex Workers Female",
+                    "categoryOptionCombo": "fWqT46wDX5G",
+                    "dataElement": "tUrxN0fSlUb",
+                    "row": 1,
+                    "column": 15
+                },
+                {
+                    " _comment": "HIV-Testing and Counselling-Positive-Clients of Sex Workers Trans Gender",
+                    "categoryOptionCombo": "YDmqM7oj6C1",
+                    "dataElement": "tUrxN0fSlUb",
+                    "row": 1,
+                    "column": 16
+                },
+                {
+                    " _comment": "HIV-Testing and Counselling-Positive-Migrants Male",
+                    "categoryOptionCombo": "mF1o6p14lxL",
+                    "dataElement": "brQnSXrShxB",
+                    "row": 1,
+                    "column": 17
+                },
+                {
+                    " _comment": "HIV-Testing and Counselling-Positive-Migrants Female",
+                    "categoryOptionCombo": "fWqT46wDX5G",
+                    "dataElement": "brQnSXrShxB",
+                    "row": 1,
+                    "column": 18
+                },
+                {
+                    " _comment": "HIV-Testing and Counselling-Positive-Migrants Trans Gender",
+                    "categoryOptionCombo": "YDmqM7oj6C1",
+                    "dataElement": "brQnSXrShxB",
+                    "row": 1,
+                    "column": 19
+                },
+                {
+                    " _comment": "HIV-Testing and Counselling-Positive-Spouse/Partners of Migrants Male",
+                    "categoryOptionCombo": "mF1o6p14lxL",
+                    "dataElement": "I44hu4b9UwF",
+                    "row": 1,
+                    "column": 20
+                },
+                {
+                    " _comment": "HIV-Testing and Counselling-Positive-Spouse/Partners of Migrants Female",
+                    "categoryOptionCombo": "fWqT46wDX5G",
+                    "dataElement": "I44hu4b9UwF",
+                    "row": 1,
+                    "column": 21
+                },
+                {
+                    " _comment": "HIV-Testing and Counselling-Positive-Spouse/Partners of Migrants Trans Gender",
+                    "categoryOptionCombo": "YDmqM7oj6C1",
+                    "dataElement": "I44hu4b9UwF",
+                    "row": 1,
+                    "column": 22
+                },
+                {
+                    " _comment": "HIV-Testing and Counselling-Positive-Others Male",
+                    "categoryOptionCombo": "mF1o6p14lxL",
+                    "dataElement": "OlV9xGSCevK",
+                    "row": 1,
+                    "column": 23
+                },
+                {
+                    " _comment": "HIV-Testing and Counselling-Positive-Others Female",
+                    "categoryOptionCombo": "fWqT46wDX5G",
+                    "dataElement": "OlV9xGSCevK",
+                    "row": 1,
+                    "column": 24
+                },
+                {
+                    " _comment": "HIV-Testing and Counselling-Positive-Others Trans Gender",
+                    "categoryOptionCombo": "YDmqM7oj6C1",
+                    "dataElement": "OlV9xGSCevK",
+                    "row": 1,
+                    "column": 25
+                }
+            ]
+        },
+        "HIV Testing Counselling Tested": {
+            "dataValues": [
+                {
+                    " _comment": "HIV-Testing and Counselling-Tested-Sex workers Male",
+                    "categoryOptionCombo": "mF1o6p14lxL",
+                    "dataElement": "egWWPqwGrDG",
+                    "row": 1,
+                    "column": 2
+                },
+                {
+                    " _comment": "HIV-Testing and Counselling-Tested-Sex workers Female",
+                    "categoryOptionCombo": "fWqT46wDX5G",
+                    "dataElement": "egWWPqwGrDG",
+                    "row": 1,
+                    "column": 3
+                },
+                {
+                    " _comment": "HIV-Testing and Counselling-Tested-Sex workers Trans Gender",
+                    "categoryOptionCombo": "YDmqM7oj6C1",
+                    "dataElement": "egWWPqwGrDG",
+                    "row": 1,
+                    "column": 4
+                },
+                {
+                    " _comment": "HIV-Testing and Counselling-Tested-People who inject drugs (PWIDs) Male",
+                    "categoryOptionCombo": "mF1o6p14lxL",
+                    "dataElement": "hKu6HpTS6MH",
+                    "row": 1,
+                    "column": 5
+                },
+                {
+                    " _comment": "HIV-Testing and Counselling-Tested-People who inject drugs (PWIDs) Female",
+                    "categoryOptionCombo": "fWqT46wDX5G",
+                    "dataElement": "hKu6HpTS6MH",
+                    "row": 1,
+                    "column": 6
+                },
+                {
+                    " _comment": "HIV-Testing and Counselling-Tested-People who inject drugs (PWIDs) Trans Gender",
+                    "categoryOptionCombo": "YDmqM7oj6C1",
+                    "dataElement": "hKu6HpTS6MH",
+                    "row": 1,
+                    "column": 7
+                },
+                {
+                    " _comment": "HIV-Testing and Counselling-Tested-MSM & TG Male",
+                    "categoryOptionCombo": "mF1o6p14lxL",
+                    "dataElement": "En7iGbR79uJ",
+                    "row": 1,
+                    "column": 8
+                },
+                {
+                    " _comment": "HIV-Testing and Counselling-Tested-MSM & TG Female",
+                    "categoryOptionCombo": "fWqT46wDX5G",
+                    "dataElement": "En7iGbR79uJ",
+                    "row": 1,
+                    "column": 9
+                },
+                {
+                    " _comment": "HIV-Testing and Counselling-Tested-MSM & TG Trans Gender",
+                    "categoryOptionCombo": "YDmqM7oj6C1",
+                    "dataElement": "En7iGbR79uJ",
+                    "row": 1,
+                    "column": 10
+                },
+                {
+                    " _comment": "HIV-Testing and Counselling-Tested-Blood or Organ Recipients Male",
+                    "categoryOptionCombo": "mF1o6p14lxL",
+                    "dataElement": "QmG82rXP7VV",
+                    "row": 1,
+                    "column": 11
+                },
+                {
+                    " _comment": "HIV-Testing and Counselling-Tested-Blood or Organ Recipients Female",
+                    "categoryOptionCombo": "fWqT46wDX5G",
+                    "dataElement": "QmG82rXP7VV",
+                    "row": 1,
+                    "column": 12
+                },
+                {
+                    " _comment": "HIV-Testing and Counselling-Tested-Blood or Organ Recipients Trans Gender",
+                    "categoryOptionCombo": "YDmqM7oj6C1",
+                    "dataElement": "QmG82rXP7VV",
+                    "row": 1,
+                    "column": 13
+                },
+                {
+                    " _comment": "HIV-Testing and Counselling-Tested-Clients of Sex Workers Male",
+                    "categoryOptionCombo": "mF1o6p14lxL",
+                    "dataElement": "vwEuYRDKzxL",
+                    "row": 1,
+                    "column": 14
+                },
+                {
+                    " _comment": "HIV-Testing and Counselling-Tested-Clients of Sex Workers Female",
+                    "categoryOptionCombo": "fWqT46wDX5G",
+                    "dataElement": "vwEuYRDKzxL",
+                    "row": 1,
+                    "column": 15
+                },
+                {
+                    " _comment": "HIV-Testing and Counselling-Tested-Clients of Sex Workers Trans Gender",
+                    "categoryOptionCombo": "YDmqM7oj6C1",
+                    "dataElement": "vwEuYRDKzxL",
+                    "row": 1,
+                    "column": 16
+                },
+                {
+                    " _comment": "HIV-Testing and Counselling-Tested-Migrants Male",
+                    "categoryOptionCombo": "mF1o6p14lxL",
+                    "dataElement": "I2ZkNM47RY3",
+                    "row": 1,
+                    "column": 17
+                },
+                {
+                    " _comment": "HIV-Testing and Counselling-Tested-Migrants Female",
+                    "categoryOptionCombo": "fWqT46wDX5G",
+                    "dataElement": "I2ZkNM47RY3",
+                    "row": 1,
+                    "column": 18
+                },
+                {
+                    " _comment": "HIV-Testing and Counselling-Tested-Migrants Trans Gender",
+                    "categoryOptionCombo": "YDmqM7oj6C1",
+                    "dataElement": "I2ZkNM47RY3",
+                    "row": 1,
+                    "column": 19
+                },
+                {
+                    " _comment": "HIV-Testing and Counselling-Tested-Spouse/Partners of Migrants Male",
+                    "categoryOptionCombo": "mF1o6p14lxL",
+                    "dataElement": "MTbZEGU9Ph7",
+                    "row": 1,
+                    "column": 20
+                },
+                {
+                    " _comment": "HIV-Testing and Counselling-Tested-Spouse/Partners of Migrants Female",
+                    "categoryOptionCombo": "fWqT46wDX5G",
+                    "dataElement": "MTbZEGU9Ph7",
+                    "row": 1,
+                    "column": 21
+                },
+                {
+                    " _comment": "HIV-Testing and Counselling-Tested-Spouse/Partners of Migrants Trans Gender",
+                    "categoryOptionCombo": "YDmqM7oj6C1",
+                    "dataElement": "MTbZEGU9Ph7",
+                    "row": 1,
+                    "column": 22
+                },
+                {
+                    " _comment": "HIV-Testing and Counselling-Tested-Others Male",
+                    "categoryOptionCombo": "mF1o6p14lxL",
+                    "dataElement": "XD93fR2qy6W",
+                    "row": 1,
+                    "column": 23
+                },
+                {
+                    " _comment": "HIV-Testing and Counselling-Tested-Others Female",
+                    "categoryOptionCombo": "fWqT46wDX5G",
+                    "dataElement": "XD93fR2qy6W",
+                    "row": 1,
+                    "column": 24
+                },
+                {
+                    " _comment": "HIV-Testing and Counselling-Tested-Others Trans Gender",
+                    "categoryOptionCombo": "YDmqM7oj6C1",
+                    "dataElement": "XD93fR2qy6W",
+                    "row": 1,
+                    "column": 25
+                },
+                {
+                    " _comment": "HIV-Testing and Counselling-Tested-<15 Years",
+                    "categoryOptionCombo": "kdsirVNKdhm",
+                    "dataElement": "dJ4bFcIF3WT",
+                    "row": 1,
+                    "column": 26
+                },
+                {
+                    " _comment": "HIV-Testing and Counselling-Tested-15 to 49 Years",
+                    "categoryOptionCombo": "kdsirVNKdhm",
+                    "dataElement": "BuKgJaMIDyi",
+                    "row": 1,
+                    "column": 27
+                },
+                {
+                    " _comment": "HIV-Testing and Counselling-Tested->49 Years",
+                    "categoryOptionCombo": "kdsirVNKdhm",
+                    "dataElement": "wksXyuO7p0J",
+                    "row": 1,
+                    "column": 28
+                }
+            ]
+        },
+        "Total Clients Assessed STI": {
+            "dataValues": [
+                {
+                    " _comment": "HIV-STI-Cases Assessed-Blood or Organ Receipient default",
+                    "categoryOptionCombo": "kdsirVNKdhm",
+                    "dataElement": "hOk44HRAFeT",
+                    "row": 1,
+                    "column": 2
+                },
+                {
+                    " _comment": "HIV-STI-Treatment-Blood or Organ Recipients default",
+                    "categoryOptionCombo": "kdsirVNKdhm",
+                    "dataElement": "ghKy4Dqgxt1",
+                    "row": 1,
+                    "column": 2
+                },
+                {
+                    " _comment": "HIV-STI-Cases Assessed-Clients of Sex Workers default",
+                    "categoryOptionCombo": "kdsirVNKdhm",
+                    "dataElement": "TZZ5yWNCzBs",
+                    "row": 2,
+                    "column": 2
+                },
+                {
+                    " _comment": "HIV-STI-Treatment-Clients of Sex Workers default",
+                    "categoryOptionCombo": "kdsirVNKdhm",
+                    "dataElement": "umb1UFpGFfV",
+                    "row": 2,
+                    "column": 2
+                },
+                {
+                    " _comment": "HIV-STI-Cases Assessed-HIV infected default",
+                    "categoryOptionCombo": "kdsirVNKdhm",
+                    "dataElement": "MLpG9VqI0cK",
+                    "row": 3,
+                    "column": 2
+                },
+                {
+                    " _comment": "HIV-STI-Treatment-HIV infected default",
+                    "categoryOptionCombo": "kdsirVNKdhm",
+                    "dataElement": "Y3Z00xeAYd0",
+                    "row": 3,
+                    "column": 2
+                },
+                {
+                    " _comment": "HIV-STI-Cases Assessed-Migrants default",
+                    "categoryOptionCombo": "kdsirVNKdhm",
+                    "dataElement": "qJGuYcmspDr",
+                    "row": 4,
+                    "column": 2
+                },
+                {
+                    " _comment": "HIV-STI-Treatment-Migrants default",
+                    "categoryOptionCombo": "kdsirVNKdhm",
+                    "dataElement": "BYDvFBJHXvp",
+                    "row": 4,
+                    "column": 2
+                },
+                {
+                    " _comment": "HIV-STI-Cases Assessed-MSM & TG default",
+                    "categoryOptionCombo": "kdsirVNKdhm",
+                    "dataElement": "LpK0LOzN9ZD",
+                    "row": 5,
+                    "column": 2
+                },
+                {
+                    " _comment": "HIV-STI-Treatment-MSM & TG default",
+                    "categoryOptionCombo": "kdsirVNKdhm",
+                    "dataElement": "HZgQdUdBkFq",
+                    "row": 5,
+                    "column": 2
+                },
+                {
+                    " _comment": "HIV-STI-Cases Assessed-Neonates default",
+                    "categoryOptionCombo": "kdsirVNKdhm",
+                    "dataElement": "tJVqbJ8gRXy",
+                    "row": 6,
+                    "column": 2
+                },
+                {
+                    " _comment": "HIV-STI-Treatment-Neonates default",
+                    "categoryOptionCombo": "kdsirVNKdhm",
+                    "dataElement": "pWBE9bYIKZI",
+                    "row": 6,
+                    "column": 2
+                },
+                {
+                    " _comment": "HIV-STI-Cases Assessed-Other Risk Group default",
+                    "categoryOptionCombo": "kdsirVNKdhm",
+                    "dataElement": "gkA7qglyac3",
+                    "row": 8,
+                    "column": 2
+                },
+                {
+                    " _comment": "HIV-STI-Treatment-Others default",
+                    "categoryOptionCombo": "kdsirVNKdhm",
+                    "dataElement": "ZE3X9gHkhGO",
+                    "row": 8,
+                    "column": 2
+                },
+                {
+                    " _comment": "HIV-STI-Cases Assessed-PWIDs default",
+                    "categoryOptionCombo": "kdsirVNKdhm",
+                    "dataElement": "z2TN07O6ulS",
+                    "row": 9,
+                    "column": 2
+                },
+                {
+                    " _comment": "HIV-STI-Treatment-People who inject drugs (PWIDs) default",
+                    "categoryOptionCombo": "kdsirVNKdhm",
+                    "dataElement": "fbgCsm0A8GB",
+                    "row": 9,
+                    "column": 2
+                },
+                {
+                    " _comment": "HIV-STI-Cases Assessed-Pregnant Women default",
+                    "categoryOptionCombo": "kdsirVNKdhm",
+                    "dataElement": "dmMiZQdEHw4",
+                    "row": 10,
+                    "column": 2
+                },
+                {
+                    " _comment": "HIV-STI-Treatment-Pregnant women default",
+                    "categoryOptionCombo": "kdsirVNKdhm",
+                    "dataElement": "GmAB1MNLvaZ",
+                    "row": 10,
+                    "column": 2
+                },
+                {
+                    " _comment": "HIV-STI-Cases Assessed-Sex workers default",
+                    "categoryOptionCombo": "kdsirVNKdhm",
+                    "dataElement": "SdgK8D01XHy",
+                    "row": 11,
+                    "column": 2
+                },
+                {
+                    " _comment": "HIV-STI-Treatment-Sex workers default",
+                    "categoryOptionCombo": "kdsirVNKdhm",
+                    "dataElement": "VrsK8SKwmVy",
+                    "row": 11,
+                    "column": 2
+                },
+                {
+                    " _comment": "HIV-STI-Cases Assessed-Spouse/Partner of migrants default",
+                    "categoryOptionCombo": "kdsirVNKdhm",
+                    "dataElement": "tL7iOA1hqLQ",
+                    "row": 12,
+                    "column": 2
+                },
+                {
+                    " _comment": "HIV-STI-Treatment-Spouse/Partners of Migrants default",
+                    "categoryOptionCombo": "kdsirVNKdhm",
+                    "dataElement": "m26qVmvBLzB",
+                    "row": 12,
+                    "column": 2
+                }
+            ]
+        },
+        "Syphilis Tested": {
+            "dataValues": [
+                {
+                    " _comment": "HIV-STI-Syphilis Tested-Pregnant Women default",
+                    "categoryOptionCombo": "kdsirVNKdhm",
+                    "dataElement": "obB9msVqLYC",
+                    "row": 1,
+                    "column": 1
+                },
+                {
+                    " _comment": "HIV-Syphilis-Positive- default",
+                    "categoryOptionCombo": "kdsirVNKdhm",
+                    "dataElement": "CfLcMaimrv3",
+                    "row": 1,
+                    "column": 2
+                },
+                {
+                    " _comment": "HIV-Syphilis-Treated- default",
+                    "categoryOptionCombo": "kdsirVNKdhm",
+                    "dataElement": "V6OPkA8f2WF",
+                    "row": 1,
+                    "column": 3
+                }
+            ]},
+            "HIV Counselling and Delivery":{
+                "dataValues":[
+                {
+                    " _comment": "HIV-PMTCT-Pregnant/Intrapartum/Postpartum-Counselled default",
+                    "categoryOptionCombo": "kdsirVNKdhm",
+                    "dataElement": "NoiXBdhsc1n",
+                    "row": 1,
+                    "column": 1
+                },
+                {
+                    " _comment": "HIV-PMTCT-Pregnant/Intrapartum/Postpartum-Positive default",
+                    "categoryOptionCombo": "kdsirVNKdhm",
+                    "dataElement": "yDKXnJvtUkr",
+                    "row": 1,
+                    "column": 2
+                },
+                {
+                    " _comment": "HIV-PMTCT-Pregnant/Intrapartum/Postpartum-Tested default",
+                    "categoryOptionCombo": "kdsirVNKdhm",
+                    "dataElement": "g7b5ImQkw56",
+                    "row": 1,
+                    "column": 3
+                },
+                {
+                    " _comment": "HIV/AIDS-PMTCT-ART Started-Before Pregnancy default",
+                    "categoryOptionCombo": "kdsirVNKdhm",
+                    "dataElement": "jqyzzzVg9Hj",
+                    "row": 1,
+                    "column": 4
+                },
+                {
+                    " _comment": "HIV-PMTCT-ART Started During-Pregnant/Intrapartum/Postpartum default",
+                    "categoryOptionCombo": "kdsirVNKdhm",
+                    "dataElement": "qmYHupQc8An",
+                    "row": 1,
+                    "column": 5
+                }
+            ]
+        },
+        "HIV Exposed Baby- Early Infant Diagnosis (EID)":{
+            "dataValues":[
+                {
+                    " _comment": "HIV/AIDS-PMTCT-Exposed Baby-Live Births",
+                    "categoryOptionCombo": "kdsirVNKdhm",
+                    "dataElement": "CVH3X0Xqe87",
+                    "row": 1,
+                    "column": 1
+                },
+                {
+                    " _comment": "HIV-EID-HIV Diagnosed-Within 24 hours of birth",
+                    "categoryOptionCombo": "kdsirVNKdhm",
+                    "dataElement": "BNDEnXgfV4K",
+                    "row": 1,
+                    "column": 2
+                },
+                {
+                    " _comment": "HIV/AIDS-HIV Exposed Baby-Early Infant Diagnosis-Within 02 Months-Positive",
+                    "categoryOptionCombo": "kdsirVNKdhm",
+                    "dataElement": "IrM1v1koSEf",
+                    "row": 1,
+                    "column": 3
+                },
+                {
+                    " _comment": "HIV-EID-HIV Diagnosed-2 to 18 Months",
+                    "categoryOptionCombo": "kdsirVNKdhm",
+                    "dataElement": "rdDaKNkIhxk",
+                    "row": 1,
+                    "column": 4
+                },
+                {
+                    " _comment": "HIV-PMTCT-EID-ART Started 0-18 Months",
+                    "categoryOptionCombo": "kdsirVNKdhm",
+                    "dataElement": "YJZC75FTgA0",
+                    "row": 1,
+                    "column": 5
+                }
+            ]
+        }
+    }
+}

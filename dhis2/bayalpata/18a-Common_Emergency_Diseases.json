@@ -1,0 +1,1328 @@
+{
+"orgUnit": "mPO6LgjseUd",
+"reports": {
+    "A-Respiratory Emergencies": {
+        "dataValues": [
+                        {
+                            " _comment": "Common Emergency Diseases-Respiratory-Shorthness of breath Female",
+                            "categoryOptionCombo": "ye1QuAMRG5Z",
+                            "dataElement": "t45npJnyYX2",
+                            "row": 1,
+                            "column": 3
+                        },
+                        {
+                            " _comment": "Common Emergency Diseases-Respiratory-Shorthness of breath Male",
+                            "categoryOptionCombo": "PflKpozpO7b",
+                            "dataElement": "t45npJnyYX2",
+                            "row": 1,
+                            "column": 4
+                        },
+                        {
+                            " _comment": "Common Emergency Diseases-Respiratory-Acute exacerbation of  (COPD) Female",
+                            "categoryOptionCombo": "ye1QuAMRG5Z",
+                            "dataElement": "eHBGSTdPE2w",
+                            "row": 2,
+                            "column": 3
+                        },
+                        {
+                            " _comment": "Common Emergency Diseases-Respiratory-Acute exacerbation of  (COPD) Male",
+                            "categoryOptionCombo": "PflKpozpO7b",
+                            "dataElement": "eHBGSTdPE2w",
+                            "row": 2,
+                            "column": 4
+                        },
+                        {
+                            " _comment": "Common Emergency Diseases-Respiratory-Bronchial Asthma Female",
+                            "categoryOptionCombo": "ye1QuAMRG5Z",
+                            "dataElement": "XUu6HJdPhwx",
+                            "row": 3,
+                            "column": 3
+                        },
+                        {
+                            " _comment": "Common Emergency Diseases-Respiratory-Bronchial Asthma Male",
+                            "categoryOptionCombo": "PflKpozpO7b",
+                            "dataElement": "XUu6HJdPhwx",
+                            "row": 3,
+                            "column": 4
+                        },
+                        {
+                            " _comment": "Common Emergency Diseases-Respiratory-Pneumonia Female",
+                            "categoryOptionCombo": "ye1QuAMRG5Z",
+                            "dataElement": "XiFS1e4yOtf",
+                            "row": 4,
+                            "column": 3
+                        },
+                        {
+                            " _comment": "Common Emergency Diseases-Respiratory-Pneumonia Male",
+                            "categoryOptionCombo": "PflKpozpO7b",
+                            "dataElement": "XiFS1e4yOtf",
+                            "row": 4,
+                            "column": 4
+                        },
+                        {
+                            " _comment": "Common Emergency Diseases-Respiratory-Aspiration Pneumonia Female",
+                            "categoryOptionCombo": "ye1QuAMRG5Z",
+                            "dataElement": "j0MQKLYOrfa",
+                            "row": 5,
+                            "column": 3
+                        },
+                        {
+                            " _comment": "Common Emergency Diseases-Respiratory-Aspiration Pneumonia Male",
+                            "categoryOptionCombo": "PflKpozpO7b",
+                            "dataElement": "j0MQKLYOrfa",
+                            "row": 5,
+                            "column": 4
+                        },
+                        {
+                            " _comment": "Common Emergency Diseases-Respiratory-Pneumothorax Female",
+                            "categoryOptionCombo": "ye1QuAMRG5Z",
+                            "dataElement": "ONcZ3jTM7yE",
+                            "row": 6,
+                            "column": 3
+                        },
+                        {
+                            " _comment": "Common Emergency Diseases-Respiratory-Pneumothorax Male",
+                            "categoryOptionCombo": "PflKpozpO7b",
+                            "dataElement": "ONcZ3jTM7yE",
+                            "row": 6,
+                            "column": 4
+                        },
+                        {
+                            " _comment": "Common Emergency Diseases-Respiratory-Hemoptysis Female",
+                            "categoryOptionCombo": "ye1QuAMRG5Z",
+                            "dataElement": "W1RDyPX4ToH",
+                            "row": 7,
+                            "column": 3
+                        },
+                        {
+                            " _comment": "Common Emergency Diseases-Respiratory-Hemoptysis Male",
+                            "categoryOptionCombo": "PflKpozpO7b",
+                            "dataElement": "W1RDyPX4ToH",
+                            "row": 7,
+                            "column": 4
+                        },
+                        {
+                            " _comment": "Common Emergency Diseases-Respiratory-Acute Pulmonary Embolism Female",
+                            "categoryOptionCombo": "ye1QuAMRG5Z",
+                            "dataElement": "zCxndEx1c83",
+                            "row": 8,
+                            "column": 3
+                        },
+                        {
+                            " _comment": "Common Emergency Diseases-Respiratory-Acute Pulmonary Embolism Male",
+                            "categoryOptionCombo": "PflKpozpO7b",
+                            "dataElement": "zCxndEx1c83",
+                            "row": 8,
+                            "column": 4
+                        },
+                        {
+                            " _comment": "Common Emergency Diseases-Respiratory-Acute Mountain Sickness Female",
+                            "categoryOptionCombo": "ye1QuAMRG5Z",
+                            "dataElement": "VCE42jTyous",
+                            "row": 9,
+                            "column": 3
+                        },
+                        {
+                            " _comment": "Common Emergency Diseases-Respiratory-Acute Mountain Sickness Male",
+                            "categoryOptionCombo": "PflKpozpO7b",
+                            "dataElement": "VCE42jTyous",
+                            "row": 9,
+                            "column": 4
+                        },
+                        {
+                            " _comment": "Common Emergency Diseases-Respiratory-High Altitude Pulmonary Edema (HAPE) Female",
+                            "categoryOptionCombo": "ye1QuAMRG5Z",
+                            "dataElement": "RWTnrQMZHVV",
+                            "row": 10,
+                            "column": 3
+                        },
+                        {
+                            " _comment": "Common Emergency Diseases-Respiratory-High Altitude Pulmonary Edema (HAPE) Male",
+                            "categoryOptionCombo": "PflKpozpO7b",
+                            "dataElement": "RWTnrQMZHVV",
+                            "row": 10,
+                            "column": 4
+                        },
+                        {
+                            " _comment": "Common Emergency Diseases-Respiratory-High Altitude Cerebral Edema (HACE) Female",
+                            "categoryOptionCombo": "ye1QuAMRG5Z",
+                            "dataElement": "M2N83f5QFwU",
+                            "row": 11,
+                            "column": 3
+                        },
+                        {
+                            " _comment": "Common Emergency Diseases-Respiratory-High Altitude Cerebral Edema (HACE) Male",
+                            "categoryOptionCombo": "PflKpozpO7b",
+                            "dataElement": "M2N83f5QFwU",
+                            "row": 11,
+                            "column": 4
+                        },
+                        {
+                            " _comment": "Common Emergency Diseases-Respiratory-Acute Respiratory Failure Female",
+                            "categoryOptionCombo": "ye1QuAMRG5Z",
+                            "dataElement": "fuiRUiXeO6f",
+                            "row": 12,
+                            "column": 3
+                        },
+                        {
+                            " _comment": "Common Emergency Diseases-Respiratory-Acute Respiratory Failure Male",
+                            "categoryOptionCombo": "PflKpozpO7b",
+                            "dataElement": "fuiRUiXeO6f",
+                            "row": 12,
+                            "column": 4
+                        },
+                        {
+                            " _comment": "Common Emergency Diseases-Respiratory-Acute Respiratory Distress Syndrome Female",
+                            "categoryOptionCombo": "ye1QuAMRG5Z",
+                            "dataElement": "NZwTVptsIQj",
+                            "row": 13,
+                            "column": 3
+                        },
+                        {
+                            " _comment": "Common Emergency Diseases-Respiratory-Acute Respiratory Distress Syndrome Male",
+                            "categoryOptionCombo": "PflKpozpO7b",
+                            "dataElement": "NZwTVptsIQj",
+                            "row": 13,
+                            "column": 4
+                        }
+                    ]
+                },
+    "B-Cardiac Emergencies": {
+        "dataValues": [
+                        {
+                            " _comment": "Common Emergency Diseases-Cardiac-Cardiac Tamponade Male",
+                            "categoryOptionCombo": "PflKpozpO7b",
+                            "dataElement": "nOhQbvKprC9",
+                            "row": 6,
+                            "column": 4
+                        },
+                        {
+                            " _comment": "Common Emergency Diseases-Cardiac-Cardiogenic Shock Female",
+                            "categoryOptionCombo": "ye1QuAMRG5Z",
+                            "dataElement": "HZ5ocPfFbJW",
+                            "row": 7,
+                            "column": 3
+                        },
+                        {
+                            " _comment": "Common Emergency Diseases-Cardiac-Cardiogenic Shock Male",
+                            "categoryOptionCombo": "PflKpozpO7b",
+                            "dataElement": "HZ5ocPfFbJW",
+                            "row": 7,
+                            "column": 4
+                        },
+                        {
+                            " _comment": "Common Emergency Diseases-Cardiac-Hypertensive Emergencies Female",
+                            "categoryOptionCombo": "ye1QuAMRG5Z",
+                            "dataElement": "JwxymjIkm6v",
+                            "row": 8,
+                            "column": 3
+                        },
+                        {
+                            " _comment": "Common Emergency Diseases-Cardiac-Hypertensive Emergencies Male",
+                            "categoryOptionCombo": "PflKpozpO7b",
+                            "dataElement": "JwxymjIkm6v",
+                            "row": 8,
+                            "column": 4
+                        }
+                    ]  
+                },   
+                "C-Neurological Emergencies": {
+                    "dataValues": [
+                        {
+                            " _comment": "Common Emergency Diseases-Neurological-Coma Female",
+                            "categoryOptionCombo": "ye1QuAMRG5Z",
+                            "dataElement": "GevxHU0NL2d",
+                            "row": 1,
+                            "column": 3
+                        },
+                        {
+                            " _comment": "Common Emergency Diseases-Neurological-Coma Male",
+                            "categoryOptionCombo": "PflKpozpO7b",
+                            "dataElement": "GevxHU0NL2d",
+                            "row": 1,
+                            "column": 4
+                        },
+                        {
+                            " _comment": "Common Emergency Diseases-Neurological-Seizures Female",
+                            "categoryOptionCombo": "ye1QuAMRG5Z",
+                            "dataElement": "PjCZw3W1zbq",
+                            "row": 2,
+                            "column": 3
+                        },
+                        {
+                            " _comment": "Common Emergency Diseases-Neurological-Seizures Male",
+                            "categoryOptionCombo": "PflKpozpO7b",
+                            "dataElement": "PjCZw3W1zbq",
+                            "row": 2,
+                            "column": 4
+                        },
+                        {
+                            " _comment": "Common Emergency Diseases-Neurological-Acute CNS Infections Female",
+                            "categoryOptionCombo": "ye1QuAMRG5Z",
+                            "dataElement": "UU28JEw0H2e",
+                            "row": 3,
+                            "column": 3
+                        },
+                        {
+                            " _comment": "Common Emergency Diseases-Neurological-Acute CNS Infections Male",
+                            "categoryOptionCombo": "PflKpozpO7b",
+                            "dataElement": "UU28JEw0H2e",
+                            "row": 3,
+                            "column": 4
+                        },
+                        {
+                            " _comment": "Common Emergency Diseases-Neurological-Cerebrovascular Accidents Female",
+                            "categoryOptionCombo": "ye1QuAMRG5Z",
+                            "dataElement": "IoXxOcitIRc",
+                            "row": 4,
+                            "column": 3
+                        },
+                        {
+                            " _comment": "Common Emergency Diseases-Neurological-Cerebrovascular Accidents Male",
+                            "categoryOptionCombo": "PflKpozpO7b",
+                            "dataElement": "IoXxOcitIRc",
+                            "row": 4,
+                            "column": 4
+                        },
+                        {
+                            " _comment": "Common Emergency Diseases-Neurological-Guillain- Barre Syndrome (GBS) Female",
+                            "categoryOptionCombo": "ye1QuAMRG5Z",
+                            "dataElement": "YbnHdT5Yw3w",
+                            "row": 5,
+                            "column": 3
+                        },
+                        {
+                            " _comment": "Common Emergency Diseases-Neurological-Guillain- Barre Syndrome (GBS) Male",
+                            "categoryOptionCombo": "PflKpozpO7b",
+                            "dataElement": "YbnHdT5Yw3w",
+                            "row": 5,
+                            "column": 4
+                        },
+                        {
+                            " _comment": "Common Emergency Diseases-Neurological-Raised Intracranial Pressure Female",
+                            "categoryOptionCombo": "ye1QuAMRG5Z",
+                            "dataElement": "u8fYTWeCXkq",
+                            "row": 6,
+                            "column": 3
+                        },
+                        {
+                            " _comment": "Common Emergency Diseases-Neurological-Raised Intracranial Pressure Male",
+                            "categoryOptionCombo": "PflKpozpO7b",
+                            "dataElement": "u8fYTWeCXkq",
+                            "row": 6,
+                            "column": 4
+                        }
+                    ]
+                },
+                "D-Gastrointestinal Emergencies": {
+                    "dataValues": [
+                        {
+                            " _comment": "Common Emergency Diseases-Gastrointestinal-Abdominal pain Female",
+                            "categoryOptionCombo": "ye1QuAMRG5Z",
+                            "dataElement": "cKxi5aUr8a6",
+                            "row": 1,
+                            "column": 3
+                        },
+                        {
+                            " _comment": "Common Emergency Diseases-Gastrointestinal-Abdominal pain Male",
+                            "categoryOptionCombo": "PflKpozpO7b",
+                            "dataElement": "cKxi5aUr8a6",
+                            "row": 1,
+                            "column": 4
+                        },
+                        {
+                            " _comment": "Common Emergency Diseases-Gastrointestinal-Acute Gastritis Female",
+                            "categoryOptionCombo": "ye1QuAMRG5Z",
+                            "dataElement": "B98JFyVJ1hl",
+                            "row": 2,
+                            "column": 3
+                        },
+                        {
+                            " _comment": "Common Emergency Diseases-Gastrointestinal-Acute Gastritis Male",
+                            "categoryOptionCombo": "PflKpozpO7b",
+                            "dataElement": "B98JFyVJ1hl",
+                            "row": 2,
+                            "column": 4
+                        },
+                        {
+                            " _comment": "Common Emergency Diseases-Gastrointestinal-Acute Gastroenteritis Female",
+                            "categoryOptionCombo": "ye1QuAMRG5Z",
+                            "dataElement": "PVzhMRtg9Tq",
+                            "row": 3,
+                            "column": 3
+                        },
+                        {
+                            " _comment": "Common Emergency Diseases-Gastrointestinal-Acute Gastroenteritis Male",
+                            "categoryOptionCombo": "PflKpozpO7b",
+                            "dataElement": "PVzhMRtg9Tq",
+                            "row": 3,
+                            "column": 4
+                        },
+                        {
+                            " _comment": "Common Emergency Diseases-Gastrointestinal-Acute Appendicitis Female",
+                            "categoryOptionCombo": "ye1QuAMRG5Z",
+                            "dataElement": "rdrfbkRbj2Z",
+                            "row": 4,
+                            "column": 3
+                        },
+                        {
+                            " _comment": "Common Emergency Diseases-Gastrointestinal-Acute Appendicitis Male",
+                            "categoryOptionCombo": "PflKpozpO7b",
+                            "dataElement": "rdrfbkRbj2Z",
+                            "row": 4,
+                            "column": 4
+                        },
+                        {
+                            " _comment": "Common Emergency Diseases-Gastrointestinal-Acute Cholecystitis Female",
+                            "categoryOptionCombo": "ye1QuAMRG5Z",
+                            "dataElement": "IdF3pSxp1Ve",
+                            "row": 5,
+                            "column": 3
+                        },
+                        {
+                            " _comment": "Common Emergency Diseases-Gastrointestinal-Acute Cholecystitis Male",
+                            "categoryOptionCombo": "PflKpozpO7b",
+                            "dataElement": "IdF3pSxp1Ve",
+                            "row": 5,
+                            "column": 4
+                        },
+                        {
+                            " _comment": "Common Emergency Diseases-Gastrointestinal-Gastrointestinal Bleeding (GIB) Female",
+                            "categoryOptionCombo": "ye1QuAMRG5Z",
+                            "dataElement": "P3NvntLjiDQ",
+                            "row": 6,
+                            "column": 3
+                        },
+                        {
+                            " _comment": "Common Emergency Diseases-Gastrointestinal-Gastrointestinal Bleeding (GIB) Male",
+                            "categoryOptionCombo": "PflKpozpO7b",
+                            "dataElement": "P3NvntLjiDQ",
+                            "row": 6,
+                            "column": 4
+                        },
+                        {
+                            " _comment": "Common Emergency Diseases-Gastrointestinal-Fulminant Hepatic Failure Female",
+                            "categoryOptionCombo": "ye1QuAMRG5Z",
+                            "dataElement": "N0qTOjQ5svi",
+                            "row": 7,
+                            "column": 3
+                        },
+                        {
+                            " _comment": "Common Emergency Diseases-Gastrointestinal-Fulminant Hepatic Failure Male",
+                            "categoryOptionCombo": "PflKpozpO7b",
+                            "dataElement": "N0qTOjQ5svi",
+                            "row": 7,
+                            "column": 4
+                        },
+                        {
+                            " _comment": "Common Emergency Diseases-Gastrointestinal-Acute Pancreatitis Female",
+                            "categoryOptionCombo": "ye1QuAMRG5Z",
+                            "dataElement": "kxR6s54etIp",
+                            "row": 8,
+                            "column": 3
+                        },
+                        {
+                            " _comment": "Common Emergency Diseases-Gastrointestinal-Acute Pancreatitis Male",
+                            "categoryOptionCombo": "PflKpozpO7b",
+                            "dataElement": "kxR6s54etIp",
+                            "row": 8,
+                            "column": 4
+                        },
+                        {
+                            " _comment": "Common Emergency Diseases-Gastrointestinal-Strangulated/Obstructed Herina Female",
+                            "categoryOptionCombo": "ye1QuAMRG5Z",
+                            "dataElement": "k9rd8jW3kNF",
+                            "row": 9,
+                            "column": 3
+                        },
+                        {
+                            " _comment": "Common Emergency Diseases-Gastrointestinal-Strangulated/Obstructed Herina Male",
+                            "categoryOptionCombo": "PflKpozpO7b",
+                            "dataElement": "k9rd8jW3kNF",
+                            "row": 9,
+                            "column": 4
+                        },
+                        {
+                            " _comment": "Common Emergency Diseases-Gastrointestinal-Intestinal Obstrucction Female",
+                            "categoryOptionCombo": "ye1QuAMRG5Z",
+                            "dataElement": "JYTPYn4m6YB",
+                            "row": 10,
+                            "column": 3
+                        },
+                        {
+                            " _comment": "Common Emergency Diseases-Gastrointestinal-Intestinal Obstrucction Male",
+                            "categoryOptionCombo": "PflKpozpO7b",
+                            "dataElement": "JYTPYn4m6YB",
+                            "row": 10,
+                            "column": 4
+                        },
+                        {
+                            " _comment": "Common Emergency Diseases-Gastrointestinal-Hallow Viscus Perforation Female",
+                            "categoryOptionCombo": "ye1QuAMRG5Z",
+                            "dataElement": "Nr64hBBHZx2",
+                            "row": 11,
+                            "column": 3
+                        },
+                        {
+                            " _comment": "Common Emergency Diseases-Gastrointestinal-Hallow Viscus Perforation Male",
+                            "categoryOptionCombo": "PflKpozpO7b",
+                            "dataElement": "Nr64hBBHZx2",
+                            "row": 11,
+                            "column": 4
+                        },
+                        {
+                            " _comment": "Common Emergency Diseases-Gastrointestinal-Peritonitis Female",
+                            "categoryOptionCombo": "ye1QuAMRG5Z",
+                            "dataElement": "daEVQbCUq6k",
+                            "row": 12,
+                            "column": 3
+                        },
+                        {
+                            " _comment": "Common Emergency Diseases-Gastrointestinal-Peritonitis Male",
+                            "categoryOptionCombo": "PflKpozpO7b",
+                            "dataElement": "daEVQbCUq6k",
+                            "row": 12,
+                            "column": 4
+                        },
+                        {
+                            " _comment": "Common Emergency Diseases-Gastrointestinal-Renal Colic Female",
+                            "categoryOptionCombo": "ye1QuAMRG5Z",
+                            "dataElement": "WoURwvcjfiG",
+                            "row": 13,
+                            "column": 3
+                        },
+                        {
+                            " _comment": "Common Emergency Diseases-Gastrointestinal-Renal Colic Male",
+                            "categoryOptionCombo": "PflKpozpO7b",
+                            "dataElement": "WoURwvcjfiG",
+                            "row": 13,
+                            "column": 4
+                        },
+                        {
+                            " _comment": "Common Emergency Diseases-Gastrointestinal-Hematuria Female",
+                            "categoryOptionCombo": "ye1QuAMRG5Z",
+                            "dataElement": "wX3ZzwT8MGN",
+                            "row": 14,
+                            "column": 3
+                        },
+                        {
+                            " _comment": "Common Emergency Diseases-Gastrointestinal-Hematuria Male",
+                            "categoryOptionCombo": "PflKpozpO7b",
+                            "dataElement": "wX3ZzwT8MGN",
+                            "row": 14,
+                            "column": 4
+                        },
+                        {
+                            " _comment": "Common Emergency Diseases-Gastrointestinal-Actute Retention of Urine Female",
+                            "categoryOptionCombo": "ye1QuAMRG5Z",
+                            "dataElement": "uu9fuezz2MR",
+                            "row": 15,
+                            "column": 3
+                        },
+                        {
+                            " _comment": "Common Emergency Diseases-Gastrointestinal-Actute Retention of Urine Male",
+                            "categoryOptionCombo": "PflKpozpO7b",
+                            "dataElement": "uu9fuezz2MR",
+                            "row": 15,
+                            "column": 4
+                        },
+                        {
+                            " _comment": "Common Emergency Diseases-Gastrointestinal-Testicular Torsion Female",
+                            "categoryOptionCombo": "ye1QuAMRG5Z",
+                            "dataElement": "xo4bR7UE9cK",
+                            "row": 16,
+                            "column": 3
+                        },
+                        {
+                            " _comment": "Common Emergency Diseases-Gastrointestinal-Testicular Torsion Male",
+                            "categoryOptionCombo": "PflKpozpO7b",
+                            "dataElement": "xo4bR7UE9cK",
+                            "row": 16,
+                            "column": 4
+                        },
+                        {
+                            " _comment": "Common Emergency Diseases-Gastrointestinal-Paraphimosis Female",
+                            "categoryOptionCombo": "ye1QuAMRG5Z",
+                            "dataElement": "ne7bITs5K1E",
+                            "row": 17,
+                            "column": 3
+                        },
+                        {
+                            " _comment": "Common Emergency Diseases-Gastrointestinal-Paraphimosis Male",
+                            "categoryOptionCombo": "PflKpozpO7b",
+                            "dataElement": "ne7bITs5K1E",
+                            "row": 17,
+                            "column": 4
+                        }
+                    ]
+                },
+                "F-Gynecology and Obstetrical Emergencies": {
+                    "dataValues": [
+                        {
+                            " _comment": "Common Emergency Diseases-Gynecology-Ectopic Pregnancy Female",
+                            "categoryOptionCombo": "kdsirVNKdhm",
+                            "dataElement": "Ft8hOM1zsVY",
+                            "row": 1,
+                            "column": 3
+                        },
+                        {
+                            " _comment": "Common Emergency Diseases-Gynecology-Antepartum Haemorrhage Female",
+                            "categoryOptionCombo": "kdsirVNKdhm",
+                            "dataElement": "J4n594HErwp",
+                            "row": 2,
+                            "column": 3
+                        },
+                        {
+                            " _comment": "Common Emergency Diseases-Gynecology-Ruptured Uterus Female",
+                            "categoryOptionCombo": "kdsirVNKdhm",
+                            "dataElement": "TnTpN2z1B8H",
+                            "row": 3,
+                            "column": 3
+                        },
+                        {
+                            " _comment": "Common Emergency Diseases-Gynecology-Pregnancy Induced Hypertension (PIH) Female",
+                            "categoryOptionCombo": "kdsirVNKdhm",
+                            "dataElement": "GyhhcDPlJMX",
+                            "row": 4,
+                            "column": 3
+                        },
+                        {
+                            " _comment": "Common Emergency Diseases-Gynecology-Obstructed Labour Female",
+                            "categoryOptionCombo": "kdsirVNKdhm",
+                            "dataElement": "h38nCS7pLJH",
+                            "row": 5,
+                            "column": 3
+                        },
+                        {
+                            " _comment": "Common Emergency Diseases-Gynecology-Postpartum Haemorrhage Female",
+                            "categoryOptionCombo": "kdsirVNKdhm",
+                            "dataElement": "wgpVLyhGgog",
+                            "row": 6,
+                            "column": 3
+                        },
+                        {
+                            " _comment": "Common Emergency Diseases-Gynecology-Puerperal pyrexia Female",
+                            "categoryOptionCombo": "kdsirVNKdhm",
+                            "dataElement": "ZySlIot5f9f",
+                            "row": 7,
+                            "column": 3
+                        },
+                        {
+                            " _comment": "Common Emergency Diseases-Gynecology-Hypermesis Gravidraum Female",
+                            "categoryOptionCombo": "kdsirVNKdhm",
+                            "dataElement": "g86Ku1XdewY",
+                            "row": 8,
+                            "column": 3
+                        }
+                    ]
+                },
+                "G-Orthopaedic and Trauma": {
+                    "dataValues": [
+                        {
+                            " _comment": "Common Emergency Diseases-Orthopaedic & Trauma-Head Injury Female",
+                            "categoryOptionCombo": "ye1QuAMRG5Z",
+                            "dataElement": "AXUQqXfqF6g",
+                            "row": 1,
+                            "column": 3
+                        },
+                        {
+                            " _comment": "Common Emergency Diseases-Orthopaedic & Trauma-Head Injury Male",
+                            "categoryOptionCombo": "PflKpozpO7b",
+                            "dataElement": "AXUQqXfqF6g",
+                            "row": 1,
+                            "column": 4
+                        },
+                        {
+                            " _comment": "Common Emergency Diseases-Orthopaedic & Trauma-Abdominal and pelvic Injury Female",
+                            "categoryOptionCombo": "ye1QuAMRG5Z",
+                            "dataElement": "PUmhBUquDyF",
+                            "row": 2,
+                            "column": 3
+                        },
+                        {
+                            " _comment": "Common Emergency Diseases-Orthopaedic & Trauma-Abdominal and pelvic Injury Male",
+                            "categoryOptionCombo": "PflKpozpO7b",
+                            "dataElement": "PUmhBUquDyF",
+                            "row": 2,
+                            "column": 4
+                        },
+                        {
+                            " _comment": "Common Emergency Diseases-Orthopaedic & Trauma-Chest Injuries Female",
+                            "categoryOptionCombo": "ye1QuAMRG5Z",
+                            "dataElement": "w5RP2Dxn56b",
+                            "row": 3,
+                            "column": 3
+                        },
+                        {
+                            " _comment": "Common Emergency Diseases-Orthopaedic & Trauma-Chest Injuries Male",
+                            "categoryOptionCombo": "PflKpozpO7b",
+                            "dataElement": "w5RP2Dxn56b",
+                            "row": 3,
+                            "column": 4
+                        },
+                        {
+                            " _comment": "Common Emergency Diseases-Orthopaedic & Trauma-Muskuloskeletal Injuries Female",
+                            "categoryOptionCombo": "ye1QuAMRG5Z",
+                            "dataElement": "XaXmjYTxrQP",
+                            "row": 4,
+                            "column": 3
+                        },
+                        {
+                            " _comment": "Common Emergency Diseases-Orthopaedic & Trauma-Muskuloskeletal Injuries Male",
+                            "categoryOptionCombo": "PflKpozpO7b",
+                            "dataElement": "XaXmjYTxrQP",
+                            "row": 4,
+                            "column": 4
+                        },
+                        {
+                            " _comment": "Common Emergency Diseases-Orthopaedic & Trauma-Compartment Syndrome Female",
+                            "categoryOptionCombo": "ye1QuAMRG5Z",
+                            "dataElement": "tDaQtZ3cPY5",
+                            "row": 5,
+                            "column": 3
+                        },
+                        {
+                            " _comment": "Common Emergency Diseases-Orthopaedic & Trauma-Compartment Syndrome Male",
+                            "categoryOptionCombo": "PflKpozpO7b",
+                            "dataElement": "tDaQtZ3cPY5",
+                            "row": 5,
+                            "column": 4
+                        },
+                        {
+                            " _comment": "Common Emergency Diseases-Orthopaedic & Trauma-Traumatic amputation Female",
+                            "categoryOptionCombo": "ye1QuAMRG5Z",
+                            "dataElement": "jBflyH7hF3J",
+                            "row": 6,
+                            "column": 3
+                        },
+                        {
+                            " _comment": "Common Emergency Diseases-Orthopaedic & Trauma-Traumatic amputation Male",
+                            "categoryOptionCombo": "PflKpozpO7b",
+                            "dataElement": "jBflyH7hF3J",
+                            "row": 6,
+                            "column": 4
+                        },
+                        {
+                            " _comment": "Common Emergency Diseases-Orthopaedic & Trauma-Toothace/Odontalgia Female",
+                            "categoryOptionCombo": "ye1QuAMRG5Z",
+                            "dataElement": "l7v7MsQS7lI",
+                            "row": 7,
+                            "column": 3
+                        },
+                        {
+                            " _comment": "Common Emergency Diseases-Orthopaedic & Trauma-Toothace/Odontalgia Male",
+                            "categoryOptionCombo": "PflKpozpO7b",
+                            "dataElement": "l7v7MsQS7lI",
+                            "row": 7,
+                            "column": 4
+                        },
+                        {
+                            " _comment": "Common Emergency Diseases-Orthopaedic & Trauma-Dental Fractures Female",
+                            "categoryOptionCombo": "ye1QuAMRG5Z",
+                            "dataElement": "brOAQlzPp3C",
+                            "row": 8,
+                            "column": 3
+                        },
+                        {
+                            " _comment": "Common Emergency Diseases-Orthopaedic & Trauma-Dental Fractures Male",
+                            "categoryOptionCombo": "PflKpozpO7b",
+                            "dataElement": "brOAQlzPp3C",
+                            "row": 8,
+                            "column": 4
+                        },
+                        {
+                            " _comment": "Common Emergency Diseases-Orthopaedic & Trauma-Temporomandibular joint (TMJ) Dislocation Female",
+                            "categoryOptionCombo": "ye1QuAMRG5Z",
+                            "dataElement": "YWMDvNBlnNV",
+                            "row": 9,
+                            "column": 3
+                        },
+                        {
+                            " _comment": "Common Emergency Diseases-Orthopaedic & Trauma-Temporomandibular joint (TMJ) Dislocation Male",
+                            "categoryOptionCombo": "PflKpozpO7b",
+                            "dataElement": "YWMDvNBlnNV",
+                            "row": 9,
+                            "column": 4
+                        },
+                        {
+                            " _comment": "Common Emergency Diseases-Orthopaedic & Trauma-Gum Bleeding Female",
+                            "categoryOptionCombo": "ye1QuAMRG5Z",
+                            "dataElement": "wLZKsKA0W3U",
+                            "row": 10,
+                            "column": 3
+                        },
+                        {
+                            " _comment": "Common Emergency Diseases-Orthopaedic & Trauma-Gum Bleeding Male",
+                            "categoryOptionCombo": "PflKpozpO7b",
+                            "dataElement": "wLZKsKA0W3U",
+                            "row": 10,
+                            "column": 4
+                        }
+                    ]
+                },
+                "H-Metabolic Emergencies": {
+                    "dataValues": [
+                        {
+                            " _comment": "Common Emergency Diseases-Metabolic-Hypoklaemia Female",
+                            "categoryOptionCombo": "ye1QuAMRG5Z",
+                            "dataElement": "sZawi4OObgG",
+                            "row": 1,
+                            "column": 3
+                        },
+                        {
+                            " _comment": "Common Emergency Diseases-Metabolic-Hypoklaemia Male",
+                            "categoryOptionCombo": "PflKpozpO7b",
+                            "dataElement": "sZawi4OObgG",
+                            "row": 1,
+                            "column": 4
+                        },
+                        {
+                            " _comment": "Common Emergency Diseases-Metabolic-Hyperkalemia Female",
+                            "categoryOptionCombo": "ye1QuAMRG5Z",
+                            "dataElement": "aW09FYrRhWG",
+                            "row": 2,
+                            "column": 3
+                        },
+                        {
+                            " _comment": "Common Emergency Diseases-Metabolic-Hyperkalemia Male",
+                            "categoryOptionCombo": "PflKpozpO7b",
+                            "dataElement": "aW09FYrRhWG",
+                            "row": 2,
+                            "column": 4
+                        },
+                        {
+                            " _comment": "Common Emergency Diseases-Metabolic-Hyponatremia Female",
+                            "categoryOptionCombo": "ye1QuAMRG5Z",
+                            "dataElement": "m7QS7b88Ml5",
+                            "row": 3,
+                            "column": 3
+                        },
+                        {
+                            " _comment": "Common Emergency Diseases-Metabolic-Hyponatremia Male",
+                            "categoryOptionCombo": "PflKpozpO7b",
+                            "dataElement": "m7QS7b88Ml5",
+                            "row": 3,
+                            "column": 4
+                        },
+                        {
+                            " _comment": "Common Emergency Diseases-Metabolic-Hypernatremia Female",
+                            "categoryOptionCombo": "ye1QuAMRG5Z",
+                            "dataElement": "CKH2nJjIwUv",
+                            "row": 4,
+                            "column": 3
+                        },
+                        {
+                            " _comment": "Common Emergency Diseases-Metabolic-Hypernatremia Male",
+                            "categoryOptionCombo": "PflKpozpO7b",
+                            "dataElement": "CKH2nJjIwUv",
+                            "row": 4,
+                            "column": 4
+                        },
+                        {
+                            " _comment": "Common Emergency Diseases-Metabolic-Hypoglycemia Female",
+                            "categoryOptionCombo": "ye1QuAMRG5Z",
+                            "dataElement": "r6BZqMWAj5P",
+                            "row": 5,
+                            "column": 3
+                        },
+                        {
+                            " _comment": "Common Emergency Diseases-Metabolic-Hypoglycemia Male",
+                            "categoryOptionCombo": "PflKpozpO7b",
+                            "dataElement": "r6BZqMWAj5P",
+                            "row": 5,
+                            "column": 4
+                        },
+                        {
+                            " _comment": "Common Emergency Diseases-Metabolic-Diabetic Ketoacidosis (DKA) Female",
+                            "categoryOptionCombo": "ye1QuAMRG5Z",
+                            "dataElement": "v8sbkORRmzD",
+                            "row": 6,
+                            "column": 3
+                        },
+                        {
+                            " _comment": "Common Emergency Diseases-Metabolic-Diabetic Ketoacidosis (DKA) Male",
+                            "categoryOptionCombo": "PflKpozpO7b",
+                            "dataElement": "v8sbkORRmzD",
+                            "row": 6,
+                            "column": 4
+                        },
+                        {
+                            " _comment": "Common Emergency Diseases-Metabolic-Acute Adrenal Crisis Female",
+                            "categoryOptionCombo": "ye1QuAMRG5Z",
+                            "dataElement": "JZnqrEEDK9Z",
+                            "row": 7,
+                            "column": 3
+                        },
+                        {
+                            " _comment": "Common Emergency Diseases-Metabolic-Acute Adrenal Crisis Male",
+                            "categoryOptionCombo": "PflKpozpO7b",
+                            "dataElement": "JZnqrEEDK9Z",
+                            "row": 7,
+                            "column": 4
+                        }
+                    ]
+                },
+                "I-Ocular Emergencies": {
+                    "dataValues": [
+                        {
+                            " _comment": "Common Emergency Diseases-Ocular-Foreign body Eye Female",
+                            "categoryOptionCombo": "ye1QuAMRG5Z",
+                            "dataElement": "HON9NGyljcj",
+                            "row": 1,
+                            "column": 3
+                        },
+                        {
+                            " _comment": "Common Emergency Diseases-Ocular-Foreign body Eye Male",
+                            "categoryOptionCombo": "PflKpozpO7b",
+                            "dataElement": "HON9NGyljcj",
+                            "row": 1,
+                            "column": 4
+                        },
+                        {
+                            " _comment": "Common Emergency Diseases-Ocular-Sudden loss of Vision Female",
+                            "categoryOptionCombo": "ye1QuAMRG5Z",
+                            "dataElement": "mTcq0gzsvuS",
+                            "row": 2,
+                            "column": 3
+                        },
+                        {
+                            " _comment": "Common Emergency Diseases-Ocular-Sudden loss of Vision Male",
+                            "categoryOptionCombo": "PflKpozpO7b",
+                            "dataElement": "mTcq0gzsvuS",
+                            "row": 2,
+                            "column": 4
+                        },
+                        {
+                            " _comment": "Common Emergency Diseases-Ocular-Chemical Injuries Female",
+                            "categoryOptionCombo": "ye1QuAMRG5Z",
+                            "dataElement": "Qyc2BP1TIA9",
+                            "row": 3,
+                            "column": 3
+                        },
+                        {
+                            " _comment": "Common Emergency Diseases-Ocular-Chemical Injuries Male",
+                            "categoryOptionCombo": "PflKpozpO7b",
+                            "dataElement": "Qyc2BP1TIA9",
+                            "row": 3,
+                            "column": 4
+                        }
+                    ]
+                },
+                "J-Ent Emergencies": {
+                    "dataValues": [
+                        {
+                            " _comment": "Common Emergency Diseases-ENT-Epistaxis Female",
+                            "categoryOptionCombo": "ye1QuAMRG5Z",
+                            "dataElement": "gI0wEWeSOqS",
+                            "row": 1,
+                            "column": 3
+                        },
+                        {
+                            " _comment": "Common Emergency Diseases-ENT-Epistaxis Male",
+                            "categoryOptionCombo": "PflKpozpO7b",
+                            "dataElement": "gI0wEWeSOqS",
+                            "row": 1,
+                            "column": 4
+                        },
+                        {
+                            " _comment": "Common Emergency Diseases-ENT-Foreign body ENT Female",
+                            "categoryOptionCombo": "ye1QuAMRG5Z",
+                            "dataElement": "ABQSMFHm3pH",
+                            "row": 2,
+                            "column": 3
+                        },
+                        {
+                            " _comment": "Common Emergency Diseases-ENT-Foreign body ENT Male",
+                            "categoryOptionCombo": "PflKpozpO7b",
+                            "dataElement": "ABQSMFHm3pH",
+                            "row": 2,
+                            "column": 4
+                        }
+                    ]
+                },
+                "K-Burns": {
+                    "dataValues": [
+                        {
+                            " _comment": "Common Emergency Diseases-Burns-Thermal burns Female",
+                            "categoryOptionCombo": "ye1QuAMRG5Z",
+                            "dataElement": "z15CIqNtu0U",
+                            "row": 1,
+                            "column": 3
+                        },
+                        {
+                            " _comment": "Common Emergency Diseases-Burns-Thermal burns Male",
+                            "categoryOptionCombo": "PflKpozpO7b",
+                            "dataElement": "z15CIqNtu0U",
+                            "row": 1,
+                            "column": 4
+                        },
+                        {
+                            " _comment": "Common Emergency Diseases-Burns-Electrical & Lightening Injuries Female",
+                            "categoryOptionCombo": "ye1QuAMRG5Z",
+                            "dataElement": "JfAaF0VNFOy",
+                            "row": 2,
+                            "column": 3
+                        },
+                        {
+                            " _comment": "Common Emergency Diseases-Burns-Electrical & Lightening Injuries Male",
+                            "categoryOptionCombo": "PflKpozpO7b",
+                            "dataElement": "JfAaF0VNFOy",
+                            "row": 2,
+                            "column": 4
+                        }
+                    ]
+                },
+                "L-Mental Health Emergencies": {
+                    "dataValues": [
+                        {
+                            " _comment": "Common Emergency Diseases-Mental Health-Alchohol intoxication Female",
+                            "categoryOptionCombo": "ye1QuAMRG5Z",
+                            "dataElement": "pGnNUcKcxSk",
+                            "row": 1,
+                            "column": 3
+                        },
+                        {
+                            " _comment": "Common Emergency Diseases-Mental Health-Alchohol intoxication Male",
+                            "categoryOptionCombo": "PflKpozpO7b",
+                            "dataElement": "pGnNUcKcxSk",
+                            "row": 1,
+                            "column": 4
+                        },
+                        {
+                            " _comment": "Common Emergency Diseases-Mental Health-Alchohol use disorder Female",
+                            "categoryOptionCombo": "ye1QuAMRG5Z",
+                            "dataElement": "g9LCpJSh9An",
+                            "row": 2,
+                            "column": 3
+                        },
+                        {
+                            " _comment": "Common Emergency Diseases-Mental Health-Alchohol use disorder Male",
+                            "categoryOptionCombo": "PflKpozpO7b",
+                            "dataElement": "g9LCpJSh9An",
+                            "row": 2,
+                            "column": 4
+                        },
+                        {
+                            " _comment": "Common Emergency Diseases-Mental Health-Anxiety disorder Female",
+                            "categoryOptionCombo": "ye1QuAMRG5Z",
+                            "dataElement": "M3TK38EoLvD",
+                            "row": 3,
+                            "column": 3
+                        },
+                        {
+                            " _comment": "Common Emergency Diseases-Mental Health-Anxiety disorder Male",
+                            "categoryOptionCombo": "PflKpozpO7b",
+                            "dataElement": "M3TK38EoLvD",
+                            "row": 3,
+                            "column": 4
+                        },
+                        {
+                            " _comment": "Common Emergency Diseases-Mental Health-Conversion Disorder Female",
+                            "categoryOptionCombo": "ye1QuAMRG5Z",
+                            "dataElement": "MInojlnjzt1",
+                            "row": 4,
+                            "column": 3
+                        },
+                        {
+                            " _comment": "Common Emergency Diseases-Mental Health-Conversion Disorder Male",
+                            "categoryOptionCombo": "PflKpozpO7b",
+                            "dataElement": "MInojlnjzt1",
+                            "row": 4,
+                            "column": 4
+                        },
+                        {
+                            " _comment": "Common Emergency Diseases-Mental Health-Depression Female",
+                            "categoryOptionCombo": "ye1QuAMRG5Z",
+                            "dataElement": "pbHYbi8QCbW",
+                            "row": 5,
+                            "column": 3
+                        },
+                        {
+                            " _comment": "Common Emergency Diseases-Mental Health-Depression Male",
+                            "categoryOptionCombo": "PflKpozpO7b",
+                            "dataElement": "pbHYbi8QCbW",
+                            "row": 5,
+                            "column": 4
+                        },
+                        {
+                            " _comment": "Common Emergency Diseases-Mental Health-Acute psychosis Female",
+                            "categoryOptionCombo": "ye1QuAMRG5Z",
+                            "dataElement": "lom6kA4Hp81",
+                            "row": 6,
+                            "column": 3
+                        },
+                        {
+                            " _comment": "Common Emergency Diseases-Mental Health-Acute psychosis Male",
+                            "categoryOptionCombo": "PflKpozpO7b",
+                            "dataElement": "lom6kA4Hp81",
+                            "row": 6,
+                            "column": 4
+                        }
+                    ]
+                },
+                "M-Toxicological Emergencies": {
+                    "dataValues": [
+                        {
+                            " _comment": "Common Emergency Diseases-Toxicological-Outline of Poisoning Female",
+                            "categoryOptionCombo": "ye1QuAMRG5Z",
+                            "dataElement": "B8ctEsO0mA1",
+                            "row": 1,
+                            "column": 3
+                        },
+                        {
+                            " _comment": "Common Emergency Diseases-Toxicological-Outline of Poisoning Male",
+                            "categoryOptionCombo": "PflKpozpO7b",
+                            "dataElement": "B8ctEsO0mA1",
+                            "row": 1,
+                            "column": 4
+                        },
+                        {
+                            " _comment": "Common Emergency Diseases-Toxicological-Organophosphorus Poisoning (Rodenticides) Female",
+                            "categoryOptionCombo": "ye1QuAMRG5Z",
+                            "dataElement": "Dwt3vDV8fza",
+                            "row": 2,
+                            "column": 3
+                        },
+                        {
+                            " _comment": "Common Emergency Diseases-Toxicological-Organophosphorus Poisoning (Rodenticides) Male",
+                            "categoryOptionCombo": "PflKpozpO7b",
+                            "dataElement": "Dwt3vDV8fza",
+                            "row": 2,
+                            "column": 4
+                        },
+                        {
+                            " _comment": "Common Emergency Diseases-Toxicological-Aluminium Phosphide Female",
+                            "categoryOptionCombo": "ye1QuAMRG5Z",
+                            "dataElement": "M9mlptxOMcc",
+                            "row": 3,
+                            "column": 3
+                        },
+                        {
+                            " _comment": "Common Emergency Diseases-Toxicological-Aluminium Phosphide Male",
+                            "categoryOptionCombo": "PflKpozpO7b",
+                            "dataElement": "M9mlptxOMcc",
+                            "row": 3,
+                            "column": 4
+                        },
+                        {
+                            " _comment": "Common Emergency Diseases-Toxicological-Mushroom Poisoning Female",
+                            "categoryOptionCombo": "ye1QuAMRG5Z",
+                            "dataElement": "WNjiV82hleX",
+                            "row": 4,
+                            "column": 3
+                        },
+                        {
+                            " _comment": "Common Emergency Diseases-Toxicological-Mushroom Poisoning Male",
+                            "categoryOptionCombo": "PflKpozpO7b",
+                            "dataElement": "WNjiV82hleX",
+                            "row": 4,
+                            "column": 4
+                        },
+                        {
+                            " _comment": "Common Emergency Diseases-Toxicological-Wild Honey Poisoning Female",
+                            "categoryOptionCombo": "ye1QuAMRG5Z",
+                            "dataElement": "kd7YxRcbq1b",
+                            "row": 5,
+                            "column": 3
+                        },
+                        {
+                            " _comment": "Common Emergency Diseases-Toxicological-Wild Honey Poisoning Male",
+                            "categoryOptionCombo": "PflKpozpO7b",
+                            "dataElement": "kd7YxRcbq1b",
+                            "row": 5,
+                            "column": 4
+                        },
+                        {
+                            " _comment": "Common Emergency Diseases-Toxicological-Dhatura Poisoning Female",
+                            "categoryOptionCombo": "ye1QuAMRG5Z",
+                            "dataElement": "jp4yW6DCXKA",
+                            "row": 6,
+                            "column": 3
+                        },
+                        {
+                            " _comment": "Common Emergency Diseases-Toxicological-Dhatura Poisoning Male",
+                            "categoryOptionCombo": "PflKpozpO7b",
+                            "dataElement": "jp4yW6DCXKA",
+                            "row": 6,
+                            "column": 4
+                        },
+                        {
+                            " _comment": "Common Emergency Diseases-Toxicological-Paracetamol Poisoning Female",
+                            "categoryOptionCombo": "ye1QuAMRG5Z",
+                            "dataElement": "Ic0esMWSmnj",
+                            "row": 7,
+                            "column": 3
+                        },
+                        {
+                            " _comment": "Common Emergency Diseases-Toxicological-Paracetamol Poisoning Male",
+                            "categoryOptionCombo": "PflKpozpO7b",
+                            "dataElement": "Ic0esMWSmnj",
+                            "row": 7,
+                            "column": 4
+                        },
+                        {
+                            " _comment": "Common Emergency Diseases-Toxicological-Antidotes Female",
+                            "categoryOptionCombo": "ye1QuAMRG5Z",
+                            "dataElement": "KPYoTSr7Yt5",
+                            "row": 8,
+                            "column": 3
+                        },
+                        {
+                            " _comment": "Common Emergency Diseases-Toxicological-Antidotes Male",
+                            "categoryOptionCombo": "PflKpozpO7b",
+                            "dataElement": "KPYoTSr7Yt5",
+                            "row": 8,
+                            "column": 4
+                        }
+                    ]
+                },
+                "N-Bite": {
+                    "dataValues": [
+                        {
+                            " _comment": "Common Emergency Diseases-Bites-Snake Bite Female",
+                            "categoryOptionCombo": "ye1QuAMRG5Z",
+                            "dataElement": "pB5LKSelTht",
+                            "row": 1,
+                            "column": 3
+                        },
+                        {
+                            " _comment": "Common Emergency Diseases-Bites-Snake Bite Male",
+                            "categoryOptionCombo": "PflKpozpO7b",
+                            "dataElement": "pB5LKSelTht",
+                            "row": 1,
+                            "column": 4
+                        },
+                        {
+                            " _comment": "Common Emergency Diseases-Bites-Animal Bite Female",
+                            "categoryOptionCombo": "ye1QuAMRG5Z",
+                            "dataElement": "WyIZXig6ZW8",
+                            "row": 2,
+                            "column": 3
+                        },
+                        {
+                            " _comment": "Common Emergency Diseases-Bites-Animal Bite Male",
+                            "categoryOptionCombo": "PflKpozpO7b",
+                            "dataElement": "WyIZXig6ZW8",
+                            "row": 2,
+                            "column": 4
+                        },
+                        {
+                            " _comment": "Common Emergency Diseases-Bites-Rabies Female",
+                            "categoryOptionCombo": "ye1QuAMRG5Z",
+                            "dataElement": "R2QzgRXuhmZ",
+                            "row": 3,
+                            "column": 3
+                        },
+                        {
+                            " _comment": "Common Emergency Diseases-Bites-Rabies Male",
+                            "categoryOptionCombo": "PflKpozpO7b",
+                            "dataElement": "R2QzgRXuhmZ",
+                            "row": 3,
+                            "column": 4
+                        },
+                        {
+                            " _comment": "Common Emergency Diseases-Bites-Insect Bite Female",
+                            "categoryOptionCombo": "ye1QuAMRG5Z",
+                            "dataElement": "u2F0JZnfyg9",
+                            "row": 4,
+                            "column": 3
+                        },
+                        {
+                            " _comment": "Common Emergency Diseases-Bites-Insect Bite Male",
+                            "categoryOptionCombo": "PflKpozpO7b",
+                            "dataElement": "u2F0JZnfyg9",
+                            "row": 4,
+                            "column": 4
+                        }
+                    ]
+                },
+                "O-Paediatric_Emergencies.sql": {
+                    "dataValues": [
+                        {
+                            " _comment": "Common Emergency Diseases-Paediatric-Diarrhoea Female",
+                            "categoryOptionCombo": "ye1QuAMRG5Z",
+                            "dataElement": "FjZ4SAzhH3j",
+                            "row": 1,
+                            "column": 3
+                        },
+                        {
+                            " _comment": "Common Emergency Diseases-Paediatric-Diarrhoea Male",
+                            "categoryOptionCombo": "PflKpozpO7b",
+                            "dataElement": "FjZ4SAzhH3j",
+                            "row": 1,
+                            "column": 4
+                        },
+                        {
+                            " _comment": "Common Emergency Diseases-Paediatric-Acute Respiratory Tract infection Female",
+                            "categoryOptionCombo": "ye1QuAMRG5Z",
+                            "dataElement": "GvayS7w3TpL",
+                            "row": 2,
+                            "column": 3
+                        },
+                        {
+                            " _comment": "Common Emergency Diseases-Paediatric-Acute Respiratory Tract infection Male",
+                            "categoryOptionCombo": "PflKpozpO7b",
+                            "dataElement": "GvayS7w3TpL",
+                            "row": 2,
+                            "column": 4
+                        },
+                        {
+                            " _comment": "Common Emergency Diseases-Paediatric-Acute epiglottitis Female",
+                            "categoryOptionCombo": "ye1QuAMRG5Z",
+                            "dataElement": "u4qLyDnsElq",
+                            "row": 3,
+                            "column": 3
+                        },
+                        {
+                            " _comment": "Common Emergency Diseases-Paediatric-Acute epiglottitis Male",
+                            "categoryOptionCombo": "PflKpozpO7b",
+                            "dataElement": "u4qLyDnsElq",
+                            "row": 3,
+                            "column": 4
+                        },
+                        {
+                            " _comment": "Common Emergency Diseases-Paediatric-Laryngitis&laryngotracheobrochitis Female",
+                            "categoryOptionCombo": "ye1QuAMRG5Z",
+                            "dataElement": "N6RcJD3LtVq",
+                            "row": 4,
+                            "column": 3
+                        },
+                        {
+                            " _comment": "Common Emergency Diseases-Paediatric-Laryngitis&laryngotracheobrochitis Male",
+                            "categoryOptionCombo": "PflKpozpO7b",
+                            "dataElement": "N6RcJD3LtVq",
+                            "row": 4,
+                            "column": 4
+                        },
+                        {
+                            " _comment": "Common Emergency Diseases-Paediatric-Pneumonia Female",
+                            "categoryOptionCombo": "ye1QuAMRG5Z",
+                            "dataElement": "Ysq2YVFqY8O",
+                            "row": 5,
+                            "column": 3
+                        },
+                        {
+                            " _comment": "Common Emergency Diseases-Paediatric-Pneumonia Male",
+                            "categoryOptionCombo": "PflKpozpO7b",
+                            "dataElement": "Ysq2YVFqY8O",
+                            "row": 5,
+                            "column": 4
+                        },
+                        {
+                            " _comment": "Common Emergency Diseases-Paediatric-Febrile Convulsions Female",
+                            "categoryOptionCombo": "ye1QuAMRG5Z",
+                            "dataElement": "LV3BrlQXzRP",
+                            "row": 6,
+                            "column": 3
+                        },
+                        {
+                            " _comment": "Common Emergency Diseases-Paediatric-Febrile Convulsions Male",
+                            "categoryOptionCombo": "PflKpozpO7b",
+                            "dataElement": "LV3BrlQXzRP",
+                            "row": 6,
+                            "column": 4
+                        }
+                    ]
+                }
+        }
+    }

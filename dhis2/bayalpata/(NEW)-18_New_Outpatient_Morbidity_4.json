@@ -1,0 +1,806 @@
+{
+    "orgUnit": "mPO6LgjseUd",
+    "reports": {
+    "18-O_Malignancy":{
+        "dataValues":[
+            {
+                " _comment": "Outpatient Morbidity-Malignancy-Breast Cancer Female",
+                "categoryOptionCombo": "ye1QuAMRG5Z",
+                "dataElement": "foBSqZVlQqZ",
+                "row": 1,
+                "column": 3
+            },
+            {
+                " _comment": "Outpatient Morbidity-Malignancy-Breast Cancer Male",
+                "categoryOptionCombo": "PflKpozpO7b",
+                "dataElement": "foBSqZVlQqZ",
+                "row": 1,
+                "column": 4
+            },
+            {
+                " _comment": "Outpatient Morbidity-Malignancy-Cervical/Uteri cancer Female",
+                "categoryOptionCombo": "ye1QuAMRG5Z",
+                "dataElement": "KaHd1xBHBfO",
+                "row": 2,
+                "column": 3
+            },
+            {
+                " _comment": "Outpatient Morbidity-Malignancy-Cervical/Uteri cancer Male",
+                "categoryOptionCombo": "PflKpozpO7b",
+                "dataElement": "KaHd1xBHBfO",
+                "row": 2,
+                "column": 4
+            },
+            {
+                " _comment": "Outpatient Morbidity-Malignancy-Lung/Bronchial Cancer Female",
+                "categoryOptionCombo": "ye1QuAMRG5Z",
+                "dataElement": "FvUsjP01G6w",
+                "row": 3,
+                "column": 3
+            },
+            {
+                " _comment": "Outpatient Morbidity-Malignancy-Lung/Bronchial Cancer Male",
+                "categoryOptionCombo": "PflKpozpO7b",
+                "dataElement": "FvUsjP01G6w",
+                "row": 3,
+                "column": 4
+            },
+            {
+                " _comment": "Outpatient Morbidity-Malignancy-Oesophagus Cancer Female",
+                "categoryOptionCombo": "ye1QuAMRG5Z",
+                "dataElement": "wzTTSKR3JgH",
+                "row": 4,
+                "column": 3
+            },
+            {
+                " _comment": "Outpatient Morbidity-Malignancy-Oesophagus Cancer Male",
+                "categoryOptionCombo": "PflKpozpO7b",
+                "dataElement": "wzTTSKR3JgH",
+                "row": 4,
+                "column": 4
+            },
+            {
+                " _comment": "Outpatient Morbidity-Malignancy-Stomach Cancer Female",
+                "categoryOptionCombo": "ye1QuAMRG5Z",
+                "dataElement": "CHDJ7eiK26X",
+                "row": 5,
+                "column": 3
+            },
+            {
+                " _comment": "Outpatient Morbidity-Malignancy-Stomach Cancer Male",
+                "categoryOptionCombo": "PflKpozpO7b",
+                "dataElement": "CHDJ7eiK26X",
+                "row": 5,
+                "column": 4
+            },
+            {
+                " _comment": "Outpatient Morbidity-Malignancy-Thyroid Cancer Female",
+                "categoryOptionCombo": "ye1QuAMRG5Z",
+                "dataElement": "qA53nDCEOgt",
+                "row": 6,
+                "column": 3
+            },
+            {
+                " _comment": "Outpatient Morbidity-Malignancy-Thyroid Cancer Male",
+                "categoryOptionCombo": "PflKpozpO7b",
+                "dataElement": "qA53nDCEOgt",
+                "row": 6,
+                "column": 4
+            },
+            {
+                " _comment": "Outpatient Morbidity-Malignancy-Liver Cancer Female",
+                "categoryOptionCombo": "ye1QuAMRG5Z",
+                "dataElement": "Bj8m5N2pTT4",
+                "row": 7,
+                "column": 3
+            },
+            {
+                " _comment": "Outpatient Morbidity-Malignancy-Liver Cancer Male",
+                "categoryOptionCombo": "PflKpozpO7b",
+                "dataElement": "Bj8m5N2pTT4",
+                "row": 7,
+                "column": 4
+            },
+            {
+                " _comment": "Outpatient Morbidity-Malignancy-Pancreatic Cancer Female",
+                "categoryOptionCombo": "ye1QuAMRG5Z",
+                "dataElement": "Ls6DBELhucD",
+                "row": 8,
+                "column": 3
+            },
+            {
+                " _comment": "Outpatient Morbidity-Malignancy-Pancreatic Cancer Male",
+                "categoryOptionCombo": "PflKpozpO7b",
+                "dataElement": "Ls6DBELhucD",
+                "row": 8,
+                "column": 4
+            },
+            {
+                " _comment": "Outpatient Morbidity-Malignancy-Bone/ Bone Marrow Cancer Female",
+                "categoryOptionCombo": "ye1QuAMRG5Z",
+                "dataElement": "RVhyQYMBoTs",
+                "row": 9,
+                "column": 3
+            },
+            {
+                " _comment": "Outpatient Morbidity-Malignancy-Bone/ Bone Marrow Cancer Male",
+                "categoryOptionCombo": "PflKpozpO7b",
+                "dataElement": "RVhyQYMBoTs",
+                "row": 9,
+                "column": 4
+            },
+            {
+                " _comment": "Outpatient Morbidity-Malignancy-Gall bladder Cancer Female",
+                "categoryOptionCombo": "ye1QuAMRG5Z",
+                "dataElement": "cWN72D91wWx",
+                "row": 10,
+                "column": 3
+            },
+            {
+                " _comment": "Outpatient Morbidity-Malignancy-Gall bladder Cancer Male",
+                "categoryOptionCombo": "PflKpozpO7b",
+                "dataElement": "cWN72D91wWx",
+                "row": 10,
+                "column": 4
+            },
+            {
+                " _comment": "Outpatient Morbidity-Malignancy-Colorectal (colon with rectum) Cancer Female",
+                "categoryOptionCombo": "ye1QuAMRG5Z",
+                "dataElement": "PYQPAx2s3On",
+                "row": 11,
+                "column": 3
+            },
+            {
+                " _comment": "Outpatient Morbidity-Malignancy-Colorectal (colon with rectum) Cancer Male",
+                "categoryOptionCombo": "PflKpozpO7b",
+                "dataElement": "PYQPAx2s3On",
+                "row": 11,
+                "column": 4
+            },
+            {
+                " _comment": "Outpatient Morbidity-Malignancy-Oral Cancer Female",
+                "categoryOptionCombo": "ye1QuAMRG5Z",
+                "dataElement": "KkV2jvCCISU",
+                "row": 12,
+                "column": 3
+            },
+            {
+                " _comment": "Outpatient Morbidity-Malignancy-Oral Cancer Male",
+                "categoryOptionCombo": "PflKpozpO7b",
+                "dataElement": "KkV2jvCCISU",
+                "row": 12,
+                "column": 4
+            },
+            {
+                " _comment": "Outpatient Morbidity-Malignancy-Lymphoma Cancer Female",
+                "categoryOptionCombo": "ye1QuAMRG5Z",
+                "dataElement": "KVZxc94qbg0",
+                "row": 13,
+                "column": 3
+            },
+            {
+                " _comment": "Outpatient Morbidity-Malignancy-Lymphoma Cancer Male",
+                "categoryOptionCombo": "PflKpozpO7b",
+                "dataElement": "KVZxc94qbg0",
+                "row": 13,
+                "column": 4
+            },
+            {
+                " _comment": "Outpatient Morbidity-Malignancy-Ovary Cancer Female",
+                "categoryOptionCombo": "ye1QuAMRG5Z",
+                "dataElement": "rorMnL90qUo",
+                "row": 14,
+                "column": 3
+            },
+            {
+                " _comment": "Outpatient Morbidity-Malignancy-Ovary Cancer Male",
+                "categoryOptionCombo": "PflKpozpO7b",
+                "dataElement": "rorMnL90qUo",
+                "row": 14,
+                "column": 4
+            },
+            {
+                " _comment": "Outpatient Morbidity-Malignancy-Urinary bladder Cancer Female",
+                "categoryOptionCombo": "ye1QuAMRG5Z",
+                "dataElement": "XeLKZHIMpSb",
+                "row": 15,
+                "column": 3
+            },
+            {
+                " _comment": "Outpatient Morbidity-Malignancy-Urinary bladder Cancer Male",
+                "categoryOptionCombo": "PflKpozpO7b",
+                "dataElement": "XeLKZHIMpSb",
+                "row": 15,
+                "column": 4
+            },
+            {
+                " _comment": "Outpatient Morbidity-Malignancy-Nasopharyngeal Cancer Female",
+                "categoryOptionCombo": "ye1QuAMRG5Z",
+                "dataElement": "g8lF7Um9jQA",
+                "row": 16,
+                "column": 3
+            },
+            {
+                " _comment": "Outpatient Morbidity-Malignancy-Nasopharyngeal Cancer Male",
+                "categoryOptionCombo": "PflKpozpO7b",
+                "dataElement": "g8lF7Um9jQA",
+                "row": 16,
+                "column": 4
+            },
+            {
+                " _comment": "OPD-Morbidity-Malignancy-Head & Neck Cancer Female",
+                "categoryOptionCombo": "ye1QuAMRG5Z",
+                "dataElement": "CFfXxPrIx8E",
+                "row": 17,
+                "column": 3
+            },
+            {
+                " _comment": "OPD-Morbidity-Malignancy-Head & Neck Cancer Male",
+                "categoryOptionCombo": "PflKpozpO7b",
+                "dataElement": "CFfXxPrIx8E",
+                "row": 17,
+                "column": 4
+            },
+            {
+                " _comment": "OPD-Morbidity-Malignancy-Other Cancer Female",
+                "categoryOptionCombo": "ye1QuAMRG5Z",
+                "dataElement": "sO9oFKB9IAJ",
+                "row": 18,
+                "column": 3
+            },
+            {
+                " _comment": "OPD-Morbidity-Malignancy-Other Cancer Male",
+                "categoryOptionCombo": "PflKpozpO7b",
+                "dataElement": "sO9oFKB9IAJ",
+                "row": 18,
+                "column": 4
+            },
+            {
+                " _comment": "Outpatient Morbidity-Malignancy-Other Hematological Malignant Female",
+                "categoryOptionCombo": "ye1QuAMRG5Z",
+                "dataElement": "Tcq1b4uRLTl",
+                "row": 19,
+                "column": 3
+            },
+            {
+                " _comment": "Outpatient Morbidity-Malignancy-Other Hematological Malignant Male",
+                "categoryOptionCombo": "PflKpozpO7b",
+                "dataElement": "Tcq1b4uRLTl",
+                "row": 19,
+                "column": 4
+            }
+        ]
+    },
+    "18-P_Cardiovascular_&_Respiratory_Related_Problems":{
+        "dataValues":[
+            {
+                " _comment": "OPD-Morbidity-Cardiovascular & Respiratory Related Problems-Hypertension Female",
+                "categoryOptionCombo": "ye1QuAMRG5Z",
+                "dataElement": "qrqs5BcXz4K",
+                "row": 1,
+                "column": 3
+            },
+            {
+                " _comment": "OPD-Morbidity-Cardiovascular & Respiratory Related Problems-Hypertension Male",
+                "categoryOptionCombo": "PflKpozpO7b",
+                "dataElement": "qrqs5BcXz4K",
+                "row": 1,
+                "column": 4
+            },
+            {
+                " _comment": "OPD-Morbidity-Cardiovascular & Respiratory Related Problems-Congestive Heart Failure Female",
+                "categoryOptionCombo": "ye1QuAMRG5Z",
+                "dataElement": "JNDXvvL6e73",
+                "row": 2,
+                "column": 3
+            },
+            {
+                " _comment": "OPD-Morbidity-Cardiovascular & Respiratory Related Problems-Congestive Heart Failure Male",
+                "categoryOptionCombo": "PflKpozpO7b",
+                "dataElement": "JNDXvvL6e73",
+                "row": 2,
+                "column": 4
+            },
+            {
+                " _comment": "OPD-Morbidity-Cardiovascular & Respiratory Related Problems-Cardiac Failure Female",
+                "categoryOptionCombo": "ye1QuAMRG5Z",
+                "dataElement": "CAgq78eCGoT",
+                "row": 3,
+                "column": 3
+            },
+            {
+                " _comment": "OPD-Morbidity-Cardiovascular & Respiratory Related Problems-Cardiac Failure Male",
+                "categoryOptionCombo": "PflKpozpO7b",
+                "dataElement": "CAgq78eCGoT",
+                "row": 3,
+                "column": 4
+            },
+            {
+                " _comment": "OPD-Morbidity-Cardiovascular & Respiratory Related Problems-COPD Female",
+                "categoryOptionCombo": "ye1QuAMRG5Z",
+                "dataElement": "nGRapIBn04F",
+                "row": 4,
+                "column": 3
+            },
+            {
+                " _comment": "OPD-Morbidity-Cardiovascular & Respiratory Related Problems-COPD Male",
+                "categoryOptionCombo": "PflKpozpO7b",
+                "dataElement": "nGRapIBn04F",
+                "row": 4,
+                "column": 4
+            },
+            {
+                " _comment": "OPD-Morbidity-Cardiovascular & Respiratory Related Problems-Acute Rheumatic Fever Female",
+                "categoryOptionCombo": "ye1QuAMRG5Z",
+                "dataElement": "bWTc0CtkExj",
+                "row": 5,
+                "column": 3
+            },
+            {
+                " _comment": "OPD-Morbidity-Cardiovascular & Respiratory Related Problems-Acute Rheumatic Fever Male",
+                "categoryOptionCombo": "PflKpozpO7b",
+                "dataElement": "bWTc0CtkExj",
+                "row": 5,
+                "column": 4
+            },
+            {
+                " _comment": "OPD-Morbidity-Cardiovascular & Respiratory Related Problems-Rheumatic Heart Disease Female",
+                "categoryOptionCombo": "ye1QuAMRG5Z",
+                "dataElement": "wYzKSWInjSq",
+                "row": 6,
+                "column": 3
+            },
+            {
+                " _comment": "OPD-Morbidity-Cardiovascular & Respiratory Related Problems-Rheumatic Heart Disease Male",
+                "categoryOptionCombo": "PflKpozpO7b",
+                "dataElement": "wYzKSWInjSq",
+                "row": 6,
+                "column": 4
+            },
+            {
+                " _comment": "OPD-Morbidity-Cardiovascular & Respiratory Related Problems-Ischemic Heart Disease Female",
+                "categoryOptionCombo": "ye1QuAMRG5Z",
+                "dataElement": "S4wji3QBoDj",
+                "row": 7,
+                "column": 3
+            },
+            {
+                " _comment": "OPD-Morbidity-Cardiovascular & Respiratory Related Problems-Ischemic Heart Disease Male",
+                "categoryOptionCombo": "PflKpozpO7b",
+                "dataElement": "S4wji3QBoDj",
+                "row": 7,
+                "column": 4
+            },
+            {
+                " _comment": "OPD-Morbidity-Cardiovascular & Respiratory Related Problems-Other Cardiovascular Problems Female",
+                "categoryOptionCombo": "ye1QuAMRG5Z",
+                "dataElement": "qtjVLLOPJMq",
+                "row": 8,
+                "column": 3
+            },
+            {
+                " _comment": "OPD-Morbidity-Cardiovascular & Respiratory Related Problems-Other Cardiovascular Problems Male",
+                "categoryOptionCombo": "PflKpozpO7b",
+                "dataElement": "qtjVLLOPJMq",
+                "row": 8,
+                "column": 4
+            },
+            {
+                " _comment": "OPD-Morbidity-Cardiovascular & Respiratory Related Problems-Bronchial Asthma Female",
+                "categoryOptionCombo": "ye1QuAMRG5Z",
+                "dataElement": "aeNEz2w7vUt",
+                "row": 9,
+                "column": 3
+            },
+            {
+                " _comment": "OPD-Morbidity-Cardiovascular & Respiratory Related Problems-Bronchial Asthma Male",
+                "categoryOptionCombo": "PflKpozpO7b",
+                "dataElement": "aeNEz2w7vUt",
+                "row": 9,
+                "column": 4
+            }
+        ]
+    },
+    "18-Q_Other_Diseases_Injuries":{
+        "dataValues":[
+            {
+                " _comment": "OPD-Morbidity-Other Diseases & Injuries-Acute Renal Failure Female",
+                "categoryOptionCombo": "ye1QuAMRG5Z",
+                "dataElement": "CDE0GWEcSai",
+                "row": 1,
+                "column": 3
+            },
+            {
+                " _comment": "OPD-Morbidity-Other Diseases & Injuries-Acute Renal Failure Male",
+                "categoryOptionCombo": "PflKpozpO7b",
+                "dataElement": "CDE0GWEcSai",
+                "row": 1,
+                "column": 4
+            },
+            {
+                " _comment": "OPD-Morbidity-Other Diseases & Injuries-Chronic Renal Failure Female",
+                "categoryOptionCombo": "ye1QuAMRG5Z",
+                "dataElement": "r3sO6KWErru",
+                "row": 2,
+                "column": 3
+            },
+            {
+                " _comment": "OPD-Morbidity-Other Diseases & Injuries-Chronic Renal Failure Male",
+                "categoryOptionCombo": "PflKpozpO7b",
+                "dataElement": "r3sO6KWErru",
+                "row": 2,
+                "column": 4
+            },
+            {
+                " _comment": "OPD-Morbidity-Other Diseases & Injuries-Nephritis Female",
+                "categoryOptionCombo": "ye1QuAMRG5Z",
+                "dataElement": "LgjEP3jIXsd",
+                "row": 3,
+                "column": 3
+            },
+            {
+                " _comment": "OPD-Morbidity-Other Diseases & Injuries-Nephritis Male",
+                "categoryOptionCombo": "PflKpozpO7b",
+                "dataElement": "LgjEP3jIXsd",
+                "row": 3,
+                "column": 4
+            },
+            {
+                " _comment": "OPD-Morbidity-Other Diseases & Injuries-Nephrotic Syndrome Female",
+                "categoryOptionCombo": "ye1QuAMRG5Z",
+                "dataElement": "F9nektGalvQ",
+                "row": 4,
+                "column": 3
+            },
+            {
+                " _comment": "OPD-Morbidity-Other Diseases & Injuries-Nephrotic Syndrome Male",
+                "categoryOptionCombo": "PflKpozpO7b",
+                "dataElement": "F9nektGalvQ",
+                "row": 4,
+                "column": 4
+            },
+            {
+                " _comment": "OPD-Morbidity-Other Diseases & Injuries-Drowning Female",
+                "categoryOptionCombo": "ye1QuAMRG5Z",
+                "dataElement": "EH7DUl0MrEX",
+                "row": 5,
+                "column": 3
+            },
+            {
+                " _comment": "OPD-Morbidity-Other Diseases & Injuries-Drowning Male",
+                "categoryOptionCombo": "PflKpozpO7b",
+                "dataElement": "EH7DUl0MrEX",
+                "row": 5,
+                "column": 4
+            },
+            {
+                " _comment": "OPD-Morbidity-Other Diseases & Injuries-PUO Female",
+                "categoryOptionCombo": "ye1QuAMRG5Z",
+                "dataElement": "uuMnXAm0kdm",
+                "row": 6,
+                "column": 3
+            },
+            {
+                " _comment": "OPD-Morbidity-Other Diseases & Injuries-PUO Male",
+                "categoryOptionCombo": "PflKpozpO7b",
+                "dataElement": "uuMnXAm0kdm",
+                "row": 6,
+                "column": 4
+            },
+            {
+                " _comment": "OPD-Morbidity-Other Diseases & Injuries-Gastritis (APD) Female",
+                "categoryOptionCombo": "ye1QuAMRG5Z",
+                "dataElement": "PeTGehwYB0s",
+                "row": 7,
+                "column": 3
+            },
+            {
+                " _comment": "OPD-Morbidity-Other Diseases & Injuries-Gastritis (APD) Male",
+                "categoryOptionCombo": "PflKpozpO7b",
+                "dataElement": "PeTGehwYB0s",
+                "row": 7,
+                "column": 4
+            },
+            {
+                " _comment": "OPD-Morbidity-Other Diseases & Injuries-Insect/Wasp Bite Female",
+                "categoryOptionCombo": "ye1QuAMRG5Z",
+                "dataElement": "AfuEmTogPN2",
+                "row": 8,
+                "column": 3
+            },
+            {
+                " _comment": "OPD-Morbidity-Other Diseases & Injuries-Insect/Wasp Bite Male",
+                "categoryOptionCombo": "PflKpozpO7b",
+                "dataElement": "AfuEmTogPN2",
+                "row": 8,
+                "column": 4
+            },
+            {
+                " _comment": "OPD-Morbidity-Other Diseases & Injuries-Cirrhosis Liver Female",
+                "categoryOptionCombo": "ye1QuAMRG5Z",
+                "dataElement": "QXFsxDNzIa3",
+                "row": 10,
+                "column": 3
+            },
+            {
+                " _comment": "OPD-Morbidity-Other Diseases & Injuries-Cirrhosis Liver Male",
+                "categoryOptionCombo": "PflKpozpO7b",
+                "dataElement": "QXFsxDNzIa3",
+                "row": 10,
+                "column": 4
+            },
+            {
+                " _comment": "OPD-Morbidity-Other Diseases & Injuries-Burns & Scalds Female",
+                "categoryOptionCombo": "ye1QuAMRG5Z",
+                "dataElement": "LFBNWB6AEAS",
+                "row": 11,
+                "column": 3
+            },
+            {
+                " _comment": "OPD-Morbidity-Other Diseases & Injuries-Burns & Scalds Male",
+                "categoryOptionCombo": "PflKpozpO7b",
+                "dataElement": "LFBNWB6AEAS",
+                "row": 11,
+                "column": 4
+            },
+            {
+                " _comment": "OPD-Morbidity-Other Diseases & Injuries-Toxic Effect Female",
+                "categoryOptionCombo": "ye1QuAMRG5Z",
+                "dataElement": "OqXKbJoicMI",
+                "row": 12,
+                "column": 3
+            },
+            {
+                " _comment": "OPD-Morbidity-Other Diseases & Injuries-Toxic Effect Male",
+                "categoryOptionCombo": "PflKpozpO7b",
+                "dataElement": "OqXKbJoicMI",
+                "row": 12,
+                "column": 4
+            },
+            {
+                " _comment": "OPD-Morbidity-Other Diseases & Injuries-Dog Bite Female",
+                "categoryOptionCombo": "ye1QuAMRG5Z",
+                "dataElement": "hlijidCZeXC",
+                "row": 13,
+                "column": 3
+            },
+            {
+                " _comment": "OPD-Morbidity-Other Diseases & Injuries-Dog Bite Male",
+                "categoryOptionCombo": "PflKpozpO7b",
+                "dataElement": "hlijidCZeXC",
+                "row": 13,
+                "column": 4
+            },
+            {
+                " _comment": "OPD-Morbidity-Other Diseases & Injuries-Other Rabies Susceptible Animal Bite Female",
+                "categoryOptionCombo": "ye1QuAMRG5Z",
+                "dataElement": "OD3nX0vpeRk",
+                "row": 14,
+                "column": 3
+            },
+            {
+                " _comment": "OPD-Morbidity-Other Diseases & Injuries-Other Rabies Susceptible Animal Bite Male",
+                "categoryOptionCombo": "PflKpozpO7b",
+                "dataElement": "OD3nX0vpeRk",
+                "row": 14,
+                "column": 4
+            },
+            {
+                " _comment": "OPD-Morbidity-Other Diseases & Injuries-Snake Bite-Poisonous Female",
+                "categoryOptionCombo": "ye1QuAMRG5Z",
+                "dataElement": "ZK7kbGKuFhH",
+                "row": 15,
+                "column": 3
+            },
+            {
+                " _comment": "OPD-Morbidity-Other Diseases & Injuries-Snake Bite-Poisonous Male",
+                "categoryOptionCombo": "PflKpozpO7b",
+                "dataElement": "ZK7kbGKuFhH",
+                "row": 15,
+                "column": 4
+            },
+            {
+                " _comment": "OPD-Morbidity-Other Diseases & Injuries-Snake Bite-Non Poisonous Female",
+                "categoryOptionCombo": "ye1QuAMRG5Z",
+                "dataElement": "SdnBnsRltSh",
+                "row": 16,
+                "column": 3
+            },
+            {
+                " _comment": "OPD-Morbidity-Other Diseases & Injuries-Snake Bite-Non Poisonous Male",
+                "categoryOptionCombo": "PflKpozpO7b",
+                "dataElement": "SdnBnsRltSh",
+                "row": 16,
+                "column": 4
+            }
+            
+        ]
+    },
+    "18-R_Orthopaedic_Problems":{
+        "dataValues":[
+            {
+                " _comment": "OPD-Morbidity-Orthopaedic Problems-Rheumatoid Arthritis Female",
+                "categoryOptionCombo": "ye1QuAMRG5Z",
+                "dataElement": "NNlu3dspuAb",
+                "row": 1,
+                "column": 3
+            },
+            {
+                " _comment": "OPD-Morbidity-Orthopaedic Problems-Rheumatoid Arthritis Male",
+                "categoryOptionCombo": "PflKpozpO7b",
+                "dataElement": "NNlu3dspuAb",
+                "row": 1,
+                "column": 4
+            },
+            {
+                " _comment": "OPD Morbidity-Orthopaedic-Arthritis Female",
+                "categoryOptionCombo": "ye1QuAMRG5Z",
+                "dataElement": "f14blP528FG",
+                "row": 2,
+                "column": 3
+            },
+            {
+                " _comment": "OPD Morbidity-Orthopaedic-Arthritis Male",
+                "categoryOptionCombo": "PflKpozpO7b",
+                "dataElement": "f14blP528FG",
+                "row": 2,
+                "column": 4
+            },
+            {
+                " _comment": "OPD-Morbidity-Orthopaedic Problems-Arthritis-Osteo Arthrosis Female",
+                "categoryOptionCombo": "ye1QuAMRG5Z",
+                "dataElement": "zcqze4wzYJf",
+                "row": 3,
+                "column": 3
+            },
+            {
+                " _comment": "OPD-Morbidity-Orthopaedic Problems-Arthritis-Osteo Arthrosis Male",
+                "categoryOptionCombo": "PflKpozpO7b",
+                "dataElement": "zcqze4wzYJf",
+                "row": 3,
+                "column": 4
+            },
+            {
+                " _comment": "OPD-Morbidity-Orthopaedic Problems-Backache(Musculoskeletal Pain) Female",
+                "categoryOptionCombo": "ye1QuAMRG5Z",
+                "dataElement": "PABYQLhP6kF",
+                "row": 4,
+                "column": 3
+            },
+            {
+                " _comment": "OPD-Morbidity-Orthopaedic Problems-Backache(Musculoskeletal Pain) Male",
+                "categoryOptionCombo": "PflKpozpO7b",
+                "dataElement": "PABYQLhP6kF",
+                "row": 4,
+                "column": 4
+            },
+            {
+                " _comment": "OPD Morbidity-Orthopaedic-Lower Back Pain Female",
+                "categoryOptionCombo": "ye1QuAMRG5Z",
+                "dataElement": "ndIndgtn4VV",
+                "row": 5,
+                "column": 3
+            },
+            {
+                " _comment": "OPD Morbidity-Orthopaedic-Lower Back Pain Male",
+                "categoryOptionCombo": "PflKpozpO7b",
+                "dataElement": "ndIndgtn4VV",
+                "row": 5,
+                "column": 4
+            },
+            {
+                " _comment": "OPD Morbidity-Orthopaedic-Chronic Lower Back Pain Female",
+                "categoryOptionCombo": "ye1QuAMRG5Z",
+                "dataElement": "P4Q4WLZE5Uw",
+                "row": 6,
+                "column": 3
+            },
+            {
+                " _comment": "OPD Morbidity-Orthopaedic-Chronic Lower Back Pain Male",
+                "categoryOptionCombo": "PflKpozpO7b",
+                "dataElement": "P4Q4WLZE5Uw",
+                "row": 6,
+                "column": 4
+            },
+            {
+                " _comment": "OPD Morbidity-Orthopaedic-Fractures Female",
+                "categoryOptionCombo": "ye1QuAMRG5Z",
+                "dataElement": "F1uuffMUyFH",
+                "row": 7,
+                "column": 3
+            },
+            {
+                " _comment": "OPD Morbidity-Orthopaedic-Fractures Male",
+                "categoryOptionCombo": "PflKpozpO7b",
+                "dataElement": "F1uuffMUyFH",
+                "row": 7,
+                "column": 4
+            },
+			{
+                " _comment": "OPD Morbidity-Orthopaedic-Tendonitis Female",
+                "categoryOptionCombo": "ye1QuAMRG5Z",
+                "dataElement": "kRcki0HPrzK",
+                "row": 8,
+                "column": 3
+            },
+            {
+                " _comment": "OPD Morbidity-Orthopaedic-Tendonitis Male",
+                "categoryOptionCombo": "PflKpozpO7b",
+                "dataElement": "kRcki0HPrzK",
+                "row": 8,
+                "column": 4
+            },
+            {
+                " _comment": "OPD Morbidity-Orthopaedic-Ligamentous Sprain Female",
+                "categoryOptionCombo": "ye1QuAMRG5Z",
+                "dataElement": "wwNnQiK9BL5",
+                "row": 9,
+                "column": 3
+            },
+            {
+                " _comment": "OPD Morbidity-Orthopaedic-Ligamentous Sprain Male",
+                "categoryOptionCombo": "PflKpozpO7b",
+                "dataElement": "wwNnQiK9BL5",
+                "row": 9,
+                "column": 4
+            },
+            {
+                " _comment": "OPD Morbidity-Orthopaedic-Neck Pain Female",
+                "categoryOptionCombo": "ye1QuAMRG5Z",
+                "dataElement": "bLwEmxj2RiC",
+                "row": 10,
+                "column": 3
+            },
+            {
+                " _comment": "OPD Morbidity-Orthopaedic-Neck Pain Male",
+                "categoryOptionCombo": "PflKpozpO7b",
+                "dataElement": "bLwEmxj2RiC",
+                "row": 10,
+                "column": 4
+            },
+            {
+                " _comment": "OPD Morbidity-Orthopaedic-Joint Stiffness Female",
+                "categoryOptionCombo": "ye1QuAMRG5Z",
+                "dataElement": "cunBHt0wvUr",
+                "row": 11,
+                "column": 3
+            },
+            {
+                " _comment": "OPD Morbidity-Orthopaedic-Joint Stiffness Male",
+                "categoryOptionCombo": "PflKpozpO7b",
+                "dataElement": "cunBHt0wvUr",
+                "row": 11,
+                "column": 4
+            },
+            {
+                " _comment": "OPD Morbidity-Orthopaedic-Spondylosis Female",
+                "categoryOptionCombo": "ye1QuAMRG5Z",
+                "dataElement": "tNijzaDiPQq",
+                "row": 12,
+                "column": 3
+            },
+            {
+                " _comment": "OPD Morbidity-Orthopaedic-Spondylosis Male",
+                "categoryOptionCombo": "PflKpozpO7b",
+                "dataElement": "tNijzaDiPQq",
+                "row": 12,
+                "column": 4
+            },
+            {
+                " _comment": "OPD Morbidity-Orthopaedic-Spondylolisthesis Female",
+                "categoryOptionCombo": "ye1QuAMRG5Z",
+                "dataElement": "GG6K9THTEw4",
+                "row": 13,
+                "column": 3
+            },
+            {
+                " _comment": "OPD Morbidity-Orthopaedic-Spondylolisthesis Male",
+                "categoryOptionCombo": "PflKpozpO7b",
+                "dataElement": "GG6K9THTEw4",
+                "row": 13,
+                "column": 4
+            }
+        ]
+    }
+ }
+}

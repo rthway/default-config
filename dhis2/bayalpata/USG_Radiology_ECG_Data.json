@@ -1,0 +1,30 @@
+{
+  "orgUnit": "mPO6LgjseUd",
+  "reports": {
+    "USG_Radiology_ECG_Data": {
+      "dataValues": [
+            {
+               " _comment":"Total Electrocardiogram (ECG) Tests Done default",
+               "categoryOptionCombo":"kdsirVNKdhm",
+               "dataElement":"HXPj1cIqZIC",
+               "row":1,
+               "column":2
+            },
+            {
+               " _comment":"Total X-Rays Done default",
+               "categoryOptionCombo":"kdsirVNKdhm",
+               "dataElement":"RXIa0TIoAP4",
+               "row":2,
+               "column":2
+            },
+            {
+               " _comment":"Total Ultrasonogram (USG) Tests Done default",
+               "categoryOptionCombo":"kdsirVNKdhm",
+               "dataElement":"Hy2ikWKzAUh",
+               "row":3,
+               "column":2
+            }
+         ]
+      }
+   }
+}

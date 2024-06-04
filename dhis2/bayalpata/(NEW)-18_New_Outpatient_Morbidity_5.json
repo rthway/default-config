@@ -1,0 +1,710 @@
+{
+	"orgUnit": "mPO6LgjseUd",
+"reports":{
+    "18-S_Surgical_Problems":{
+        "dataValues":[
+            {
+                " _comment": "OPD-Morbidity-Surgical Problems-Acid Peptic Disorders Female",
+                "categoryOptionCombo": "ye1QuAMRG5Z",
+                "dataElement": "YCXYzdxUeum",
+                "row": 1,
+                "column": 3
+            },
+            {
+                " _comment": "OPD-Morbidity-Surgical Problems-Acid Peptic Disorders Male",
+                "categoryOptionCombo": "PflKpozpO7b",
+                "dataElement": "YCXYzdxUeum",
+                "row": 1,
+                "column": 4
+            },
+            {
+                " _comment": "OPD-Morbidity-Surgical Problems-Anal Fissure Female",
+                "categoryOptionCombo": "ye1QuAMRG5Z",
+                "dataElement": "jdsiabr6R8B",
+                "row": 2,
+                "column": 3
+            },
+            {
+                " _comment": "OPD-Morbidity-Surgical Problems-Anal Fissure Male",
+                "categoryOptionCombo": "PflKpozpO7b",
+                "dataElement": "jdsiabr6R8B",
+                "row": 2,
+                "column": 4
+            },
+            {
+                " _comment": "OPD-Morbidity-Surgical Problems-Anal Fistula Female",
+                "categoryOptionCombo": "ye1QuAMRG5Z",
+                "dataElement": "INV87zUyfus",
+                "row": 3,
+                "column": 3
+            },
+            {
+                " _comment": "OPD-Morbidity-Surgical Problems-Anal Fistula Male",
+                "categoryOptionCombo": "PflKpozpO7b",
+                "dataElement": "INV87zUyfus",
+                "row": 3,
+                "column": 4
+            },
+            {
+                " _comment": "OPD-Morbidity-Surgical Problems-Fistula of Intestine Female",
+                "categoryOptionCombo": "ye1QuAMRG5Z",
+                "dataElement": "OJRkVtEJZJA",
+                "row": 4,
+                "column": 3
+            },
+            {
+                " _comment": "OPD-Morbidity-Surgical Problems-Fistula of Intestine Male",
+                "categoryOptionCombo": "PflKpozpO7b",
+                "dataElement": "OJRkVtEJZJA",
+                "row": 4,
+                "column": 4
+            },
+            {
+                " _comment": "OPD-Morbidity-Surgical Problems-Renal Stones Female",
+                "categoryOptionCombo": "ye1QuAMRG5Z",
+                "dataElement": "sOXBvbQfg3k",
+                "row": 5,
+                "column": 3
+            },
+            {
+                " _comment": "OPD-Morbidity-Surgical Problems-Renal Stones Male",
+                "categoryOptionCombo": "PflKpozpO7b",
+                "dataElement": "sOXBvbQfg3k",
+                "row": 5,
+                "column": 4
+            },
+            {
+                " _comment": "OPD-Morbidity-Surgical Problems-Breast Lumps(Adenoma) Female",
+                "categoryOptionCombo": "ye1QuAMRG5Z",
+                "dataElement": "iiJsrZe0bNk",
+                "row": 6,
+                "column": 3
+            },
+            {
+                " _comment": "OPD-Morbidity-Surgical Problems-Breast Lumps(Adenoma) Male",
+                "categoryOptionCombo": "PflKpozpO7b",
+                "dataElement": "iiJsrZe0bNk",
+                "row": 6,
+                "column": 4
+            },
+            {
+                " _comment": "OPD-Morbidity-Surgical Problems-Mastitis(Ignored Breast/Breast Abcess) Female",
+                "categoryOptionCombo": "ye1QuAMRG5Z",
+                "dataElement": "fi0vtzIViQE",
+                "row": 7,
+                "column": 3
+            },
+            {
+                " _comment": "OPD-Morbidity-Surgical Problems-Mastitis(Ignored Breast/Breast Abcess) Male",
+                "categoryOptionCombo": "PflKpozpO7b",
+                "dataElement": "fi0vtzIViQE",
+                "row": 7,
+                "column": 4
+            },
+            {
+                " _comment": "OPD-Morbidity-Surgical Problems-Mastalgia Breast Female",
+                "categoryOptionCombo": "ye1QuAMRG5Z",
+                "dataElement": "asmWrHpopvG",
+                "row": 8,
+                "column": 3
+            },
+            {
+                " _comment": "OPD-Morbidity-Surgical Problems-Mastalgia Breast Male",
+                "categoryOptionCombo": "PflKpozpO7b",
+                "dataElement": "asmWrHpopvG",
+                "row": 8,
+                "column": 4
+            },
+            {
+                " _comment": "OPD-Morbidity-Surgical Problems-Lumps(Lipoma) Female",
+                "categoryOptionCombo": "ye1QuAMRG5Z",
+                "dataElement": "ba2N6S0Nqdb",
+                "row": 9,
+                "column": 3
+            },
+            {
+                " _comment": "OPD-Morbidity-Surgical Problems-Lumps(Lipoma) Male",
+                "categoryOptionCombo": "PflKpozpO7b",
+                "dataElement": "ba2N6S0Nqdb",
+                "row": 9,
+                "column": 4
+            },
+            {
+                " _comment": "OPD-Morbidity-Surgical Problems-Sebaceous Cyst Female",
+                "categoryOptionCombo": "ye1QuAMRG5Z",
+                "dataElement": "ctGjkbCRtZn",
+                "row": 10,
+                "column": 3
+            },
+            {
+                " _comment": "OPD-Morbidity-Surgical Problems-Sebaceous Cyst Male",
+                "categoryOptionCombo": "PflKpozpO7b",
+                "dataElement": "ctGjkbCRtZn",
+                "row": 10,
+                "column": 4
+            },
+            {
+                " _comment": "OPD-Morbidity-Surgical Problems-Pilonidal Sinus Female",
+                "categoryOptionCombo": "ye1QuAMRG5Z",
+                "dataElement": "ZhUGMCZfdWb",
+                "row": 11,
+                "column": 3
+            },
+            {
+                " _comment": "OPD-Morbidity-Surgical Problems-Pilonidal Sinus Male",
+                "categoryOptionCombo": "PflKpozpO7b",
+                "dataElement": "ZhUGMCZfdWb",
+                "row": 11,
+                "column": 4
+            },
+            {
+                " _comment": "OPD-Morbidity-Surgical Problems-Appendicitis Female",
+                "categoryOptionCombo": "ye1QuAMRG5Z",
+                "dataElement": "NM4bzwrsgs0",
+                "row": 12,
+                "column": 3
+            },
+            {
+                " _comment": "OPD-Morbidity-Surgical Problems-Appendicitis Male",
+                "categoryOptionCombo": "PflKpozpO7b",
+                "dataElement": "NM4bzwrsgs0",
+                "row": 12,
+                "column": 4
+            },
+            {
+                " _comment": "OPD-Morbidity-Surgical Problems-Cholecystitis Female",
+                "categoryOptionCombo": "ye1QuAMRG5Z",
+                "dataElement": "QxEgmIN7OQM",
+                "row": 13,
+                "column": 3
+            },
+            {
+                " _comment": "OPD-Morbidity-Surgical Problems-Cholecystitis Male",
+                "categoryOptionCombo": "PflKpozpO7b",
+                "dataElement": "QxEgmIN7OQM",
+                "row": 13,
+                "column": 4
+            },
+            {
+                " _comment": "OPD-Morbidity-Surgical Problems-Cholelithiasis Female",
+                "categoryOptionCombo": "ye1QuAMRG5Z",
+                "dataElement": "A6x6SS5Dgds",
+                "row": 14,
+                "column": 3
+            },
+            {
+                " _comment": "OPD-Morbidity-Surgical Problems-Cholelithiasis Male",
+                "categoryOptionCombo": "PflKpozpO7b",
+                "dataElement": "kRcki0HPrzK",
+                "row": 14,
+                "column": 4
+            },
+            {
+                " _comment": "OPD-Morbidity-Surgical Problems-Hernia Female",
+                "categoryOptionCombo": "ye1QuAMRG5Z",
+                "dataElement": "Wtjpt7S9YQG",
+                "row": 15,
+                "column": 3
+            },
+            {
+                " _comment": "OPD-Morbidity-Surgical Problems-Hernia Male",
+                "categoryOptionCombo": "PflKpozpO7b",
+                "dataElement": "Wtjpt7S9YQG",
+                "row": 15,
+                "column": 4
+            },
+            {
+                " _comment": "OPD-Morbidity-Surgical Problems-Hydrocele Female",
+                "categoryOptionCombo": "ye1QuAMRG5Z",
+                "dataElement": "y0eNCU4p6nf",
+                "row": 16,
+                "column": 3
+            },
+            {
+                " _comment": "OPD-Morbidity-Surgical Problems-Hydrocele Male",
+                "categoryOptionCombo": "PflKpozpO7b",
+                "dataElement": "y0eNCU4p6nf",
+                "row": 16,
+                "column": 4
+            },
+            {
+                " _comment": "OPD-Morbidity-Surgical Problems-Phimosis/Para Phimosis Female",
+                "categoryOptionCombo": "ye1QuAMRG5Z",
+                "dataElement": "DEtuUddCtlE",
+                "row": 17,
+                "column": 3
+            },
+            {
+                " _comment": "OPD-Morbidity-Surgical Problems-Phimosis/Para Phimosis Male",
+                "categoryOptionCombo": "PflKpozpO7b",
+                "dataElement": "DEtuUddCtlE",
+                "row": 17,
+                "column": 4
+            },
+            {
+                " _comment": "OPD-Morbidity-Surgical Problems-Haemorrhoids/Piles Female",
+                "categoryOptionCombo": "ye1QuAMRG5Z",
+                "dataElement": "WEEGs3oAxHz",
+                "row": 18,
+                "column": 3
+            },
+            {
+                " _comment": "OPD-Morbidity-Surgical Problems-Haemorrhoids/Piles Male",
+                "categoryOptionCombo": "PflKpozpO7b",
+                "dataElement": "WEEGs3oAxHz",
+                "row": 18,
+                "column": 4
+            },
+            {
+                " _comment": "OPD-Morbidity-Surgical Problems-Epididymitis/Orchitis Female",
+                "categoryOptionCombo": "ye1QuAMRG5Z",
+                "dataElement": "so2s568hmR9",
+                "row": 19,
+                "column": 3
+            },
+            {
+                " _comment": "OPD-Morbidity-Surgical Problems-Epididymitis/Orchitis Male",
+                "categoryOptionCombo": "PflKpozpO7b",
+                "dataElement": "so2s568hmR9",
+                "row": 19,
+                "column": 4
+            },
+            {
+                " _comment": "OPD-Morbidity-Surgical Problems-Prostatism-(BEP/BPH) Female",
+                "categoryOptionCombo": "ye1QuAMRG5Z",
+                "dataElement": "Y5tTcY8S6tG",
+                "row": 20,
+                "column": 3
+            },
+            {
+                " _comment": "OPD-Morbidity-Surgical Problems-Prostatism-(BEP/BPH) Male",
+                "categoryOptionCombo": "PflKpozpO7b",
+                "dataElement": "Y5tTcY8S6tG",
+                "row": 20,
+                "column": 4
+            }
+        ]
+    },
+    "18-T_Reasons_for_Contact_with_Health_Services":{
+        "dataValues":[
+		    {
+                " _comment": "OPD Morbidity-Reason for Contact-Screening for Neoplasms Female",
+                "categoryOptionCombo": "ye1QuAMRG5Z",
+                "dataElement": "Mz2N95C2GBd",
+                "row": 1,
+                "column": 3
+            },
+            {
+                " _comment": "OPD Morbidity-Reason for Contact-Screening for Neoplasms Male",
+                "categoryOptionCombo": "PflKpozpO7b",
+                "dataElement": "Mz2N95C2GBd",
+                "row": 1,
+                "column": 4
+            },
+            {
+                " _comment": "OPD Morbidity-Reason for Contact-General Examination Female",
+                "categoryOptionCombo": "ye1QuAMRG5Z",
+                "dataElement": "hhF8unbGDvH",
+                "row": 2,
+                "column": 3
+            },
+            {
+                " _comment": "OPD Morbidity-Reason for Contact-General Examination Male",
+                "categoryOptionCombo": "PflKpozpO7b",
+                "dataElement": "kRcki0HPrzK",
+                "row": 2,
+                "column": 4
+            },
+            {
+                " _comment": "OPD Morbidity-Reason for Contact-Routine health checkup Female",
+                "categoryOptionCombo": "ye1QuAMRG5Z",
+                "dataElement": "kLzqhClFOUj",
+                "row": 3,
+                "column": 3
+            },
+            {
+                " _comment": "OPD Morbidity-Reason for Contact-Routine health checkup Male",
+                "categoryOptionCombo": "PflKpozpO7b",
+                "dataElement": "kLzqhClFOUj",
+                "row": 3,
+                "column": 4
+            },
+            {
+                " _comment": "OPD Morbidity-Reason for Contact-Screeing for infectious disease Female",
+                "categoryOptionCombo": "ye1QuAMRG5Z",
+                "dataElement": "ZS5BWPoUc3V",
+                "row": 4,
+                "column": 3
+            },
+            {
+                " _comment": "OPD Morbidity-Reason for Contact-Screeing for infectious disease Male",
+                "categoryOptionCombo": "PflKpozpO7b",
+                "dataElement": "ZS5BWPoUc3V",
+                "row": 4,
+                "column": 4
+            },
+            {
+                " _comment": "OPD Morbidity-Reason for Contact-Counseling Female",
+                "categoryOptionCombo": "ye1QuAMRG5Z",
+                "dataElement": "SFvtAwxOQzC",
+                "row": 5,
+                "column": 3
+            },
+            {
+                " _comment": "OPD Morbidity-Reason for Contact-Counseling Male",
+                "categoryOptionCombo": "PflKpozpO7b",
+                "dataElement": "SFvtAwxOQzC",
+                "row": 5,
+                "column": 4
+            },
+            {
+                " _comment": "OPD Morbidity-Reason for Contact-Associated with Reproduction Female",
+                "categoryOptionCombo": "ye1QuAMRG5Z",
+                "dataElement": "HxrrbsAqyeK",
+                "row": 6,
+                "column": 3
+            },
+            {
+                " _comment": "OPD Morbidity-Reason for Contact-Associated with Reproduction Male",
+                "categoryOptionCombo": "PflKpozpO7b",
+                "dataElement": "HxrrbsAqyeK",
+                "row": 6,
+                "column": 4
+            },
+            {
+                " _comment": "OPD Morbidity-Reason for Contact-Procreative management Female",
+                "categoryOptionCombo": "ye1QuAMRG5Z",
+                "dataElement": "ItL1KGvUFOC",
+                "row": 7,
+                "column": 3
+            },
+            {
+                " _comment": "OPD Morbidity-Reason for Contact-Procreative management Male",
+                "categoryOptionCombo": "PflKpozpO7b",
+                "dataElement": "ItL1KGvUFOC",
+                "row": 7,
+                "column": 4
+            },
+            {
+                " _comment": "OPD Morbidity-Reason for Contact-Pregnancy Examination Female",
+                "categoryOptionCombo": "ye1QuAMRG5Z",
+                "dataElement": "EKSttMk1htc",
+                "row": 8,
+                "column": 3
+            },
+		    {
+                " _comment": "OPD Morbidity-Reason for Contact-Antenatal Screening Female",
+                "categoryOptionCombo": "ye1QuAMRG5Z",
+                "dataElement": "YUtWzAMSciZ",
+                "row": 9,
+                "column": 3
+            },
+            {
+                " _comment": "OPD Morbidity-Reason for Contact-Postpartum care or Examination Female",
+                "categoryOptionCombo": "ye1QuAMRG5Z",
+                "dataElement": "lnn6QJPjLq5",
+                "row": 10,
+                "column": 3
+            },
+            {
+                " _comment": "OPD Morbidity-Reason for Contact-Problems related to unwanted pregnancy Female",
+                "categoryOptionCombo": "ye1QuAMRG5Z",
+                "dataElement": "iHtPpjk8dlR",
+                "row": 11,
+                "column": 3
+            },
+            {
+                " _comment": "OPD Morbidity-Reason for Contact-Menopausal Counselling Female",
+                "categoryOptionCombo": "ye1QuAMRG5Z",
+                "dataElement": "RpYKV3jN4eI",
+                "row": 12,
+                "column": 3
+            },
+            {
+                " _comment": "OPD Morbidity-Reason for Contact-Blood donor Female",
+                "categoryOptionCombo": "ye1QuAMRG5Z",
+                "dataElement": "gJSwP9t4uVU",
+                "row": 13,
+                "column": 3
+            },
+            {
+                " _comment": "OPD Morbidity-Reason for Contact-Blood donor Male",
+                "categoryOptionCombo": "PflKpozpO7b",
+                "dataElement": "gJSwP9t4uVU",
+                "row": 13,
+                "column": 4
+            },
+            {
+                " _comment": "OPD Morbidity-Reason for Contact-Follow up care invoving plastic surgery Female",
+                "categoryOptionCombo": "ye1QuAMRG5Z",
+                "dataElement": "sKqfojmFULI",
+                "row": 14,
+                "column": 3
+            },
+            {
+                " _comment": "OPD Morbidity-Reason for Contact-Follow up care invoving plastic surgery Male",
+                "categoryOptionCombo": "PflKpozpO7b",
+                "dataElement": "sKqfojmFULI",
+                "row": 14,
+                "column": 4
+            },
+            {
+                " _comment": "OPD Morbidity-Reason for Contact-Care invoving Dialysis Female",
+                "categoryOptionCombo": "ye1QuAMRG5Z",
+                "dataElement": "a4UjEBXaRAI",
+                "row": 15,
+                "column": 3
+            },
+            {
+                " _comment": "OPD Morbidity-Reason for Contact-Care invoving Dialysis Male",
+                "categoryOptionCombo": "PflKpozpO7b",
+                "dataElement": "a4UjEBXaRAI",
+                "row": 15,
+                "column": 4
+            },
+            {
+                " _comment": "OPD Morbidity-Reason for Contact-Care involvivg Rehabilitation procedures Female",
+                "categoryOptionCombo": "ye1QuAMRG5Z",
+                "dataElement": "iNbL2YKjJt2",
+                "row": 16,
+                "column": 3
+            },
+            {
+                " _comment": "OPD Morbidity-Reason for Contact-Care involvivg Rehabilitation procedures Male",
+                "categoryOptionCombo": "PflKpozpO7b",
+                "dataElement": "iNbL2YKjJt2",
+                "row": 16,
+                "column": 4
+            },
+            {
+                " _comment": "OPD Morbidity-Reason for Contact-Radiotherapy session Female",
+                "categoryOptionCombo": "ye1QuAMRG5Z",
+                "dataElement": "pBfeHDJGUkc",
+                "row": 17,
+                "column": 3
+            },
+            {
+                " _comment": "OPD Morbidity-Reason for Contact-Radiotherapy session Male",
+                "categoryOptionCombo": "PflKpozpO7b",
+                "dataElement": "pBfeHDJGUkc",
+                "row": 17,
+                "column": 4
+            },
+            {
+                " _comment": "OPD Morbidity-Reason for Contact-Chemotherapy session Female",
+                "categoryOptionCombo": "ye1QuAMRG5Z",
+                "dataElement": "rh0J7pvRf7l",
+                "row": 18,
+                "column": 3
+            },
+            {
+                " _comment": "OPD Morbidity-Reason for Contact-Chemotherapy session Male",
+                "categoryOptionCombo": "PflKpozpO7b",
+                "dataElement": "rh0J7pvRf7l",
+                "row": 18,
+                "column": 4
+            },
+            {
+                " _comment": "OPD Morbidity-Reason for Contact-Palliative care Female",
+                "categoryOptionCombo": "ye1QuAMRG5Z",
+                "dataElement": "mrQlLZbA6wB",
+                "row": 19,
+                "column": 3
+            },
+            {
+                " _comment": "OPD Morbidity-Reason for Contact-Palliative care Male",
+                "categoryOptionCombo": "PflKpozpO7b",
+                "dataElement": "mrQlLZbA6wB",
+                "row": 19,
+                "column": 4
+            },
+            {
+                " _comment": "OPD Morbidity-Reason for Contact-Acquired absence of body structure Female",
+                "categoryOptionCombo": "ye1QuAMRG5Z",
+                "dataElement": "kII60figzgN",
+                "row": 20,
+                "column": 3
+            },
+            {
+                " _comment": "OPD Morbidity-Reason for Contact-Acquired absence of body structure Male",
+                "categoryOptionCombo": "PflKpozpO7b",
+                "dataElement": "kII60figzgN",
+                "row": 20,
+                "column": 4
+            }
+        ]
+    },
+    "18-U_Common_Symptoms":{
+        "dataValues":[
+            {
+                " _comment": "OPD Morbidity-Common Symptoms-General Consideration on Pain Female",
+                "categoryOptionCombo": "ye1QuAMRG5Z",
+                "dataElement": "mFJzub2Qp4X",
+                "row": 1,
+                "column": 3
+            },
+            {
+                " _comment": "OPD Morbidity-Common Symptoms-General Consideration on Pain Male",
+                "categoryOptionCombo": "PflKpozpO7b",
+                "dataElement": "mFJzub2Qp4X",
+                "row": 1,
+                "column": 4
+            },
+            {
+                " _comment": "Common Emergency Diseases-Cardiac-Chest pain Female",
+                "categoryOptionCombo": "ye1QuAMRG5Z",
+                "dataElement": "TNqiG1Sdg2l",
+                "row": 2,
+                "column": 3
+            },
+            {
+                " _comment": "Common Emergency Diseases-Cardiac-Chest pain Male",
+                "categoryOptionCombo": "PflKpozpO7b",
+                "dataElement": "TNqiG1Sdg2l",
+                "row": 2,
+                "column": 4
+            },
+            {
+                " _comment": "OPD Morbidity-Common Symptoms-Breathlessness/ Shortness of Breath Female",
+                "categoryOptionCombo": "ye1QuAMRG5Z",
+                "dataElement": "QrRDFVy1Mjy",
+                "row": 3,
+                "column": 3
+            },
+            {
+                " _comment": "OPD Morbidity-Common Symptoms-Breathlessness/ Shortness of Breath Male",
+                "categoryOptionCombo": "PflKpozpO7b",
+                "dataElement": "QrRDFVy1Mjy",
+                "row": 3,
+                "column": 4
+            },
+            {
+                " _comment": "OPD Morbidity-Common Symptoms-Cough Female",
+                "categoryOptionCombo": "ye1QuAMRG5Z",
+                "dataElement": "hpZ3dxdi8ec",
+                "row": 4,
+                "column": 3
+            },
+            {
+                " _comment": "OPD Morbidity-Common Symptoms-Cough Male",
+                "categoryOptionCombo": "PflKpozpO7b",
+                "dataElement": "hpZ3dxdi8ec",
+                "row": 4,
+                "column": 4
+            },
+            {
+                " _comment": "OPD Morbidity-Common Symptoms-Cough Female",
+                "categoryOptionCombo": "ye1QuAMRG5Z",
+                "dataElement": "hpZ3dxdi8ec",
+                "row": 5,
+                "column": 3
+            },
+            {
+                " _comment": "OPD Morbidity-Common Symptoms-Cough Male",
+                "categoryOptionCombo": "PflKpozpO7b",
+                "dataElement": "hpZ3dxdi8ec",
+                "row": 5,
+                "column": 4
+            },
+            {
+                " _comment": "OPD Morbidity-Common Symptoms-Abdominal Pain Female",
+                "categoryOptionCombo": "ye1QuAMRG5Z",
+                "dataElement": "gCBjGGyu3Ob",
+                "row": 6,
+                "column": 3
+            },
+            {
+                " _comment": "OPD Morbidity-Common Symptoms-Abdominal Pain Male",
+                "categoryOptionCombo": "PflKpozpO7b",
+                "dataElement": "gCBjGGyu3Ob",
+                "row": 6,
+                "column": 4
+            },
+            {
+                " _comment": "OPD-Morbidity-Other Diseases & Injuries-Headache Female",
+                "categoryOptionCombo": "ye1QuAMRG5Z",
+                "dataElement": "STQAKvx4hrd",
+                "row": 7,
+                "column": 3
+            },
+            {
+                " _comment": "OPD-Morbidity-Other Diseases & Injuries-Headache Male",
+                "categoryOptionCombo": "PflKpozpO7b",
+                "dataElement": "STQAKvx4hrd",
+                "row": 7,
+                "column": 4
+            },
+            {
+                " _comment": "OPD Morbidity-Common Symptoms-Fever Female",
+                "categoryOptionCombo": "ye1QuAMRG5Z",
+                "dataElement": "AhFweT7BqD9",
+                "row": 8,
+                "column": 3
+            },
+            {
+                " _comment": "OPD Morbidity-Common Symptoms-Fever Male",
+                "categoryOptionCombo": "PflKpozpO7b",
+                "dataElement": "AhFweT7BqD9",
+                "row": 8,
+                "column": 4
+            },
+            {
+                " _comment": "OPD Morbidity-Common Symptoms-Dizziness and Vertiligo Female",
+                "categoryOptionCombo": "ye1QuAMRG5Z",
+                "dataElement": "HIS1nrVKXig",
+                "row": 9,
+                "column": 3
+            },
+            {
+                " _comment": "OPD Morbidity-Common Symptoms-Dizziness and Vertiligo Male",
+                "categoryOptionCombo": "PflKpozpO7b",
+                "dataElement": "HIS1nrVKXig",
+                "row": 9,
+                "column": 4
+            },
+            {
+                " _comment": "OPD Morbidity-Common Symptoms-Syncope Female",
+                "categoryOptionCombo": "ye1QuAMRG5Z",
+                "dataElement": "B5cvXBhXIgG",
+                "row": 10,
+                "column": 3
+            },
+            {
+                " _comment": "OPD Morbidity-Common Symptoms-Syncope Male",
+                "categoryOptionCombo": "PflKpozpO7b",
+                "dataElement": "B5cvXBhXIgG",
+                "row": 10,
+                "column": 4
+            },
+            {
+                " _comment": "OPD Morbidity-Common Symptoms-Itching Female",
+                "categoryOptionCombo": "ye1QuAMRG5Z",
+                "dataElement": "N3MRYiUHzil",
+                "row": 11,
+                "column": 3
+            },
+            {
+                " _comment": "OPD Morbidity-Common Symptoms-Itching Male",
+                "categoryOptionCombo": "PflKpozpO7b",
+                "dataElement": "N3MRYiUHzil",
+                "row": 11,
+                "column": 4
+            },
+            {
+                " _comment": "OPD Morbidity-Common Symptoms-Fatigue and Weakness Female",
+                "categoryOptionCombo": "ye1QuAMRG5Z",
+                "dataElement": "bexWnaEedW6",
+                "row": 12,
+                "column": 3
+            },
+            {
+                " _comment": "OPD Morbidity-Common Symptoms-Fatigue and Weakness Male",
+                "categoryOptionCombo": "PflKpozpO7b",
+                "dataElement": "bexWnaEedW6",
+                "row": 12,
+                "column": 4
+            }
+        ]
+    }
+  }
+}
