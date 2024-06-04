@@ -1,3 +1,4 @@
+
 SELECT 
 	first_answers.category AS 'Category',
     first_answers.answer_name AS 'Diseases',
@@ -23,7 +24,7 @@ FROM
         AND answer_concept_short_name.voided
         IS FALSE
     WHERE
-         question_concept_name.name IN ('CBIMNCI 2 to 59-ARI classification' , 'Childhood Illness-Dehydration status', 'Childhood Illness-Diarrhoea present', 'CBIMNCI 2 to 59-Refered out')
+        question_concept_name.name IN ('CBIMNCI 2 to 59-ARI classification' , 'Childhood Illness-Dehydration status', 'Childhood Illness-Diarrhoea present','CBIMNCI 2 to 59-Refered out')
             AND cd.name = 'Coded'
     ORDER BY answer_name DESC) first_answers
         LEFT OUTER JOIN
@@ -50,4 +51,4 @@ FROM
        AND DATE(e.encounter_datetime) BETWEEN DATE('#startDate#') AND DATE('#endDate#')
             AND o1.value_coded IS NOT NULL) first_concept ON first_concept.answer = first_answers.answer
 GROUP BY first_answers.answer_name
-ORDER BY first_answers.category, first_answers.answer_name;
+ORDER BY field(first_answers.answer_name,'No pneumonia','Pneumonia','Severe pneumonia','Not applicable','Not present','No Dehydration','Severe Dehydration','Some Dehydration','Chronic diarrhea','Diarrhea','Dysentery','Childhood Illness,  Diarrhoea','ARI','Diarrhoea','Fever','Malnutrition','Others');

@@ -24,8 +24,8 @@ SUM(final.`Discharge-Defaulter SAM`) AS 'Discharge-Defaulter SAM',
 SUM(final.`Discharge-Defaulter MAM`) AS 'Discharge-Defaulter MAM' ,
 (CASE
 
-WHEN final.`Age Group` = '6-59 month' AND final.`Sex` = 'F' THEN im1.female_more_than_six
-WHEN final.`Age Group` = '6-59 month' AND final.`Sex` = 'M' THEN im1.male_more_than_six
+WHEN final.`Age Group` = '6-59 month' AND final.`Sex` = 'F' THEN im1.female_SAM
+WHEN final.`Age Group` = '6-59 month' AND final.`Sex` = 'M' THEN im1.male_SAM
 ELSE 0
 END) 
 +  SUM(final.`New Admission SAM`) + 
@@ -39,8 +39,8 @@ END)
   SUM(final.`Transfer Out SAM`)  AS 'Children at End of This Month SAM',
   (CASE
 
-WHEN final.`Age Group` = '6-59 month' AND final.`Sex` = 'F' THEN im1.female_more_than_six
-WHEN final.`Age Group` = '6-59 month' AND final.`Sex` = 'M' THEN im1.male_more_than_six
+WHEN final.`Age Group` = '6-59 month' AND final.`Sex` = 'F' THEN im1.female_MAM
+WHEN final.`Age Group` = '6-59 month' AND final.`Sex` = 'M' THEN im1.male_MAM
 ELSE 0
 END) 
 +   

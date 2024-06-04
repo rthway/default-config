@@ -1,5 +1,14 @@
-SELECT 
-    COUNT(o1.person_id) AS 'Total Patient (2-59) months'
+SELECT gender.gender AS gender,
+    COUNT(a.person_id) AS 'Total Patient (2-59) months'
+    from
+    (SELECT 'M' AS gender
+              UNION SELECT 'F' AS gender) gender
+              
+              
+ LEFT OUTER JOIN
+    (SELECT 
+			o1.person_id,
+			p1.gender
 FROM
     obs o1
         INNER JOIN
@@ -13,5 +22,7 @@ FROM
         INNER JOIN
     person p1 ON o1.person_id = p1.person_id
 WHERE
-    DATE(o1.obs_datetime) BETWEEN DATE('#startDate#') AND DATE('#endDate#')
+    DATE(o1.obs_datetime) BETWEEN DATE('#startDate#') AND DATE('#endDate#') ) a
+    on a.gender=gender.gender
+    group by gender;
 

@@ -4,7 +4,7 @@ SELECT
 FROM
     (SELECT 
         question_concept_name.concept_id AS question,
-            question_concept_name.name AS answer_name
+            IFNULL(question_concept_short_name.name, question_concept_name.name) AS answer_name
     FROM
         concept c
     INNER JOIN concept_datatype cd ON c.datatype_id = cd.concept_datatype_id
@@ -16,7 +16,7 @@ FROM
         AND question_concept_short_name.voided
         IS FALSE
     WHERE
-        question_concept_name.name IN ('CBIMNCI 2 to 59-Falciparum malaria', 'CBIMNCI 2 to 59-Non falciparum malaria', 'CBIMNCI 2 to 59-Measles','CBIMNCI 2 to 59-Complicated malaria' ,'Childhood Illness-Fever present','CBIMNCI 2 to 59-Anaemia', 'CBIMNCI 2 to 59-Other diagnosis')
+        question_concept_name.name IN ('CBIMNCI 2 to 59-Measles' , 'CBIMNCI 2 to 59-Falciparum malaria', 'CBIMNCI 2 to 59-Non falciparum malaria', 'CBIMNCI 2 to 59-Complicated malaria', 'Childhood Illness-Fever present', 'CBIMNCI 2 to 59-Anaemia', 'CBIMNCI 2 to 59-Other diagnosis')
     ORDER BY answer_name DESC) first_question
         LEFT OUTER JOIN
     (SELECT 
@@ -27,7 +27,7 @@ FROM
         obs o1
     INNER JOIN concept_name cn1 ON o1.concept_id = cn1.concept_id
         AND cn1.concept_name_type = 'FULLY_SPECIFIED'
-        AND cn1.name IN ('CBIMNCI 2 to 59-Falciparum malaria', 'CBIMNCI 2 to 59-Non falciparum malaria', 'CBIMNCI 2 to 59-Measles','CBIMNCI 2 to 59-Complicated malaria' ,'Childhood Illness-Fever present','CBIMNCI 2 to 59-Anaemia', 'CBIMNCI 2 to 59-Other diagnosis')
+        AND cn1.name IN ('Childhood Illness (2-59)-Ear Infection-Chronic Ear Infection' , '	CBIMNCI 2 to 59-Measles', 'CBIMNCI 2 to 59-Falciparum malaria', 'CBIMNCI 2 to 59-Complicated malaria', 'CBIMNCI 2 to 59-Non falciparum malaria', 'Childhood Illness-Fever present', 'CBIMNCI 2 to 59-Anaemia', 'CBIMNCI 2 to 59-Other diagnosis')
         AND o1.voided = 0
         AND cn1.voided = 0
     INNER JOIN encounter e ON o1.encounter_id = e.encounter_id
@@ -35,4 +35,4 @@ FROM
     WHERE
         DATE(e.encounter_datetime) BETWEEN DATE('#startDate#') AND DATE('#endDate#')) first_concept ON first_concept.question = first_question.question AND first_concept.Diag = "TRUE"
 GROUP BY first_question.answer_name
-Order By first_question.answer_name;
+ORDER BY field(first_question.answer_name,'Anaemia','Falciparum malaria','Fever present','Measles','Non falciparum malaria','Other diagnosis than above','Complicated malaria')

@@ -16,12 +16,12 @@ SELECT
 FROM
   (SELECT ov.person_id AS patient
    FROM nonVoidedQuestionObs ov
-   WHERE ov.question_full_name = 'ANC-Number of iron tablets given'
+   WHERE ov.question_full_name = 'ANC-Number of Iron Tablets given'
          AND date(ov.obs_datetime) BETWEEN '#startDate#' AND '#endDate#' AND ov.value_numeric > 0) AS this_month
   LEFT JOIN
   (SELECT ov1.person_id AS patient
    FROM nonVoidedQuestionObs ov1
-   WHERE ov1.question_full_name = 'ANC-Number of iron tablets given'
+   WHERE ov1.question_full_name = 'ANC-Number of Iron Tablets given'
          AND (DATEDIFF('#startDate#', date(ov1.obs_datetime)) / 30 BETWEEN 0 AND 9)
          AND date(ov1.obs_datetime) NOT BETWEEN '#startDate#' AND '#endDate#'
          AND ov1.value_numeric > 0) AS last_9_months
@@ -29,7 +29,7 @@ FROM
    INNER JOIN nonVoidedQuestionAnswerObs ancVisit ON ancVisit.person_id = this_month.patient
 WHERE last_9_months.patient IS NULL
       AND ancVisit.question_full_name = 'ANC-ANC visit'
-      AND ancVisit.answer_full_name = 'ANC-1st (any time)'
+      AND ancVisit.answer_full_name = 'ANC-1st any time'
       AND date(ancVisit.obs_datetime) BETWEEN '#startDate#' AND '#endDate#'
 UNION ALL
 
@@ -41,7 +41,7 @@ FROM
     ancVisit.person_id as patient
    FROM   nonVoidedQuestionAnswerObs ancVisit
    WHERE
-          ancVisit.question_full_name = 'ANC-Completed 4 anc visits'
+          ancVisit.question_full_name = 'ANC-Completed 4 ANC visits'
          AND ancVisit.answer_full_name = 'TRUE'
          AND date(ancVisit.obs_datetime) BETWEEN '#startDate#' AND '#endDate#'
   ) AS result
@@ -71,7 +71,7 @@ WHERE dewormTablet.question_full_name = 'ANC-Albendazole given'
    INNER JOIN nonVoidedQuestionAnswerObs ancVisit ON ancVisit.person_id = deworm.person_id
 WHERE last_9_months.patient IS NULL
       AND ancVisit.question_full_name = 'ANC-ANC visit'
-      AND ancVisit.answer_full_name = 'ANC-1st (any time)'
+      AND ancVisit.answer_full_name = 'ANC-1st any time'
       AND date(ancVisit.obs_datetime) BETWEEN '#startDate#' AND '#endDate#'
       
 UNION ALL
@@ -94,7 +94,7 @@ UNION ALL
 SELECT
   0,0,0,0,COUNT(DISTINCT (ov.person_id))
 FROM nonVoidedQuestionObs ov
-WHERE ov.question_full_name = 'PNC-Vitamin a capsules provided'
+WHERE ov.question_full_name = 'PNC-Vitamin A capsules provided'
       AND ov.value_numeric > 0
       AND (date(ov.obs_datetime) BETWEEN '#startDate#' AND '#endDate#')
 ) final;
