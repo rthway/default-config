@@ -23,7 +23,7 @@ FROM
         AND answer_concept_short_name.voided
         IS FALSE
     WHERE
-        question_concept_name.name IN ('ANC-TD Given','Vaccine-BCG','Vaccine-DPT','Vaccine-OPV','Vaccine-PCV','Vaccine-FIPV','Vaccine-Rota','Vaccine-Measles or rubella','Vaccine-JE','Typhoid-Conjugate Vaccine','Vaccine-Hepatitis B')
+        question_concept_name.name IN ('Vaccine-BCG','Vaccine-Rota','Vaccine-OPV','Vaccine-FIPV','Vaccine-PCV','Vaccine-Hepatitis B','Vaccine-Measles or rubella','Vaccine-JE','Typhoid-Conjugate Vaccine','ANC, TD Given')
             AND cd.name = 'Coded'
     ORDER BY answer_name DESC) first_answers
         LEFT OUTER JOIN
@@ -36,7 +36,7 @@ FROM
         obs o1
     INNER JOIN concept_name cn1 ON o1.concept_id = cn1.concept_id
         AND cn1.concept_name_type = 'FULLY_SPECIFIED'
-        AND cn1.name IN ('ANC-TD Given','Vaccine-BCG','Vaccine-DPT','Vaccine-OPV','Vaccine-PCV','Vaccine-FIPV','Vaccine-Rota','Vaccine-Measles or rubella','Vaccine-JE','Typhoid-Conjugate Vaccine','Vaccine-Hepatitis B')
+        AND cn1.name IN ('Vaccine-BCG','Vaccine-Rota','Vaccine-OPV','Vaccine-FIPV','Vaccine-PCV','Vaccine-Hepatitis B','Vaccine-Measles or rubella','Vaccine-JE','Typhoid-Conjugate Vaccine','ANC, TD Given')
         AND o1.voided = 0
         AND cn1.voided = 0
     INNER JOIN concept_name cn2 ON o1.value_coded = cn2.concept_id
@@ -50,5 +50,5 @@ FROM
         DATE(v.date_started) BETWEEN '#startDate#' AND '#endDate#'
             AND o1.value_coded IS NOT NULL) first_concept ON first_concept.categories=first_answers.category AND first_concept.answer = first_answers.answer
 GROUP BY first_answers.category,first_answers.answer_name
-ORDER BY FIELD(first_answers.category,'ANC-TD Given','Vaccine-BCG','Vaccine-DPT','Vaccine-FIPV','Vaccine-JE','Vaccine-Measles or rubella','Vaccine-OPV','Vaccine-PCV','Vaccine-Rota','Typhoid-Conjugate Vaccine','Vaccine-Hepatitis B' );
+ORDER BY FIELD(first_answers.category,'Vaccine-BCG','Vaccine-Rota','Vaccine-OPV','Vaccine-FIPV','Vaccine-PCV','Vaccine-Hepatitis B','Vaccine-Measles or rubella','Vaccine-JE','Typhoid-Conjugate Vaccine','ANC, TD Given' );
 

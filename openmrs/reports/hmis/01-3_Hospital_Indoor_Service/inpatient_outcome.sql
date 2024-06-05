@@ -35,5 +35,4 @@ from
               and gender.gender = result.gender
               and result.age_group = reporting_age_group.name
 GROUP BY question.concept_full_name, answer.concept_full_name, gender.gender, reporting_age_group.name
--- ORDER BY answer.concept_full_name,reporting_age_group.sort_order,gender.gender;
-ORDER BY answer.concept_full_name, FIELD(reporting_age_group.name, '≤ 7 Days','8 - 28 Days','29 Days ‐ 1 Year','01 ‐ 04 Years','05 ‐ 14 years','15 ‐ 19 Years','20 ‐ 29 Years','30 ‐ 39 Years','40 ‐ 49 Years','50 ‐ 59 Years','60 ‐ 69 Years','≥ 70 Years'), gender.gender ;
+ORDER BY FIELD(answer.concept_full_name,'Recovered','Not improved','Referred out','Absconded','Death<48 hours','Death>48 hours'), FIELD(reporting_age_group.name, '≤ 7 Days','8 - 28 Days','29 Days ‐ 1 Year','01 ‐ 04 Years','05 ‐ 14 years','15 ‐ 19 Years','20 ‐ 29 Years','30 ‐ 39 Years','40 ‐ 49 Years','50 ‐ 59 Years','60 ‐ 69 Years','≥ 70 Years'), gender.gender ;

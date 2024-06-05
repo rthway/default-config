@@ -1,6 +1,6 @@
 SELECT 
-    SUM(plaster.Female) AS Female_Count_Plaster,
-    SUM(plaster.Male) AS Male_Count_Plaster
+    IFNULL(SUM(plaster.Female),0) AS Female_Count_Plaster,
+    IFNULL(SUM(plaster.Male),0) AS Male_Count_Plaster
 FROM
     (SELECT 
         SUM(IF(first_concept.gender = 'F', 1, 0)) AS Female,

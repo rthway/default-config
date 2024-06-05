@@ -54,4 +54,4 @@ FROM
             BETWEEN  DATE('#startDate#') AND DATE('#endDate#') group by ip) a
     GROUP BY a.agegroup) simpler_form ON simpler_form.age_grp = age_years_grp.age_years
 GROUP BY age_years_grp.age_years
-ORDER BY age_years_grp.age_years;
+ORDER BY FIELD(age_years_grp.age_years,'< 20 years','20 - 34 years','> 34 years');

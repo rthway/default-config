@@ -104,6 +104,13 @@
           "config": {
             "sqlPath": "/var/www/bahmni_config/openmrs/reports/hmis/01-2_Hospital_Summary_Dataset/referred_out_er_new.sql"
           }
+        },
+        {
+          "name": "Hospital Services - Free Service Received by Impoverished Citizen",
+          "type": "MRSGeneric",
+          "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/reports/hmis/01-2_Hospital_Summary_Dataset/Free_Service_Received_by_Impoverished_Citizen.sql"
+          }
         }
       ]
     }
@@ -143,31 +150,10 @@
           }
         },
         {
-          "name": "FreeHealthServices Outpatient",
+          "name": "Medico-Legal Cases",
           "type": "MRSGeneric",
           "config": {
-            "sqlPath": "/var/www/bahmni_config/openmrs/reports/hmis/01-3_Hospital_Indoor_Service/FreeHealthServices_Outpatient.sql"
-          }
-        },
-        {
-          "name": "FreeHealthServices IPD",
-          "type": "MRSGeneric",
-          "config": {
-            "sqlPath": "/var/www/bahmni_config/openmrs/reports/hmis/01-3_Hospital_Indoor_Service/FreeHealthServices_IPD.sql"
-          }
-        },
-        {
-          "name": "FreeHealthServices ReferredOut",
-          "type": "MRSGeneric",
-          "config": {
-            "sqlPath": "/var/www/bahmni_config/openmrs/reports/hmis/01-3_Hospital_Indoor_Service/FreeHealthServices_referredout.sql"
-          }
-        },
-        {
-          "name": "FreeHealthServices ER",
-          "type": "MRSGeneric",
-          "config": {
-            "sqlPath": "/var/www/bahmni_config/openmrs/reports/hmis/01-3_Hospital_Indoor_Service/FreeHealthServices_ER.sql"
+            "sqlPath": "/var/www/bahmni_config/openmrs/reports/hmis/01-3_Hospital_Indoor_Service/Medico_Legal_Cases.sql"
           }
         },
         {
@@ -192,6 +178,20 @@
           }
         },
         {
+          "name": "Summary of Indoor Services Hospital Summary Plaster",
+          "type": "MRSGeneric",
+          "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/reports/hmis/01-3_Hospital_Indoor_Service/Hospital_Summary_Plaster.sql"
+          }
+        },
+        {
+          "name": "Summary of Indoor Services Death Early and Late Neonatal",
+          "type": "MRSGeneric",
+          "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/reports/hmis/01-3_Hospital_Indoor_Service/death_early_late_neonatal.sql"
+          }
+        },
+        {
           "name": "Summary of Indoor Services Death Maternal",
           "type": "MRSGeneric",
           "config": {
@@ -206,24 +206,39 @@
           }
         },
         {
-          "name": "Summary of Indoor Services Death Early and Late Neonatal",
-          "type": "MRSGeneric",
-          "config": {
-            "sqlPath": "/var/www/bahmni_config/openmrs/reports/hmis/01-3_Hospital_Indoor_Service/death_early_late_neonatal.sql"
-          }
-        },
-        {
           "name": "Summary of Indoor Services Brought Death and Postmortem",
           "type": "MRSGeneric",
           "config": {
             "sqlPath": "/var/www/bahmni_config/openmrs/reports/hmis/01-3_Hospital_Indoor_Service/brought_death_postmortem.sql"
           }
         },
+        
         {
-          "name": "Summary of Indoor Services Hospital Summary Plaster",
+          "name": "FreeHealthServices Outpatient",
           "type": "MRSGeneric",
           "config": {
-            "sqlPath": "/var/www/bahmni_config/openmrs/reports/hmis/01-3_Hospital_Indoor_Service/Hospital_Summary_Plaster.sql"
+            "sqlPath": "/var/www/bahmni_config/openmrs/reports/hmis/01-3_Hospital_Indoor_Service/FreeHealthServices_Outpatient.sql"
+          }
+        },
+        {
+          "name": "FreeHealthServices IPD",
+          "type": "MRSGeneric",
+          "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/reports/hmis/01-3_Hospital_Indoor_Service/FreeHealthServices_IPD.sql"
+          }
+        },
+        {
+          "name": "FreeHealthServices ER",
+          "type": "MRSGeneric",
+          "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/reports/hmis/01-3_Hospital_Indoor_Service/FreeHealthServices_ER.sql"
+          }
+        },
+        {
+          "name": "FreeHealthServices ReferredOut",
+          "type": "MRSGeneric",
+          "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/reports/hmis/01-3_Hospital_Indoor_Service/FreeHealthServices_referredout.sql"
           }
         }
       ]
@@ -258,12 +273,19 @@
           "config": {
             "sqlPath": "/var/www/bahmni_config/openmrs/reports/hmis/02-1_Immunization_Dataset/Immunized_children_count_new.sql"
           }
+        },
+        {
+          "name": "Vaccine start after 24 months",
+          "type": "MRSGeneric",
+          "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/reports/hmis/02-1_Immunization_Dataset/vaccine_start_after_24_months.sql"
+          }
         }
       ]
     }
   },
-  "02-2_Integrated_Management_Of_Neonatal_And_Childhood_Illnesses_below_2_months": {
-    "name": "02-2_Integrated_Management_Of_Neonatal_And_Childhood_Illnesses_below_2_months",
+  "02-2_IMNCI_below_2_months": {
+    "name": "02-2_IMNCI_below_2_months",
     "DHISProgram": true,
     "type": "concatenated",
     "config": {
@@ -320,8 +342,8 @@
       ]
     }
   },
-  "02-2_Integrated_Management_Of_Neonatal_And_Childhood_Illnesses_2to59_months": {
-    "name": "02-2_Integrated_Management_Of_Neonatal_And_Childhood_Illnesses_2to59_months",
+  "02-2_IMNCI_2to59_months": {
+    "name": "02-2_IMNCI_2to59_months",
     "DHISProgram": true,
     "type": "concatenated",
     "config": {
@@ -494,13 +516,7 @@
             "sqlPath": "/var/www/bahmni_config/openmrs/reports/hmis/07_Maternal_And_New-born_Health/Delivery_Outcome.sql"
           }
         },
-        {
-          "name": "Birth weight",
-          "type": "MRSGeneric",
-          "config": {
-            "sqlPath": "/var/www/bahmni_config/openmrs/reports/hmis/07_Maternal_And_New-born_Health/Birth_weight.sql"
-          }
-        },
+        
         {
           "name": "No of still births",
           "type": "MRSGeneric",
@@ -516,17 +532,17 @@
           }
         },
         {
-          "name": "Blood transfusion",
+          "name": "Aama Program to be given",
           "type": "MRSGeneric",
           "config": {
-            "sqlPath": "/var/www/bahmni_config/openmrs/reports/hmis/07_Maternal_And_New-born_Health/Blood_transfusion.sql"
+            "sqlPath": "/var/www/bahmni_config/openmrs/reports/hmis/07_Maternal_And_New-born_Health/Aama_Program_to_be_given.sql"
           }
         },
         {
-          "name": "PNC Visit",
+          "name": "Aama Program",
           "type": "MRSGeneric",
           "config": {
-            "sqlPath": "/var/www/bahmni_config/openmrs/reports/hmis/07_Maternal_And_New-born_Health/PNC_Visit.sql"
+            "sqlPath": "/var/www/bahmni_config/openmrs/reports/hmis/07_Maternal_And_New-born_Health/Aama_Program.sql"
           }
         },
         {
@@ -534,6 +550,27 @@
           "type": "MRSGeneric",
           "config": {
             "sqlPath": "/var/www/bahmni_config/openmrs/reports/hmis/07_Maternal_And_New-born_Health/Obstetric_Complications.sql"
+          }
+        },
+        {
+          "name": "Blood transfusion",
+          "type": "MRSGeneric",
+          "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/reports/hmis/07_Maternal_And_New-born_Health/Blood_transfusion.sql"
+          }
+        },
+        {
+          "name": "Birth weight",
+          "type": "MRSGeneric",
+          "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/reports/hmis/07_Maternal_And_New-born_Health/Birth_weight.sql"
+          }
+        },
+        {
+          "name": "PNC Visit",
+          "type": "MRSGeneric",
+          "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/reports/hmis/07_Maternal_And_New-born_Health/PNC_Visit.sql"
           }
         },
         {
@@ -562,20 +599,6 @@
           "type": "MRSGeneric",
           "config": {
             "sqlPath": "/var/www/bahmni_config/openmrs/reports/hmis/07_Maternal_And_New-born_Health/Safe_Abortion_Total.sql"
-          }
-        },
-        {
-          "name": "Aama Program to be given",
-          "type": "MRSGeneric",
-          "config": {
-            "sqlPath": "/var/www/bahmni_config/openmrs/reports/hmis/07_Maternal_And_New-born_Health/Aama_Program_to_be_given.sql"
-          }
-        },
-        {
-          "name": "Aama Program",
-          "type": "MRSGeneric",
-          "config": {
-            "sqlPath": "/var/www/bahmni_config/openmrs/reports/hmis/07_Maternal_And_New-born_Health/Aama_Program.sql"
           }
         }
       ]
@@ -1116,7 +1139,22 @@
       ]
     }
   },
-  
+  "17_Non_Communicable_Disease": {
+    "name": "17_Non_Communicable_Disease",
+    "DHISProgram": true,
+    "type": "concatenated",
+    "config": {
+      "reports": [
+        {
+          "name": "test",
+          "type": "MRSGeneric",
+          "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/reports/hmis/17_Non_Communicable_Disease/test.sql"
+          }
+        }
+      ]
+    }
+  },
   
   "18_New_Outpatient_Morbidity_1": {
     "name": "18_New_Outpatient_Morbidity_1",
@@ -1176,22 +1214,7 @@
       ]
     }
   },
-  "17_Non_Communicable_Disease": {
-    "name": "17_Non_Communicable_Disease",
-    "DHISProgram": true,
-    "type": "concatenated",
-    "config": {
-      "reports": [
-        {
-          "name": "test",
-          "type": "MRSGeneric",
-          "config": {
-            "sqlPath": "/var/www/bahmni_config/openmrs/reports/hmis/17_Non_Communicable_Disease/test.sql"
-          }
-        }
-      ]
-    }
-  },
+  
   "18_New_Outpatient_Morbidity_2": {
     "name": "18_New_Outpatient_Morbidity_2",
     "DHISProgram": true,
@@ -1541,7 +1564,7 @@
   
   
   "EWARS Plus": {
-    "name": "EWARS Plus",
+    "name": "EWARS Plus (Covid-19)",
     "DHISProgram": true,
     "type": "concatenated",
     "config": {

@@ -73,4 +73,7 @@ FROM
       first_concept.person_id = second_concept.person_id
         LEFT OUTER JOIN
     person p ON first_concept.person_id = p.person_id
-GROUP BY  first_answers.answer_name;
+WHERE first_answers.answer_name != 'Not applicable'
+GROUP BY first_answers.answer_name
+ORDER BY FIELD(first_answers.answer_name,'Ultra poor or poor','Helpless or destitute','Disabled','Sr. citizens greater than 60 years','FCHV','Gender based violence','Others')
+
