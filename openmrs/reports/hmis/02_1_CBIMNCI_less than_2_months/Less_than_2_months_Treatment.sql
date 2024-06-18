@@ -201,4 +201,4 @@ group by drug_group,agegroup
 ) first_concept ON first_concept.drug_group = drugs.drug_name
  and age_days_grp.age_days = first_concept.agegroup
  GROUP BY drugs.drug_name,age_days_grp.age_days
-ORDER BY drugs.drug_name;
+ORDER BY FIELD(drugs.drug_name,'Ampicillin','Amoxicillin','Other Antibiotics');
