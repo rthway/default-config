@@ -298,10 +298,10 @@
           }
         },
         {
-          "name": "Childhood Illness (less than 2 months) Follow up and other antibiotics",
+          "name": "Childhood Illness PSBI LBI Jaundice Breastfed difficuilty feeding or low weight (less than 2 months)",
           "type": "MRSGeneric",
           "config": {
-            "sqlPath": "/var/www/bahmni_config/openmrs/reports/hmis/02_1_CBIMNCI_less than_2_months/LessThan_2Mnth_followup_other_abtibiotics_Count_chd.sql"
+            "sqlPath": "/var/www/bahmni_config/openmrs/reports/hmis/02_1_CBIMNCI_less than_2_months/LessThan_2Mnths_ALL_other_Categories_Count_chd.sql"
           }
         },
         {
@@ -319,17 +319,10 @@
           }
         },
         {
-          "name": "Childhood Illness PSBI LBI Jaundice Breastfed difficuilty feeding or low weight (less than 2 months)",
+          "name": "Childhood Illness Follow up(less than 2 months)",
           "type": "MRSGeneric",
           "config": {
-            "sqlPath": "/var/www/bahmni_config/openmrs/reports/hmis/02_1_CBIMNCI_less than_2_months/LessThan_2Mnths_ALL_other_Categories_Count_chd.sql"
-          }
-        },
-        {
-          "name": "Total death less than 2 months",
-          "type": "MRSGeneric",
-          "config": {
-            "sqlPath": "/var/www/bahmni_config/openmrs/reports/hmis/02_1_CBIMNCI_less than_2_months/LessThan_2Mnth_death_Count_chd.sql"
+            "sqlPath": "/var/www/bahmni_config/openmrs/reports/hmis/02_1_CBIMNCI_less than_2_months/LessThan_2Mnth_Follow-Up.sql"
           }
         },
         {
