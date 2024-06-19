@@ -60,7 +60,7 @@ AND oAdtType.question_full_name IN ('IMAM-Admission type' , 'IMAM-Status at disc
 GROUP BY `Age Group` , `Sex`
 UNION ALL SELECT '< 6 month', 'F', 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
 UNION ALL SELECT '< 6 month', 'M', 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
-UNION ALL SELECT '< 6 month', 'O', 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+
 
 ) AS withoutDefaulters
 LEFT JOIN (
@@ -92,7 +92,7 @@ AND TIMESTAMPDIFF(MONTH, p.birthdate, v.date_started) < 60
 GROUP BY `Age Group` , `Sex`
 UNION ALL SELECT '< 6 month', 'F', 0
 UNION ALL SELECT '< 6 month', 'M', 0
-UNION ALL SELECT '< 6 month', 'O', 0
+
 
 ) AS defaultersCount ON defaultersCount.Sex = withoutDefaulters.Sex
 AND withoutDefaulters.`Age Group` = defaultersCount.`Age Group`
