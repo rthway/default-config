@@ -363,20 +363,6 @@
           }
         },
         {
-          "name": "Childhood Illness(2-59) total Follow up",
-          "type": "MRSGeneric",
-          "config": {
-            "sqlPath": "/var/www/bahmni_config/openmrs/reports/hmis/02_2_CBIMNCI_2to59_months/2_59_months_followup.sql"
-          }
-        },
-        {
-          "name": "Childhood Illness(2-59) total treatment",
-          "type": "MRSGeneric",
-          "config": {
-            "sqlPath": "/var/www/bahmni_config/openmrs/reports/hmis/02_2_CBIMNCI_2to59_months/2_59_months_Treatment.sql"
-          }
-        },
-        {
           "name": "Childhood Illness (2-59) total Ear Infection cases",
           "type": "MRSGeneric",
           "config": {
@@ -388,6 +374,20 @@
           "type": "MRSGeneric",
           "config": {
             "sqlPath": "/var/www/bahmni_config/openmrs/reports/hmis/02_2_CBIMNCI_2to59_months/2_59_months_Severe_malnutrition.sql"
+          }
+        },
+        {
+          "name": "Childhood Illness(2-59) total treatment",
+          "type": "MRSGeneric",
+          "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/reports/hmis/02_2_CBIMNCI_2to59_months/2_59_months_Treatment.sql"
+          }
+        },
+        {
+          "name": "Childhood Illness(2-59) total Follow up",
+          "type": "MRSGeneric",
+          "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/reports/hmis/02_2_CBIMNCI_2to59_months/2_59_months_followup.sql"
           }
         },
         {

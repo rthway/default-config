@@ -1,7 +1,8 @@
 
 SELECT 
    -- first_answers.answer_name AS first_concept_name,
-    COUNT(DISTINCT (first_concept.person_id)) AS 'Severe Malnutrition'
+   first_answers.answer_name AS 'Malnutrition Type',
+    COUNT(DISTINCT (first_concept.person_id)) AS 'Malnutrition Count'
 FROM
     (SELECT 
         ca.answer_concept AS answer,
@@ -15,7 +16,7 @@ FROM
     INNER JOIN concept_answer ca ON c.concept_id = ca.concept_id
     INNER JOIN concept_name answer_concept_fully_specified_name ON ca.answer_concept = answer_concept_fully_specified_name.concept_id
         AND answer_concept_fully_specified_name.concept_name_type = 'FULLY_SPECIFIED'
-        AND answer_concept_fully_specified_name.name IN ('SAM')
+        AND answer_concept_fully_specified_name.name IN ('SAM','MAM')
         AND answer_concept_fully_specified_name.voided
         IS FALSE
     LEFT JOIN concept_name answer_concept_short_name ON ca.answer_concept = answer_concept_short_name.concept_id

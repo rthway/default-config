@@ -3,13 +3,10 @@ SELECT
  ifnull(first_concept.count_total,0) as 'Total Patient (2-59) months'
 FROM
     (select  'Retinol (Vitamin A)'  as answer_name union 
-	select  'Other Antibiotics' as answer_name union 
-	select  'ORS only'  as answer_name union 
 	select  'ORS and Zinc'  as answer_name union 
 	select  'IV Fluid'  as answer_name union 
 	select  'Anti-helminthes'  as answer_name union 
-	select 'Amoxicillin'  as answer_name union
-	select 'Contrim'  as answer_name
+	select 'Amoxicillin'  as answer_name 
     ORDER BY answer_name DESC) first_answers
         LEFT OUTER JOIN
 
@@ -217,4 +214,4 @@ group by drug_group ) first_concept ON first_concept.drug_group = first_answers.
 
 
 GROUP BY first_answers.answer_name
-ORDER BY first_answers.answer_name;
+ORDER BY FIELD(first_answers.answer_name,'Amoxicillin','ORS and Zinc','IV Fluid','Anti-helminthes','Retinol (Vitamin A)');
