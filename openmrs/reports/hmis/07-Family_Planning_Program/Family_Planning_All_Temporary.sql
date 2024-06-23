@@ -189,5 +189,6 @@ GROUP BY method
 ORDER BY method desc)
 defaulting ON defaulting.method=new_user.method
 LEFT JOIN familyPlanning fp ON 1=1
+WHERE new_user.method NOT IN ('Other')
 GROUP BY new_user.method
-order by new_user.method desc
+order by FIELD(new_user.method,'Condoms','Emergency contraceptive pills','Pills','Depo','Sayana Press','IUCD','Implant','Minilap','Vasectomy') 

@@ -518,7 +518,7 @@
           }
         },
         {
-          "name": "CHX applied in cord",
+          "name": "Breast feeding and CHX applied in cord",
           "type": "MRSGeneric",
           "config": {
             "sqlPath": "/var/www/bahmni_config/openmrs/reports/hmis/07_Maternal_And_New-born_Health/CHX_applied_in_cord.sql"
@@ -572,12 +572,12 @@
           "config": {
             "sqlPath": "/var/www/bahmni_config/openmrs/reports/hmis/07_Maternal_And_New-born_Health/Maternal_Death.sql"
           }
-        },
+        },        
         {
-          "name": "Safe Abortion Service",
+          "name": "Safe Abortion Total",
           "type": "MRSGeneric",
           "config": {
-            "sqlPath": "/var/www/bahmni_config/openmrs/reports/hmis/07_Maternal_And_New-born_Health/Safe_Abortion_Service.sql"
+            "sqlPath": "/var/www/bahmni_config/openmrs/reports/hmis/07_Maternal_And_New-born_Health/Safe_Abortion_Total.sql"
           }
         },
         {
@@ -588,10 +588,10 @@
           }
         },
         {
-          "name": "Safe Abortion Total",
+          "name": "PAC Service",
           "type": "MRSGeneric",
           "config": {
-            "sqlPath": "/var/www/bahmni_config/openmrs/reports/hmis/07_Maternal_And_New-born_Health/Safe_Abortion_Total.sql"
+            "sqlPath": "/var/www/bahmni_config/openmrs/reports/hmis/07_Maternal_And_New-born_Health/Safe_Abortion_Service.sql"
           }
         }
       ]

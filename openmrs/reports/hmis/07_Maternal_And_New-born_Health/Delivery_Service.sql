@@ -51,4 +51,4 @@ FROM
         DATE(o1.obs_datetime) BETWEEN '#startDate#' AND '#endDate#'
            ) first_concept ON first_concept.answer = first_answers.answer
 GROUP BY first_answers.answer_name
-ORDER BY first_answers.answer_name DESC
+ORDER BY FIELD(first_answers.answer_name,'SBA','SPH','Non SBA','Delivery on House') 

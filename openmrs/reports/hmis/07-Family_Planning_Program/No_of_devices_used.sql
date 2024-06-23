@@ -89,5 +89,6 @@ FROM
         CAST(v1.date_started AS DATE)  BETWEEN  '#startDate#' AND '#endDate#') second_concept ON 
          first_concept.person_id = second_concept.person_id
         AND first_concept.visit_id = second_concept.visit_id
-      
-GROUP BY first_answers.answer_name;
+WHERE first_answers.answer_name NOT IN ('Other','Minilap')      
+GROUP BY first_answers.answer_name
+order by FIELD(first_answers.answer_name,'Condoms','emergency contraceptive pills','Pills','Depo','Sayana Press','IUCD','Implant','Minilap','Vasectomy') 

@@ -17,7 +17,7 @@ FROM
     INNER JOIN concept_answer ca ON c.concept_id = ca.concept_id
     INNER JOIN concept_name answer_concept_fully_specified_name ON ca.answer_concept = answer_concept_fully_specified_name.concept_id
         AND answer_concept_fully_specified_name.concept_name_type = 'FULLY_SPECIFIED'
-                AND answer_concept_fully_specified_name.name NOT IN ('Not present')
+                AND answer_concept_fully_specified_name.name NOT IN ('Not present','Not applicable')
 
         AND answer_concept_fully_specified_name.voided
         IS FALSE
@@ -26,7 +26,7 @@ FROM
         AND answer_concept_short_name.voided
         IS FALSE
     WHERE
-        question_concept_name.name IN ('Delivery-Complication present','ANC-Obstetric Complication')
+        question_concept_name.name IN ('Delivery-Complication present','ANC-Obstetric Complication','PNC-Obstructive complication')
             AND cd.name = 'Coded'
     ORDER BY answer_name DESC) first_answers
         LEFT OUTER JOIN
@@ -38,7 +38,7 @@ FROM
         obs o1
     INNER JOIN concept_name cn1 ON o1.concept_id = cn1.concept_id
         AND cn1.concept_name_type = 'FULLY_SPECIFIED'
-        AND cn1.name IN ('Delivery-Complication present','ANC-Obstetric Complication')
+        AND cn1.name IN ('Delivery-Complication present','ANC-Obstetric Complication','PNC-Obstructive complication')
         AND o1.voided = 0
         AND cn1.voided = 0
     INNER JOIN concept_name cn2 ON o1.value_coded = cn2.concept_id
@@ -53,4 +53,5 @@ FROM
         DATE(e.encounter_datetime) BETWEEN DATE('#startDate#') AND DATE('#endDate#')
             AND o1.value_coded IS NOT NULL) first_concept ON first_concept.answer = first_answers.answer
 GROUP BY first_answers.answer_name
-ORDER BY FIELD(first_answers.answer_name,'Ectopic pregnancy','Abortion complication','Severe pre-eclampsia','Eclampsia','RH negative','Antepartum hemmorage','Prolonged labour','Obstructed Labour','Gestational [pregnancy-induced] hypertension','Ruptured Uterus','Postpartum haemorrhage','Retained placenta','Pueperal sepsis','C-Section Wound Infection','Others','Antepartum haemorrhage');
+ORDER BY FIELD(first_answers.answer_name,'Ectopic pregnancy','Abortion complications','Pre-Eclampsia','Eclampsia','Hypermesis Gravidraum','Antepartum haemorrhage','Prolonged labour',
+'obstructed labour','Gestational hypertension','Ruptured uterus','Postpartum haemorrhage','Retained placenta','Pueperal sepsis','C-Section Wound Infection','Other complications');

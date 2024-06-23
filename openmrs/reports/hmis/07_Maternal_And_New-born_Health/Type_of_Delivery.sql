@@ -4,10 +4,14 @@ SELECT final.TypeofDelivery AS 'Type of Delivery',
   sum(final.Breech) AS 'Breech Presentation'
 FROM
 -- ----------------------------------------------
-(SELECT DeliveryDetails.TypeofDelivery AS TypeofDelivery,
-SUM(IF(DeliveryDetails.Presentation LIKE '%Cephalic%', 1, 0)) AS Cephalic,
-SUM(IF(DeliveryDetails.Presentation LIKE '%Shoulder%', 1, 0)) AS Shoulder,
-SUM(IF(DeliveryDetails.Presentation LIKE '%Breech%', 1, 0)) AS Breech
+(SELECT 
+  CASE
+    WHEN DeliveryDetails.TypeofDelivery IN ('Vacuum assisted', 'Forceps assisted') THEN 'Vacuum / Forceps assisted'
+    ELSE DeliveryDetails.TypeofDelivery
+  END AS TypeofDelivery,
+  SUM(IF(DeliveryDetails.Presentation LIKE '%Cephalic%', 1, 0)) AS Cephalic,
+  SUM(IF(DeliveryDetails.Presentation LIKE '%Shoulder%', 1, 0)) AS Shoulder,
+  SUM(IF(DeliveryDetails.Presentation LIKE '%Breech%', 1, 0)) AS Breech
 FROM
 (SELECT DISTINCT T1.person_id, T1.Answer AS 'Presentation', T2.Answer AS 'TypeofDelivery' FROM
 (SELECT DISTINCT t1.person_id, t5.name AS Question, t2.name AS Answer FROM obs t1
@@ -34,13 +38,14 @@ AND t1.voided = 0 AND
 (DATE(t1.obs_datetime) BETWEEN '#startDate#' AND '#endDate#')
 GROUP BY t1.person_id, t5.name, t2.Name) T2 ON
 T1.person_id = T2.person_id) DeliveryDetails
-GROUP BY DeliveryDetails.TypeofDelivery
+GROUP BY 
+  CASE
+    WHEN DeliveryDetails.TypeofDelivery IN ('Vacuum assisted', 'Forceps assisted') THEN 'Vacuum / Forceps assisted'
+    ELSE DeliveryDetails.TypeofDelivery
+  END
 -- ----------------------------------------------
 UNION ALL SELECT 'Caesarean section',0,0,0
-UNION ALL SELECT 'Forceps assisted',0,0,0
-UNION ALL SELECT 'Vacuum assisted',0,0,0
+UNION ALL SELECT 'Vacuum / Forceps assisted',0,0,0
 UNION ALL SELECT 'Spontaneous vaginal delivery',0,0,0) final
 GROUP BY final.TypeofDelivery
- -- ORDER BY final.TypeofDelivery;
-ORDER BY field(final.TypeofDelivery,'Caesarean section','Spontaneous vaginal delivery','Forceps assisted','Vacuum assisted');
-
+ORDER BY FIELD(final.TypeofDelivery,'Spontaneous vaginal delivery', 'Vacuum / Forceps assisted', 'Caesarean section');
